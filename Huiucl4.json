@@ -31,9 +31,9 @@
           "1": "Uan huisaho motui | Uan alci malo (그것은 느리게 작동한다. | 그것은 아주 똑똑하다.)",
           "2": "Uan huisaho motakl | Uan alci malakl (그것은 느리게 작동했다. | 그것은 아주 똑똑했다.)",
           "3": "Uan huisaho motad | Uan alci malad (그것은 느리게 작동할 것이다. | 그것은 아주 똑똑할 것이다)",
-          "4": "Uan la ichuc huisaho motui (그것은 느리게 작동하는 기계이다.)",
-          "5": "Uan ichuc huisaho motakl (그것은 느리게 작동했던 기계이다.)",
-          "6": "Uan ichuc huisaho motad (그것은 느리게 작동할 기계이다.)",
+          "4": "Uan la ichuali huisaho motui (그것은 느리게 작동하는 기계이다.)",
+          "5": "Uan ichuali huisaho motakl (그것은 느리게 작동했던 기계이다.)",
+          "6": "Uan ichuali huisaho motad (그것은 느리게 작동할 기계이다.)",
           "7": "Uan la ili alci huisaho. | Uan la naml tuito coacilach (그것은 아주 느린 사람이다. | 그것은 길게 연속한 숫자이다.)"
         }
       },
@@ -373,155 +373,135 @@
         }
       },
       "현상/에너지": {
-        "huiso aclacahua": {
-          "뜻": "바람"
-        },
-        "tachul": {
-          "뜻": "번개"
-        },
         "shansul": {
           "뜻": "무지개"
         },
-        "tanshul": {
-          "뜻": "전기"
-        },
-        "amacul": {
-          "뜻": "천둥"
-        },
-        "acacul": {
-          "뜻": "연기"
+        "cuacul": {
+          "뜻": "전기",
+          "파생": {
+            "huiso cuacul": "빠른 전기(번개)",
+            "cuacul'o cahakla": "전기의 소리(천둥)"
+          }
         },
         "sucul": {
           "뜻": "현상"
         },
         "hamanul": {
           "뜻": "에너지"
-        },
-        "hantul": {
-          "뜻": "지진"
         }
       },
       "환경": {
-        "isaclinal": {
-          "뜻": "(사막/황무지)"
-        },
-        "chuchlinal": {
-          "뜻": "(산/숲)",
+        "dali": {
+          "뜻": "지형/지역/환경/날씨/기후/온도",
           "파생": {
-            "tslahua chuchlinal": "화산"
+            "dalo dali": "평평한 지형(평원)",
+            "huali dali": "나무 지형(산/숲)",
+            "tslahua huali dali": "불타는 나무 지형(화산)",
+            "ticl dali": "모래 지형(사막/황무지/해변)",
+            "aclatliahua'o alaka": "공기의 물(구름/비/눈)",
+            "alui alaka": "흐르는 물(강/계곡/개울)",
+            "tuitaho alaka": "작은 물(저수지/호수)",
+            "tuito alaka": "큰 물(바다)",
+            "tuito alui alaka": "크게 흐르는 물(홍수)",
+            "alahua alaka": "물이 흐르지 않음(가뭄)"
           }
-        },
-        "linaldialal": {
-          "뜻": "(평원)"
-        },
-        "linal": {
-          "뜻": "지형/지역/환경/날씨/기후"
-        },
-        "tamlal": {
-          "뜻": "온도"
-        },
-        "sumcal": {
-          "뜻": "구름"
         }
       },
-      "행성/위성/항성": {
-        "klasl": {
-          "뜻": "태양/n년"
+      "행성/위성/항성/수사": {
+        "hlo": {
+          "뜻": "태양/n년 | 1"
         },
-        "tasl": {
-          "뜻": "수성"
+        "to": {
+          "뜻": "수성 | 2"
         },
-        "masl": {
-          "뜻": "금성"
+        "mo": {
+          "뜻": "금성 | 3"
         },
-        "diasl": {
-          "뜻": "지구"
+        "do": {
+          "뜻": "지구 | 4"
         },
-        "kasl": {
-          "뜻": "화성"
+        "tslo": {
+          "뜻": "화성 | 5"
         },
-        "hasl": {
-          "뜻": "목성"
+        "ho": {
+          "뜻": "목성 | 6"
         },
-        "casl": {
-          "뜻": "토성"
+        "co": {
+          "뜻": "토성 | 7"
         },
-        "lasl": {
-          "뜻": "천왕성"
+        "lo": {
+          "뜻": "천왕성 | 8"
         },
-        "nasl": {
-          "뜻": "해왕성"
+        "no": {
+          "뜻": "해왕성 | 9"
         },
-        "qasl": {
-          "뜻": "명왕성"
+        "tlo": {
+          "뜻": "명왕성 | 10"
         },
-        "diasanusl": {
-          "뜻": "dia + sanu + sl (달)"
+        "clo": {
+          "뜻": "지구를 보조하는 위성(달 | 0)"
         },
-        "sl": {
+        "kno": {
           "뜻": "행성/별/위성"
         }
       },
       "생물": {
         "식물": {
-          "uhuch": {
+          "hoali": {
             "뜻": "꽃/식물/야채/잡초"
           },
-          "chuch": {
+          "huali": {
             "뜻": "나무/막대기/덤불/줄기"
           },
-          "cauch": {
+          "hali": {
             "뜻": "씨앗"
           }
         },
         "장기/기관": {
-          "cucn": {
+          "cuali": {
             "뜻": "껍질/가죽/털"
           },
-          "ucn": {
+          "uali": {
             "뜻": "뇌/신경/장기"
           },
-          "lacn": {
-            "뜻": "눈"
+          "cli": {
+            "뜻": "얼굴",
+            "파생": {
+              "halucui cli": "눈",
+              "cuanui cli": "코",
+              "cuacui cli": "입",
+              "cahakla cli": "귀"
+            }
           },
-          "smacn": {
-            "뜻": "코"
-          },
-          "nuhucn": {
-            "뜻": "입"
-          },
-          "kukucn": {
-            "뜻": "귀"
-          },
-          "hacn": {
+          "kali": {
             "뜻": "다리(동물의)",
             "파생": {
               "hacnahua": "팔/잎"
             }
           },
-          "macn": {
+          "mali": {
             "뜻": "손",
             "파생": {
               "macnahua": "발/뿌리"
             }
           },
-          "hicn": {
+          "lali": {
             "뜻": "근육"
           },
-          "atlacn": {
-            "뜻": "이빨"
+          "cuatli": {
+            "뜻": "이빨/뼈"
           },
-          "halascn": {
-            "뜻": "피"
+          "muali": {
+            "뜻": "피/채액"
           },
-          "calacn": {
-            "뜻": "세포"
+          "calali": {
+            "뜻": "세포/피부"
           }
         },
-        "shicn": {
+        "shali": {
           "뜻": "유전/유전자"
         },
-        "nincn": {
+        "nali": {
           "뜻": "생태계"
         }
       },
@@ -529,55 +509,55 @@
         "chacli": {
           "뜻": "물질"
         },
-        "asachla": {
+        "comualili": {
           "뜻": "분자"
         },
-        "nicuchla": {
+        "omualili": {
           "뜻": "원소"
         },
-        "hachla": {
+        "tlacli": {
           "뜻": "입자"
         },
-        "unmichla": {
+        "cuacacli": {
           "뜻": "전자"
         },
-        "anaichla": {
+        "cacli": {
           "뜻": "원자"
         }
       },
       "사고/부상/병": {
-        "isuch": {
+        "huachli": {
           "뜻": "독"
         },
         "asich": {
           "뜻": "상처"
         },
-        "acmich": {
+        "osichli": {
           "뜻": "재난/사고"
         },
-        "achich": {
+        "hacachli": {
           "뜻": "암"
         },
-        "huch": {
+        "achli": {
           "뜻": "증상"
         },
-        "inmuch": {
-          "뜻": "중독"
+        "huachlin cualui": {
+          "뜻": "독이 지배하다(중독되다 | 중독되게 | 중독되는 | 중독)"
         }
       },
       "이외": {
-        "ucl": {
+        "uicl": {
           "뜻": "대륙",
           "파생": {
-            "taniucl": "아시아",
-            "audilaucl": "유럽",
-            "hactaudilaucl": "아메리카",
-            "milaucl": "아프리카",
-            "hactanucl": "오세아니아",
-            "hactdiadiliucl": "남극"
+            "atadluicl": "아시아",
+            "adluicl": "유럽",
+            "hacadluicl": "아메리카",
+            "miluicl": "아프리카",
+            "hauaclil": "오세아니아",
+            "hacaladluicl": "남극"
           }
         },
-        "isacl": {
+        "ticl": {
           "뜻": "모래"
         },
         "cinicl": {
@@ -589,13 +569,13 @@
       }
     },
     "장소": {
-      "hams": {
+      "tuitath": {
         "뜻": "도시",
         "파생": {
-          "hamsahua": "시골/마을"
+          "tuitahath": "시골/마을"
         }
       },
-      "hacus": {
+      "ath": {
         "뜻": "장소"
       }
     },
@@ -669,211 +649,204 @@
         "ili": {
           "뜻": "사람/개인/인물",
           "파생": {
-            "ilidi": "군중/사람들"
+            "ilidi": "군중/사람들",
+            "hacilidi": "인류"
           }
         },
-        "ucsili": {
-          "뜻": "인류"
-        },
-        "uihili": {
+        "tuito ili": {
           "뜻": "어른",
           "파생": {
-            "uihahili": "어린이/청소년/아기"
+            "tuitaho ili": "어린이/청소년/아기"
           }
         }
       },
       "경제/제도": {
-        "isiml": {
+        "kantlat": {
           "뜻": "국가/제국"
         },
-        "huiml": {
-          "뜻": "전략/제도"
-        },
-        "numaml": {
-          "뜻": "사회"
+        "ili'o quanatl": {
+          "뜻": "사회/인터넷"
         }
       }
     },
     "외부/내부/방향/위치": {
-      "madil": {
+      "madl": {
         "뜻": "아래"
       },
-      "nadil": {
+      "nadl": {
         "뜻": "위"
       },
-      "sadil": {
+      "sadl": {
         "뜻": "외부"
       },
-      "tadil": {
+      "tadl": {
         "뜻": "내부"
       },
-      "cadil": {
+      "cadl": {
         "뜻": "측면"
       },
-      "tani": {
+      "atadl": {
         "뜻": "동(동쪽)"
       },
-      "audil": {
+      "adl": {
         "뜻": "서(서쪽)"
       },
-      "uatla": {
+      "ahadl": {
         "뜻": "북(북쪽)"
       },
-      "diadili": {
+      "aladl": {
         "뜻": "남(남쪽)"
       }
     },
-    "acsac": {
-      "뜻": "목록"
-    },
-    "ichuc": {
+    "ichuali": {
       "뜻": "기계/기관"
     },
-    "uclic": {
+    "akuali": {
       "뜻": "기준/표준"
     },
-    "usnuc": {
+    "chuali": {
       "뜻": "기회"
     },
-    "muhic": {
+    "tsali": {
       "뜻": "단계/절차"
     },
-    "husc": {
+    "cali": {
       "뜻": "단어",
       "파생": {
-        "huscdi": "단어들/문장",
-        "huscdicoaciluil": "문맥"
+        "calidi": "단어들/문장",
+        "coacilui calidi": "문맥"
       }
     },
-    "ucic": {
+    "sadli": {
       "뜻": "모습/외간/표면",
       "파생": {
-        "ucicahua": "내면"
+        "sadahali": "내면"
       }
     },
-    "uhsac": {
+    "tluali": {
       "뜻": "문/창문/벽"
     },
-    "aclac": {
+    "aclatli": {
       "뜻": "바닥/땅/흙",
       "파생": {
-        "aclacahua": "천장/하늘/공기/산소"
+        "aclatahali": "천장/하늘/공기/산소",
+        "alui aclatahali": "흐르는 공기(바람)"
       }
     },
-    "hamac": {
+    "katli": {
       "뜻": "세부/부분"
     },
-    "mahic": {
+    "amatli": {
       "뜻": "실제"
     },
-    "cinac": {
+    "atsli": {
       "뜻": "예시"
     },
-    "cuic": {
+    "uacli": {
       "뜻": "주제"
     },
-    "nac": {
+    "nli": {
       "뜻": "계절",
       "파생": {
-        "minac": "여름",
-        "minacahua": "겨울",
-        "uinac": "봄",
-        "uinacahua": "가을"
+        "anli": "여름",
+        "anahali": "겨울",
+        "inli": "봄",
+        "inahali": "가을"
       }
     },
-    "tlaic": {
+    "clali": {
       "뜻": "공간/시간"
     },
-    "acsuc": {
+    "tsatli": {
       "뜻": "능력"
     },
-    "misac": {
+    "tamli": {
       "뜻": "모둠/단체/집단"
     },
-    "ihsic": {
+    "tantali": {
       "뜻": "무게"
     },
-    "aclic": {
+    "acli": {
       "뜻": "낮/아침/오전",
       "파생": {
-        "aclicahua": "밤/저녘/오후"
+        "acahali": "밤/저녘/오후"
       }
     },
-    "cahac": {
+    "tlatli": {
       "뜻": "방법/기술/방식"
     },
-    "icnic": {
+    "icli": {
       "뜻": "부서/분야/범주"
     },
-    "acsanc": {
+    "tacli": {
       "뜻": "상태/상황"
     },
-    "clt": {
+    "kli": {
       "뜻": "색",
-      "sumaclt": "검은색",
-      "sumacltahua": "흰색",
-      "cusaclt": "노란색",
-      "cusacltahua": "남색",
-      "sacaclt": "주황색",
-      "sacacltahua": "파란색",
-      "suiclt": "연한 초록색",
-      "suicltahua": "붉은 보라색",
-      "mucuclt": "초록색",
-      "mucucltahua": "보라색",
-      "namaclt": "빨간색",
-      "namacltahua": "청록색"
+      "akli": "검은색",
+      "akahali": "흰색",
+      "ikli": "노란색",
+      "ikahali": "남색",
+      "uakli": "주황색",
+      "uakahali": "파란색",
+      "oakli": "연한 초록색",
+      "oakahali": "붉은 보라색",
+      "okli": "초록색",
+      "okahali": "보라색",
+      "sakli": "빨간색",
+      "sakahali": "청록색"
     },
-    "hicuc": {
+    "atsonli": {
       "뜻": "성격"
     },
-    "mic": {
+    "muali": {
       "뜻": "성별"
     },
-    "cacuic": {
+    "cauacli": {
       "뜻": "세계"
     },
-    "ahcic": {
+    "cantli": {
       "뜻": "수도/중심지"
     },
-    "mucac": {
+    "acuali": {
       "뜻": "영향"
     },
-    "cumic": {
+    "tli": {
       "뜻": "오늘",
       "파생": {
-        "cumicili": "내일",
-        "cumiciklai": "어제",
-        "cumic iln": "매일"
+        "ani tli": "내일",
+        "anahi tli": "어제",
+        "iln tli": "매일"
       }
     },
-    "nasuc": {
+    "monoli": {
       "뜻": "이름"
     },
-    "macic": {
+    "uanli": {
       "뜻": "인기"
     },
-    "amac": {
+    "lanli": {
       "뜻": "자유"
     },
-    "asnic": {
+    "satli": {
       "뜻": "조건",
       "파생": {
-        "asnicaho": "무조건/반드시"
+        "sataho": "무조건/반드시"
       }
     },
-    "nicac": {
+    "tasli": {
       "뜻": "주소"
     },
-    "ahnuc": {
+    "holi": {
       "뜻": "직업"
     },
-    "hacac": {
+    "aholi": {
       "뜻": "진로"
     },
-    "accuc": {
+    "tsli": {
       "뜻": "최대",
       "파생": {
-        "accucahua": "최소"
+        "tsahali": "최소"
       }
     }
   },
@@ -974,10 +947,10 @@
         "diatsaho": "평범한 | 평범하게"
       }
     },
-    "dialo": {
+    "dalo": {
       "뜻": "평평한/매끈한 | 평평하게/매끈하게",
       "파생": {
-        "dialaho": "기울어진/울퉁불퉁한 | 기울어지게/울퉁불퉁하게"
+        "dalaho": "기울어진/울퉁불퉁한 | 기울어지게/울퉁불퉁하게"
       }
     },
     "mato": {
@@ -1035,8 +1008,9 @@
         "dui motatl": "숟가락/삽",
         "dui motath": "활주로/트램펄린/항공사",
         "dahua motath": "낙하지점",
-        "dui motui ichuc": "비행기",
-        "dahua motatl": "낙하산"
+        "dui motui ichuali": "비행기",
+        "dahua motatl": "낙하산",
+        "aclatlits motui": "땅이 움직이다(지진)"
       }
     },
     "dui": {
@@ -1054,11 +1028,11 @@
       }
     },
     "tlaqui": {
-      "뜻": "필기하다/작성하다/그리다/기록하다 | 필기하게/작성하게/그리게/기록하게 | 필기하는/작성하는/그리는/기록하는 | 필기/작성/그리는 것/기록",
+      "뜻": "필기하다/작성하다/그리다/기록하다 | 필기하게/작성하게/그리게/기록하게 | 필기하는/작성하는/그리는/기록하는 | 필기/작성/그리는 것/기록/목록",
       "파생": {
         "tlaqahua": "읽다 | 읽게 | 읽는 | 읽음",
         "tlaqatl": "필기구/미술 도구",
-        "tlaqaklatl": "종이/기록물/책",
+        "tlaqaklatl": "종이/기록물/책/메모",
         "tlaqakla": "그림",
         "tlaqili": "작성자",
         "tlaqahili": "독자",
@@ -1109,17 +1083,17 @@
         "tuito halucui": "(관찰하다 | 관찰하게 | 관찰하는 | 관찰)",
         "halucili": "관람객/관찰자/감시자",
         "halucatl": "망원경/CCTkl",
-        "tlaicm halucatl": "시간을 보는 도구(시계)",
+        "clalim halucatl": "시간을 보는 도구(시계)",
         "coacilui cuataklam halucatl": "텔레비전"
       }
     },
     "tamui": {
       "뜻": "세척하다/청소하다/정리하다/정돈하다/닦다/다리다 | 세척하게/청소하게/정리하게/정돈하게/닦게/다리게 | 세척하는/청소하는/정리하는/정돈하는/닦는/다리는 | 세척/청소/정리/정돈",
       "파생": {
-        "atlacnm tamui": "양치하다 | 양치하게 | 양치하는 | 양치",
+        "cuatlim tamui": "양치하다 | 양치하게 | 양치하는 | 양치",
         "tamatl": "비누/수건/다리미",
         "tamath": "욕실/세면대/화장실",
-        "atlacnm tamatl": "이를 닦는 도구(칫솔/치실)",
+        "cuatlim tamatl": "이를 닦는 도구(칫솔/치실)",
         "tamatl'o cusantla": "세척의 재료 (세제/치약)"
       }
     },
@@ -1141,12 +1115,12 @@
     "quanui": {
       "뜻": "잡다/사냥하다/체포하다 | 잡게/사냥하게/체포하게 | 잡는/사냥하는/체포하는 | 잡는 것/사냥.체포",
       "파생": {
-        "aclacm quanahua": "기립하다 | 기립하게 | 기립하는 | 기립",
-        "aclacm quanui": "착석하다/앉다 | 착석하게/앉게 | 착석하는/앉는 | 착석",
+        "aclatlim quanahua": "기립하다 | 기립하게 | 기립하는 | 기립",
+        "aclatlim quanui": "착석하다/앉다 | 착석하게/앉게 | 착석하는/앉는 | 착석",
         "quanahua": "놓다 | 놓게 | 놓는",
         "quanatl": "손잡이/집게/그물/망",
-        "aclacm quanatl": "의자/좌석",
-        "aclacm quanahatl": "받침대/스탠드",
+        "aclatlim quanatl": "의자/좌석",
+        "aclatlim quanahatl": "받침대/스탠드",
         "quanili": "사냥꾼",
         "quanat": "사냥감",
         "quanath": "사냥터"
@@ -1170,7 +1144,7 @@
       "뜻": "가압하다/누르다/찌르다/압박하다 | 가압하게/누르게/찌르게/압박하게 | 가압하는/누르는/찌르는/압박하는 | 가압/누르는 것/찌르는 것",
       "파생": {
         "mosahua": "당기다/빼다 | 당기게/빼게 | 당기는/빼는 | 당김",
-        "mosahua ichuc": "압축기/펌프",
+        "mosahua ichuali": "압축기/펌프",
         "mosatl": "포크/창",
         "mosath": "압력실"
       }
@@ -1308,6 +1282,10 @@
         "slan co": "궁금한 | 궁금하게 | 궁금증",
         "hakatuim cui": "농담하다 | 농담하게 | 농담하는 | 농담",
         "quim cui": "표현하다 | 표현하게 | 표현하는 | 표현",
+        "cahua": "듣다 | 듣게 | 듣는 | 듣는 것",
+        "cahili": "청취자",
+        "cahatl": "이어폰",
+        "cahakla": "들려지는 것(소리)",
         "slancili": "질문자/문의자",
         "slancahili": "응답자",
         "cili": "화자/언어학자",
@@ -1329,14 +1307,6 @@
         "koacahua": "붙이다 | 붙이게 | 붙이는 | 붙이는 것",
         "koacatl": "칼/가위",
         "koacahatl": "접착제/용접"
-      }
-    },
-    "locui": {
-      "뜻": "듣다 | 듣게 | 듣는 | 듣는 것",
-      "파생": {
-        "locili": "청취자",
-        "locatl": "이어폰",
-        "locakla": "들려지는 것(소리)"
       }
     },
     "toacui": {
@@ -1548,11 +1518,11 @@
         "nalahua": "수용하다/허락하다/동의하다/투항하다/항의하다/수락하다 | 수용하게/허락하게/동의하게/투항하게/항의하게/수락하게 | 수용하는/허락하는/동의하는/투항하는/항의하는/수락하는"
       }
     },
-    "nacui": {
+    "nliui": {
       "뜻": "근거하다 | 근거하게 | 근거하는 | 근거/이유/계기"
     },
     "malui": {
-      "뜻": "계획하다/구성하다/구상하다 | 계획하게/구성하게/구상하게 | 계획하는/구성하는/구상하는 | 계획/구성/구상"
+      "뜻": "계획하다/구성하다/구상하다 | 계획하게/구성하게/구상하게 | 계획하는/구성하는/구상하는 | 계획/구성/구상/전략/제도"
     },
     "danui": {
       "뜻": "신고하다/고소하다/경고하다 | 신고하게/고소하게/경고하게 | 신고하는/고소하는/경고하는 | 신고/고소/경고"
@@ -1584,29 +1554,22 @@
         "alaho": "단단한/딱딱한 | 단단하게/딱딱하게",
         "alaka": "물/액체",
         "tatsaho alaka": "미친 물(술)",
-        "alaka alui": "(강)",
-        "alaka alahua": "(가뭄)",
-        "alaka alui tuito": "(홍수)",
-        "alaka tuito": "(바다)",
-        "alaka tuitaho": "(개울/저수지/호수)",
-        "alaka tuito isaclinal": "(해변/해안)",
-        "alui dui": "(비)",
-        "mui dui tslui": "(눈)",
         "alath": "항구",
         "alahoka": "고체"
       }
     },
     "tslui": {
-      "뜻": "얼리다 | 얼리게 | 얼리는 | 얼림",
+      "뜻": "얼다 | 얼게 | 어는 | 얼림",
       "파생": {
         "tslahua": "불타다 | 불타게 | 불타는 | 불탐",
-        "tslahahua": "녹이다 | 녹이게 | 녹이는 | 녹임",
+        "tslahahua": "녹다 | 녹게 | 녹는 | 녹임",
         "tslo": "시원한/찬 | 시원하게/차갑게",
         "tslaho": "더운/뜨거운 | 덥게/뜨겁게",
         "tslakla": "얼음",
         "tslahaka": "불",
         "tslahatl": "성냥/라이터",
-        "tslahakla": "연료"
+        "tslahakla": "연료",
+        "tslahaka'o aclatliahua": "불의 공기(연기/매연)"
       }
     },
     "cualtui": {
