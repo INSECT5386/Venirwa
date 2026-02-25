@@ -10,10 +10,10 @@
         "할": "[대상] [미래분사화 행위어]",
         "한": "[대상] [상태어] | [대상] [행위어] - [해당 품사를 나타내는 접사] + ach",
         "예문": {
-          "1": "An maqui | An huiso (나는 생존한다. | 나는 빠르다.)",
-          "2": "An maqakl | An huisakl  (나는 생존했다. | 나는 빨랐다.)",
-          "3": "An maqad | An huisad (나는 생존할 것이다. | 나는 빠를 것이다.)",
-          "4": "An la il maqui (나는 생존하는 사람이다.)",
+          "1": "An maqe | An uiso (나는 생존한다. | 나는 빠르다.)",
+          "2": "An maqakl | An uisakl  (나는 생존했다. | 나는 빨랐다.)",
+          "3": "An maqad | An uisad (나는 생존할 것이다. | 나는 빠를 것이다.)",
+          "4": "An la il maqe (나는 생존하는 사람이다.)",
           "5": "An la il maqakl (나는 생존했던 사람이다.)",
           "6": "An la il maqad (나는 생존할 사람이다.)",
           "7": "An la il uisano | Un la naml ecultach (나는 느린 사람이다. | 그것은 연속한 숫자이다.)"
@@ -28,13 +28,13 @@
         "하게 할": "[대상] [부사] [미래분사화 행위어]",
         "하게 한": "[대상] [부사] [상태어] | [대상] [부사] [행위어] - [해당 품사를 나타내는 접사] + ach",
         "예문": {
-          "1": "Uan huisno motui | Uan alci malo (그것은 느리게 작동한다. | 그것은 아주 똑똑하다.)",
-          "2": "Uan huisno motakl | Uan alci malakl (그것은 느리게 작동했다. | 그것은 아주 똑똑했다.)",
-          "3": "Uan huisno motad | Uan alci malad (그것은 느리게 작동할 것이다. | 그것은 아주 똑똑할 것이다)",
-          "4": "Uan la ichuali huisno motui (그것은 느리게 작동하는 기계이다.)",
-          "5": "Uan ichuali huisno motakl (그것은 느리게 작동했던 기계이다.)",
-          "6": "Uan ichuali huisno motad (그것은 느리게 작동할 기계이다.)",
-          "7": "Uan la il alci uisano. | Uan la naml tuito ecultach (그것은 아주 느린 사람이다. | 그것은 길게 연속한 숫자이다.)"
+          "1": "Uan uisano ote | Uan alci malo (그것은 느리게 작동한다. | 그것은 아주 똑똑하다.)",
+          "2": "Uan uisano otakl | Uan alci malakl (그것은 느리게 작동했다. | 그것은 아주 똑똑했다.)",
+          "3": "Uan uisano otad | Uan alci malad (그것은 느리게 작동할 것이다. | 그것은 아주 똑똑할 것이다)",
+          "4": "Uan la ichuali uisano ote (그것은 느리게 작동하는 기계이다.)",
+          "5": "Uan ichuali uisano otakl (그것은 느리게 작동했던 기계이다.)",
+          "6": "Uan ichuali uisano otad (그것은 느리게 작동할 기계이다.)",
+          "7": "Uan la il alci uisano. | Uan la naml oto ecultach (그것은 아주 느린 사람이다. | 그것은 길게 연속한 숫자이다.)"
         }
       },
       "3": {
@@ -52,8 +52,8 @@
         "예문": {
           "1": "An la il (나는 사람이다.)",
           "2": "An lam'tl il (나는 사람이 아니다.)",
-          "3": "An laka maqui (나는 살고 있다.)",
-          "4": "althts ilts lakla (동물이 사람이 되다.)"
+          "3": "An laka maqe (나는 살고 있다.)",
+          "4": "maqalits ilts lakla (동물이 사람이 되다.)"
         }
       },
       "2": {
@@ -96,13 +96,13 @@
       },
       "5": {
         "[대상]은 [물체]가 필요하다": "[대상] [물체]ts mato",
-        "[대상]은 [물체]가 필요하지 않다": "[대상] [물체]ts matom'tl",
+        "[대상]은 [물체]가 불필요하다": "[대상] [물체]ts matano",
         "[대상]은 를 하지 않다": "[대상] m scam'tl",
         "[대상]은 를 하지 않았다": "[대상] m scaklm'tl",
         "[대상]은 하지 않을 것이다": "[대상] m scadm'tl",
         "예문": {
           "1": "An etets mato (나는 음식이 필요하다.)",
-          "2": "An etets matom'tl (나는 음식이 필요하지 않는다.)"
+          "2": "An etets matano (나는 음식이 필요하지 않는다.)"
         }
       }
     },
