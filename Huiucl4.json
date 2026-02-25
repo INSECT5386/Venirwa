@@ -467,10 +467,10 @@
           "cli": {
             "뜻": "얼굴",
             "파생": {
-              "halucui cli": "눈",
-              "cuanui cli": "코",
-              "cuacui cli": "입",
-              "cahakla cli": "귀"
+              "qe cli": "눈",
+              "me cli": "코",
+              "ete cli": "입",
+              "cane cli": "귀"
             }
           },
           "kali": {
