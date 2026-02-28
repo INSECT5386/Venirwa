@@ -32,9 +32,9 @@
           "1": "Uan uisano ote | Uan arci maro (그것은 느리게 작동한다. | 그것은 아주 똑똑하다.)",
           "2": "Uan uisano otakr | Uan arci marakr (그것은 느리게 작동했다. | 그것은 아주 똑똑했다.)",
           "3": "Uan uisano otad | Uan arci marad (그것은 느리게 작동할 것이다. | 그것은 아주 똑똑할 것이다)",
-          "4": "Uan ra ichuari uisano ote (그것은 느리게 작동하는 기계이다.)",
-          "5": "Uan ichuari uisano otakr (그것은 느리게 작동했던 기계이다.)",
-          "6": "Uan ichuari uisano otad (그것은 느리게 작동할 기계이다.)",
+          "4": "Uan ra coran uisano ote (그것은 느리게 작동하는 기계이다.)",
+          "5": "Uan coran uisano otakr (그것은 느리게 작동했던 기계이다.)",
+          "6": "Uan coran uisano otad (그것은 느리게 작동할 기계이다.)",
           "7": "Uan ra ir arci uisano. | Uan ra namr oto ecurtach (그것은 아주 느린 사람이다. | 그것은 길게 연속한 숫자이다.)"
         }
       },
@@ -414,7 +414,7 @@
             "huari dari": "나무 지형(산/숲)",
             "tsrahua huari dari": "불타는 나무 지형(화산)",
             "ticr dari": "모래 지형(사막/황무지/해변)",
-            "crihari'o araka": "공기의 물(구름/비/눈)",
+            "ictaur'o araka": "공기의 물(구름/비/눈)",
             "arui araka": "흐르는 물(강/계곡/개울)",
             "otano araka": "작은 물(저수지/호수)",
             "tuito araka": "큰 물(바다)",
@@ -629,9 +629,6 @@
         "sacuchat": {
           "뜻": "확률/가능성"
         },
-        "huchat": {
-          "뜻": "평균"
-        },
         "cuchat": {
           "뜻": "변수/함수"
         }
@@ -708,155 +705,146 @@
         "뜻": "남(남쪽)"
       }
     },
-    "ichuari": {
+    "corn (coran | coren | coron)": {
       "뜻": "기계/기관"
     },
-    "akuari": {
-      "뜻": "기준/표준"
-    },
-    "chuari": {
+    "tirn (tiran | tiren | tiron)": {
       "뜻": "기회"
     },
-    "tsari": {
+    "pokn (pokan | poken | pokon)": {
       "뜻": "단계/절차"
     },
-    "cari": {
+    "botn (botan | boten | boton)": {
       "뜻": "단어",
       "파생": {
-        "carij": "단어들/문장",
-        "coacirui carij": "문맥"
+        "bojtn (bojtan | bojten | bojton)": "단어들/문장",
+        "racbojtn (racbojtan | racbojten | racbojton)": "문맥"
       }
     },
-    "sasri": {
+    "mirn (miran | miren | miron)": {
       "뜻": "모습/외간/표면",
       "파생": {
-        "sashari": "내면"
+        "mirun (miraun | mireun | miroun)": "내면"
       }
     },
-    "truari": {
+    "kern (keran | keren | keron)": {
       "뜻": "문/창문/벽"
     },
-    "criri": {
+    "debn (deban | deben | debon)": {
       "뜻": "바닥/땅/흙",
       "파생": {
-        "crihari": "천장/하늘/공기/산소",
-        "arui crihari": "흐르는 공기(바람)"
+        "debun (debaun | debeun | deboun)": "천장/하늘/공기/산소",
+        "mazdebn (mazdeban | mazdeben | mazdebon)": "흐르는 공기(바람)"
       }
     },
-    "katri": {
+    "yern (yeran | yeren | yeron)": {
       "뜻": "세부/부분"
     },
-    "amatri": {
+    "murn (muran | muren | muron)": {
       "뜻": "실제"
     },
-    "atsri": {
+    "kemrn (kemran | kemren | kemron)": {
       "뜻": "예시"
     },
-    "uacri": {
+    "sorn (soran | soren | soron)": {
       "뜻": "주제"
     },
-    "nri": {
+    "pern (peran | peren | peron)": {
       "뜻": "계절",
       "파생": {
-        "anri": "여름",
-        "anahari": "겨울",
-        "inri": "봄",
-        "inahari": "가을"
+        "apern (aperan | aperen | aperon)": "여름",
+        "aperun (aperaun | apereun | aperoun)": "겨울",
+        "ipern (iperan | iperen | iperon)": "봄",
+        "iperun (iperaun | ipereun | iperoun)": "가을"
       }
     },
-    "kuari": {
+    "kirn (kiran | kiren | kiron)": {
       "뜻": "공간/시간"
     },
-    "tsatri": {
+    "thorn (thoran | thoren | thoron)": {
       "뜻": "능력"
     },
-    "tamri": {
+    "tamrn (tamran | tamren | tamron)": {
       "뜻": "모둠/단체/집단"
     },
-    "tantari": {
+    "gern (geran | geren | geron)": {
       "뜻": "무게"
     },
-    "acri": {
+    "tarn (taran | taren | taron)": {
       "뜻": "낮/아침/오전",
       "파생": {
-        "acahari": "밤/저녁/오후"
+        "tarun (taraun | tareun | taroun)": "밤/저녁/오후"
       }
     },
-    "tratri": {
+    "netrn (netran | netren | netron)": {
       "뜻": "방법/기술/방식"
     },
-    "icri": {
+    "subrn (subran | subren | subron)": {
       "뜻": "부서/분야/범주"
     },
-    "tacri": {
+    "temorn (temoran | temoren | temoron)": {
       "뜻": "상태/상황"
     },
-    "kri": {
+    "korn (koran | koren | koron)": {
       "뜻": "색",
-      "akri": "검은색",
-      "akahari": "흰색",
-      "ikri": "노란색",
-      "ikahari": "남색",
-      "uakri": "주황색",
-      "uakahari": "파란색",
-      "oakri": "연한 초록색",
-      "oakahari": "붉은 보라색",
-      "okri": "초록색",
-      "okahari": "보라색",
-      "sakri": "빨간색",
-      "sakahari": "청록색"
+      "akorn (akoran | akoren | akoron)": "검은색",
+      "akorun (akoraun | akoreun | akoroun)": "흰색",
+      "ikorn (ikoran | ikoren | ikoron)": "노란색",
+      "ikorun (ikoraun | ikoreun | ikoroun)": "남색",
+      "ukorn (ukoran | ukoren | ukoron)": "주황색",
+      "ukorun (ukoraun | ukoreun | ukoroun)": "파란색",
+      "yokorn (yokoran | yokoren | yokoron)": "연한 초록색",
+      "yokorun (yokoraun | yokoreun | yokoroun)": "붉은 보라색",
+      "okorn (okoran | okoren | okoron)": "초록색",
+      "okorun (okoraun | okoreun | okoroun)": "보라색",
+      "sakorn (sakoran | sakoren | sakoron)": "빨간색",
+      "sakorun (sakoraun | sakoreun | sakoroun)": "청록색"
     },
-    "atsonri": {
+    "drn (dran | dren | dron)": {
       "뜻": "성격"
     },
-    "muari": {
+    "burn (buran | buren | buron)": {
       "뜻": "성별"
     },
-    "cauacri": {
+    "harn (haran | haren | haron)": {
       "뜻": "세계"
     },
-    "cantri": {
+    "kinrn (kinran | kinren | kinron)": {
       "뜻": "수도/중심지"
     },
-    "acuari": {
+    "gorn (goran | goren | goron)": {
       "뜻": "영향"
     },
-    "tri": {
+    "tran": {
       "뜻": "오늘",
       "파생": {
-        "ani tri": "내일",
-        "anahi tri": "어제",
+        "tron": "내일/미래",
+        "tren": "어제/과거",
         "irn tri": "매일"
       }
     },
-    "monori": {
+    "narn (naran | naren | naron)": {
       "뜻": "이름"
     },
-    "uanri": {
+    "yabrn (yabran | yabren | yabron)": {
       "뜻": "인기"
     },
-    "ranri": {
+    "srn (sran | sren | sron)": {
       "뜻": "자유"
     },
-    "satri": {
+    "tekrn (tekran | tekren | tekron)": {
       "뜻": "조건",
       "파생": {
-        "satno": "무조건/반드시"
+        "tekrun (tekraun | tekreun | tekroun)": "무조건/반드시"
       }
     },
-    "tasri": {
+    "barn (baran | baren | baron)": {
       "뜻": "주소"
     },
-    "hori": {
-      "뜻": "직업"
-    },
-    "nori": {
-      "뜻": "진로"
-    },
-    "tsri": {
+    "henrn (henran | henren | henron)": {
       "뜻": "최대",
       "파생": {
-        "tsahari": "최소"
+        "henrun (henraun | henreun | henroun)": "최소"
       }
     }
   },
@@ -1044,12 +1032,12 @@
         "daurbetam": "현재의 낙하지점",
         "daurbetem": "과거의 낙하지점",
         "daurbetom": "미래의 낙하지점",
-        "cririts tam": "현재 지진",
-        "cririts tem": "과거의 지진",
-        "cririts tom": "미래의 지진",
-        "dartam ichuari": "현재의 비행기",
-        "dartem ichuari": "과거의 비행기",
-        "dartom ichuari": "미래의 비행기",
+        "deban tam": "현재 지진",
+        "deban tem": "과거의 지진",
+        "deban tom": "미래의 지진",
+        "dartam coran": "현재의 비행기",
+        "dartem coran": "과거의 비행기",
+        "dartom coran": "미래의 비행기",
         "daurmatm": "낙하산"
       }
     },
@@ -1336,9 +1324,9 @@
         "epaub": "현재의 당기는 자",
         "epeub": "과거의 당기는 자",
         "epoub": "미래의 당기는 자",
-        "paub ichuari": "압축기/펌프",
-        "peub ichuari": "과거의 압축기/펌프",
-        "poub ichuari": "미래의 압축기/펌프",
+        "paub coran": "압축기/펌프",
+        "peub coran": "과거의 압축기/펌프",
+        "poub coran": "미래의 압축기/펌프",
         "mapab": "포크/창",
         "mapeb": "과거의 포크/창",
         "mapob": "미래의 포크/창",
@@ -1348,9 +1336,12 @@
       }
     },
     "R-K (rak | rek | rok)": {
-      "뜻": "취침하다/자다/기절하다 | 취침하게/자게/기절하게 | 취침하는/자는/기절하는 | 취침/자는 것/기절하는 것/꿈",
+      "뜻": "취침하다/자다/기절하다 | 취침하게/자게/기절하게 | 취침하는/자는/기절하는 | 취침/자는 것/기절하는 것/꿈/환각/기절/장래/진로",
       "파생": {
         "ruk (rauk | reuk | rouk)": "기상하다 | 기상하게 | 기상하는(잠에서 깨는 것)",
+        "raik": "직업",
+        "reik": "과거의 직업",
+        "roik": "미래의 직업",
         "erak": "현재의 수면자",
         "erek": "과거의 수면자",
         "erok": "미래의 수면자",
@@ -1518,6 +1509,7 @@
     "C-K (cak | cek | cok)": {
       "뜻": "평균 조작하다/왜곡하다/거짓말하다/기만하다 | 평균 조작하게/왜곡하게/거짓말하게/기만하게 | 평균 조작하는/왜곡하는/거짓말하는/기만하는 | 평균 조작/왜곡/거짓말/기만",
       "파생": {
+        "cki (caki | ceki | coki)": "평균하다/진실을 말하다 | 평균하게/진실을 말하게 | 평균하는/진실하는 | 평균/진실/기준/표준",
         "ecak": "거짓말쟁이",
         "ecek": "과거의 거짓말쟁이",
         "ecok": "미래의 거짓말 쟁이",
@@ -1810,7 +1802,7 @@
     "N-P (nap | nep | nop)": {
       "뜻": "격려하다/위로하다/공감하다/걱정하다/조언하다/우려하다 | 격려하게/위로하게/공감하게/걱정하게/조언하게/우려하게 | 격려하는/위로하는/공감하는/걱정하는/조언하는/우려하는 | 격려/위로/공감/걱정/조언/우려",
       "파생": {
-        "nup (naup | neup | noup)": "갈등하다/질투하다/의심하다 | 갈등하게/질투하게/의심하게 | 갈등하는/혐오하는/질투하는/의심하는 | 갈등/혐오/질투/의심"
+        "nup (naup | neup | noup)": "갈등하다/질투하다/의심하다/후회하다 | 갈등하게/질투하게/의심하게 | 갈등하는/혐오하는/질투하는/의심하는 | 갈등/혐오/질투/의심"
       }
     },
     "R-C (rac | rec | roc)": {
@@ -1958,7 +1950,7 @@
         "ucb (ucab | uceb | ucob)": "시원한/찬 | 시원하게/차갑게",
         "ucub (ucaub | uceub | ucoub)": "더운/뜨거운 | 덥게/뜨겁게",
         "macab": "성냥/라이터",
-        "caub'o crihari": "불의 공기(연기/매연)"
+        "caub'o ictaur": "불의 공기(연기/매연)"
       }
     },
     "Z-D (zad | zed | zod)": {
