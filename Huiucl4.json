@@ -726,7 +726,12 @@
       }
     },
     "kirn (kiran | kiren | kiron)": {
-      "뜻": "공간/시간"
+      "뜻": "공간/시간",
+      "파생": {
+        "makiran": "시계",
+        "makiren": "시계 였던 것|과거의 시계",
+        "makiron": "시계가 될 것|미래의 시계"
+      }
     },
     "thorn (thoran | thoren | thoron)": {
       "뜻": "능력"
@@ -1039,21 +1044,17 @@
         "mapam": "필기구/미술 도구",
         "mapem": "필기구였던 것/미술 도구였던 것",
         "mapom": "미래의 필기구/미술 도구",
-        "paim": "그림",
-        "peim": "과거의 그림",
-        "poim": "미래의 그림",
-        "mapaim": "종이/기록물/책/메모",
-        "mapeim": "과거의 종이/기록물/책/메모",
-        "mapoim": "미래의 종이/기록물/책/메모",
+        "paim": "그림/종이/기록물/책/메모",
+        "peim": "과거의 그림/종이/기록물/책/메모",
         "epam": "작성자",
         "epem": "과거의 작성자/과거에 작성한 자",
         "epom": "미래에 작성할 사람",
         "epaum": "독자",
         "epeum": "읽은 사람",
         "epoum": "읽을 사람",
-        "mapaim'o beks": "도서관/미술관/박물관",
-        "mapeim'o beks": "과거의 도서관/미술관/박물관",
-        "mapoim'o beks": "지어질 도서관/미술관/박물관"
+        "bepaim": "도서관/미술관/박물관",
+        "bepeim": "과거의 도서관/미술관/박물관",
+        "bepoim": "지어질 도서관/미술관/박물관"
       }
     },
     "P-R (par | per | por)": {
@@ -1148,9 +1149,6 @@
         "mapat": "망원경/CCTV",
         "mapet": "망원경이었던 것/CCTV이었던 것|과거의 망원경/과거의 CCTV",
         "mapot": "미래의 망원경/CCTV|망원경이 될 것/CCTV가 될 것",
-        "kuarim mapat": "시계",
-        "kuarim mapet": "시계 였던 것|과거의 시계",
-        "kuarim mapot": "시계가 될 것|미래의 시계",
         "raccait mapat": "텔레비전",
         "raccait mapet": "과거의 텔레비전/텔레비전이었던 것",
         "raccait mapot": "미래의 텔레비전/텔레비전이 될 것"
@@ -1163,15 +1161,9 @@
         "emab": "현재의 세척자/청소자",
         "emeb": "과거의 세척자/청소자",
         "emob": "미래의 세척자/청소자",
-        "ecuatrim mab": "현재의 양치하는 자",
-        "ecuatrim meb": "과거의 양치했던 자",
-        "ecuatrim mob": "미래의 양치할 자",
-        "mamab": "비누/수건/다리미",
-        "mameb": "비누/수건/다리미 이었던 것| 과거의 비누/수건/다리미",
-        "mamob": "미래의 비누/수건/다리미",
-        "cuatrim mamab": "칫솔/치실",
-        "cuatrim mameb": "과거의 칫솔/치약 | 칫솔/치실이었던 것",
-        "cuatrim mamob": "미래의 칫솔/치약 | 칫솔/치실이 될 것",
+        "mamab": "비누/수건/다리미/칫솔/치실",
+        "mameb": "비누/수건/다리미 이었던 것/비누/수건/다리미/칫솔/치실",
+        "mamob": "미래의 비누/수건/다리미/칫솔/치실",
         "mabmakas": "세제/치약",
         "mebmakas": "과거의 세제/치약",
         "mobmakas": "미래의 세제/치약",
@@ -1221,33 +1213,38 @@
     "K-M (kam | kem | kom)": {
       "뜻": "잡다/사냥하다/체포하다 | 잡게/사냥하게/체포하게 | 잡는/사냥하는/체포하는 | 잡는 것/사냥.체포",
       "파생": {
-        "deban kum (deban kaum | deban keum | deban koum)": "기립하다 | 기립하게 | 기립하는 | 기립",
-        "deban km (deban kam | deban kem | deban kom)": "착석하다/앉다 | 착석하게/앉게 | 착석하는/앉는 | 착석",
+        "debankm (deban kam | deban kem | deban kom)": "-",
         "kum (kaum | keum | koum)": "놓다/사냥 당하다 | 놓게/사냥 당하게 | 놓는/사냥 당하는",
         "ekam": "현재의 사냥꾼/체포자",
         "ekem": "과거의 사냥꾼/체포자",
         "ekom": "미래의 사냥꾼/체포자",
-        "deban ekaum": "현재의 기립자",
-        "deban ekeum": "과거의 기립자",
-        "deban ekoum": "미래의 기립자",
-        "deban ekam": "현재의 앉은 자",
-        "deban ekem": "과거의 앉은 자",
-        "deban ekom": "미래에 앉을 자",
         "ekaum": "현재의 놓는 자/사냥감",
         "ekeum": "과거의 놓은 자/사냥감",
         "ekoum": "미래의 놓을 자/사냠감",
         "makam": "손잡이/집게/그물/망",
         "makem": "과거의 손잡이/집게/그물/망",
         "makom": "미래의 손잡이/집게/그물/망",
-        "deban makam": "의자/좌석",
-        "deban makem": "과거의 의자/좌석",
-        "deban makom": "미래의 의자/좌석",
-        "deban makaum": "받침대/스탠드",
-        "deban makeum": "과거의 받침대/스탠드",
-        "deban makoum": "미래의 받침대/스탠드",
         "bekam": "사냥터",
         "bekem": "과거의 사냥터",
         "bekom": "미래의 사냥터"
+      }
+    },
+    "S-V (sav | sev | sov)": {
+      "뜻": "기립하다 | 기립하게 | 기립하는 | 기립",
+      "파생": {
+        "suv (sauv | seuv | souv)": "착석하다/앉다 | 착석하게/앉게 | 착석하는/앉는 | 착석",
+        "esauv": "현재의 앉은 자",
+        "eseuv": "과거의 앉은 자",
+        "esouv": "미래에 앉을 자",
+        "esav": "현재의 기립자",
+        "esev": "과거의 기립자",
+        "esov": "미래의 기립자",
+        "masauv": "의자/좌석",
+        "maseuv": "과거의 의자/좌석",
+        "masouv": "미래의 의자/좌석",
+        "masav": "받침대/스탠드",
+        "masev": "과거의 받침대/스탠드",
+        "masov": "미래의 받침대/스탠드"
       }
     },
     "T-S (tas | tes | tos)": {
