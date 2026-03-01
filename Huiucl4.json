@@ -664,16 +664,6 @@
     "tirn (tiran | tiren | tiron)": {
       "뜻": "기회"
     },
-    "pokn (pokan | poken | pokon)": {
-      "뜻": "단계/절차"
-    },
-    "botn (botan | boten | boton)": {
-      "뜻": "단어",
-      "파생": {
-        "bojtn (bojtan | bojten | bojton)": "단어들/문장",
-        "racbojtn (racbojtan | racbojten | racbojton)": "문맥"
-      }
-    },
     "mirn (miran | miren | miron)": {
       "뜻": "모습/외간/표면/껍질/가죽/털/세포/피부/얼굴",
       "파생": {
@@ -694,9 +684,6 @@
       "파생": {
         "debun (debaun | debeun | deboun)": "천장/하늘"
       }
-    },
-    "yern (yeran | yeren | yeron)": {
-      "뜻": "세부/부분"
     },
     "murn (muran | muren | muron)": {
       "뜻": "실제"
@@ -730,23 +717,11 @@
     "tamrn (tamran | tamren | tamron)": {
       "뜻": "모둠/단체/집단"
     },
-    "gern (geran | geren | geron)": {
-      "뜻": "무게"
-    },
     "tarn (taran | taren | taron)": {
       "뜻": "낮/아침/오전",
       "파생": {
         "tarun (taraun | tareun | taroun)": "밤/저녁/오후"
       }
-    },
-    "netrn (netran | netren | netron)": {
-      "뜻": "방법/기술/방식"
-    },
-    "subrn (subran | subren | subron)": {
-      "뜻": "부서/분야/범주"
-    },
-    "temorn (temoran | temoren | temoron)": {
-      "뜻": "상태/상황"
     },
     "korn (koran | koren | koron)": {
       "뜻": "색",
@@ -764,6 +739,15 @@
       "sakorun (sakoraun | sakoreun | sakoroun)": "청록색",
       "koravn tm (koravn tam | koravn tem | koravn tom)": "무지개"
     },
+    "netrn (netran | netren | netron)": {
+      "뜻": "방법/기술/방식"
+    },
+    "subrn (subran | subren | subron)": {
+      "뜻": "부서/분야/범주"
+    },
+    "temorn (temoran | temoren | temoron)": {
+      "뜻": "상태/상황"
+    },
     "drn (dran | dren | dron)": {
       "뜻": "성격"
     },
@@ -776,9 +760,6 @@
     "kinrn (kinran | kinren | kinron)": {
       "뜻": "수도/중심지"
     },
-    "gorn (goran | goren | goron)": {
-      "뜻": "영향"
-    },
     "tran": {
       "뜻": "오늘",
       "파생": {
@@ -787,14 +768,8 @@
         "irn tri": "매일"
       }
     },
-    "narn (naran | naren | naron)": {
-      "뜻": "이름"
-    },
     "yabrn (yabran | yabren | yabron)": {
       "뜻": "인기"
-    },
-    "srn (sran | sren | sron)": {
-      "뜻": "자유"
     },
     "tekrn (tekran | tekren | tekron)": {
       "뜻": "조건",
@@ -938,7 +913,8 @@
     "설정": {
       "-a-": "하다/하게/하는/함",
       "-e-": "했다/했던/했음",
-      "-o-": "할 것이다/할/할 것"
+      "-o-": "할 것이다/할/할 것",
+      "1": "2개의 자음을 어근으로 두는 단어들을 1군이라 한다. 3개의 자음을 어근으로 두는 단어들을 2군이라 한다."
     },
     "T-K (tak | tek | tok)": {
       "뜻": "이동하다/가다/운전하다/걷다/산책하다 | 가게/이동하게 | 이동하는/가는 | 이동/감/산책",
@@ -959,7 +935,10 @@
         "betok": "미래의 산책로/공원/길/도로/거리",
         "betauk": "현재의 대기실/정류장",
         "beteuk": "과거의 대기실/정류장",
-        "betouk": "미래의 대기실/정류장"
+        "betouk": "미래의 대기실/정류장",
+        "taka": "단계/절차",
+        "teke": "과거의 단계/절차",
+        "toko": "미래의 단계/절차"
       }
     },
     "K-R (kar | ker | kor)": {
@@ -1476,7 +1455,7 @@
       }
     },
     "C-R (car | cer | cor)": {
-      "뜻": "장난치다/놀다 | 장난치게/놀게 | 장난치는/노는 | 여가/장난/놀이",
+      "뜻": "장난치다/놀다/농담하다 | 장난치게/놀게/농담하게 | 장난치는/노는/농담하는 | 여가/장난/놀이/농담",
       "파생": {
         "ecar": "놀이꾼/광대/노는 사람",
         "ecer": "과거의 놀이꾼/광대/노는 사람",
@@ -1525,20 +1504,12 @@
       }
     },
     "N-D (nad | ned | nod)": {
-      "뜻": "말하다/의사소통하다/언급하다/주장하다/이야기하다/연설하다/토론하다/전화하다 | 말하게/의사소통하게/언급하게/주장하게/이야기하게/연설하게/토론하게/전화하게 | 말하는/의사소통하는/언급하는/주장하는/이야기하는/연설하는/토론하는/전화하는 | 말/의사소통/언급/주장/이야기/연설/언어/전화",
+      "뜻": "말하다/의사소통하다/언급하다/주장하다/이야기하다/연설하다/토론하다/전화하다 | 말하게/의사소통하게/언급하게/주장하게/이야기하게/연설하게/토론하게/전화하게 | 말하는/의사소통하는/언급하는/주장하는/이야기하는/연설하는/토론하는/전화하는 | 말/의사소통/언급/주장/이야기/연설/언어/전화/단어",
       "파생": {
-        "crinud (crinaud | crineud | crinoud)": "대답하다/응답하다 | 대답하게/응답하게 | 대답하는/응답하는 | 대답/응답",
-        "crind (crinad | crined | crinod)": "질문하다/문의하다 | 질문하게/문의하게 | 질문하는/문의하는 | 질문/문의/의견",
-        "nadbd (nadbad | nadbed | nadbod)": "번역하다/말을 바꾸다 | 번역하게/말을 바꾸게 | 번역하는/말을 바꾸는",
         "umauknd (umauknad | umaukned | umauknod)": "비난하다 | 비난하게 | 비난하는 | 비난/무례한 말/욕",
         "mtand (mtanad | mtaned | mtanod)": "비판하다 | 비판하게 | 비판하는 | 비판",
         "nadruc (nadrauc | nadreuc | nadrouc)": "침묵하다 | 침묵하게 | 침묵하는 | 침묵",
-        "kraund (kraunad | krauned | kraunod)": "속삭이다 | 속삭이게 | 속삭이는 | 속삭임",
-        "krand (kranad | kraned | kranod)": "소리 지르다 | 소리 지르게 | 소리 지르는 | 소리 지름/비명",
-        "causnd (causnad | causned | causnod)": "요약하다 | 요약하게 | 요약하는 | 요약",
         "criund (criunad | criuned | criunod)": "궁금한 | 궁금하게 | 궁금증",
-        "yapnd (yapnad | yapned | yapnod)": "농담하다 | 농담하게 | 농담하는 | 농담",
-        "nacnd (nacnad | nacned | nacnod)": "표현하다 | 표현하게 | 표현하는 | 표현",
         "nud (naud | neud | noud)": "듣다 | 듣게 | 듣는 | 듣는 것",
         "enaud": "청취자",
         "eneud": "과거의 청취자",
@@ -1549,19 +1520,51 @@
         "naid": "소리",
         "neid": "과거의 소리",
         "noid": "미래의 소리",
-        "crinadir": "질문자/문의자",
-        "crinedir": "과거의 질문자/문의자",
-        "crinodir": "미래의 질문자/문의자",
-        "crinaudir": "응답자",
-        "crineudir": "과거의 응답자",
-        "crinoudir": "미래의 응답자",
         "enad": "화자/언어학자",
         "ened": "과거의 화자/언어학자",
         "enod": "미래의 화자/언어학자",
         "macad": "마이크/전화기",
         "maced": "과거의 마이크/전화기",
         "macod": "미래의 마이크/전화기",
+        "njad": "단어들/문장",
+        "njed": "과거의 단어들/문장",
+        "njod": "미래의 단어들/문장",
         "unad": "구두로/언어적으로/말로"
+      }
+    },
+    "N-N": {
+      "뜻": "표현하다 | 표현하게 | 표현하는 | 표현"
+    },
+    "V-M": {
+      "뜻": "요약하다 | 요약하게 | 요약하는 | 요약"
+    },
+    "Y-V (yav | yev | yov)": {
+      "뜻": "소리 지르다 | 소리 지르게 | 소리 지르는 | 소리 지름/비명",
+      "파생": {
+        "yuv (yauv | yeuv | youv)": "속삭이다 | 속삭이게 | 속삭이는 | 속삭임"
+      }
+    },
+    "V-V (vav | vev | vov)": {
+      "뜻": "번역하다/말을 바꾸다/통역하다 | 번역하게/말을 바꾸게/통역하게 | 번역하는/말을 바꾸는/통역하는 | 번역/통역",
+      "파생": {
+        "evav": "통역가",
+        "evev": "과거의 통역가",
+        "evov": "미래의 통역가",
+        "mavav": "번역기",
+        "mavev": "과거의 번역기",
+        "mavov": "미래의 번역기"
+      }
+    },
+    "V-S (vas | ves | vos)": {
+      "뜻": "질문하다/문의하다 | 질문하게/문의하게 | 질문하는/문의하는 | 질문/문의/의견",
+      "파생": {
+        "vus (vaus | veus | vous)": "대답하다/응답하다 | 대답하게/응답하게 | 대답하는/응답하는 | 대답/응답",
+        "evas": "질문자/문의자",
+        "eves": "과거의 질문자/문의자",
+        "evos": "미래의 질문자/문의자",
+        "evaus": "응답자",
+        "eveus": "과거의 응답자",
+        "evous": "미래의 응답자"
       }
     },
     "G-R (gar | ger | gor)": {
@@ -1902,8 +1905,7 @@
         "cub (caub | ceub | coub)": "불타다/녹다 | 불타게/녹게 | 불타는/녹는 | 불탐/불타는 것/연료/불/녹음",
         "ucb (ucab | uceb | ucob)": "시원한/찬 | 시원하게/차갑게",
         "ucub (ucaub | uceub | ucoub)": "더운/뜨거운 | 덥게/뜨겁게",
-        "macab": "성냥/라이터",
-        "caub'o ictaur": "불의 공기(연기/매연)"
+        "macab": "성냥/라이터"
       }
     },
     "Z-D (zad | zed | zod)": {
@@ -1976,7 +1978,7 @@
         "ejmar": "학회",
         "mwardaz": "과학",
         "tammar": "물리학/양자역학",
-        "chacrim mar": "생물학/화학",
+        "chacanmar": "생물학/화학",
         "emwardaz": "과학자/학자/연구자",
         "marmapaim": "논문"
       }
@@ -1994,6 +1996,24 @@
     },
     "T-P (tap | tep | top)": {
       "뜻": "집중하다 | 집중하게 | 집중하는 | 집중"
+    },
+    "S-M-M (samam | semem | somom)": {
+      "뜻": "영향을 주다 | 영향을 주게 | 영향을 주는 | 영향"
+    },
+    "N-N-M (nanam | nenem | nonom)": {
+      "뜻": "이름 붙이다 | 이름 붙이게 | 이름 붙이는 | 이름"
+    },
+    "S-T-K (satak | setek | sotok)": {
+      "뜻": "해석하다/설명하다 | 해석하게/설명하게 | 해석하는/설명하는 | 해석/설명/세부/부분"
+    },
+    "P-T-M (patam | petem | potom)": {
+      "뜻": "무겁다 | 무겁게 | 무거운 | 무게/무거움",
+      "파생": {
+        "putm (putam | putem | putom)": "가볍다 | 가볍게 | 가벼운 | 가벼움"
+      }
+    },
+    "R-T-K (ratak | retek | rotok)": {
+      "뜻": "자유롭다 | 자유롭게 | 자유로운 | 자유"
     }
   }
 }
