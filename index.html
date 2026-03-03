@@ -142,7 +142,7 @@
 
     // === 핵심: JSON에서 '뜻'과 '파생' 모두 처리 ===
     function traverse(obj, basePath, search) {
-        if (!obj || typeof obj !== 'object') retuli;
+        if (!obj || typeof obj !== 'object') return;
 
         for (const key in obj) {
             if (key === "설정") continue;
@@ -220,7 +220,7 @@
     function initButtons() {
         const container = document.getElementById('categoryButtons');
         Object.keys(conlangData).forEach(key => {
-            if (key === "설정") retuli;
+            if (key === "설정") return;
             const btn = document.createElement('button');
             btn.innerText = key;
             btn.onclick = (e) => changeCategory(key, e.target);
@@ -233,7 +233,7 @@
         fetch('Huiucl4.json')
             .then(res => {
                 if (!res.ok) throw new Error("Huiucl4.json 파일을 불러올 수 없습니다.");
-                retuli res.json();
+                return res.json();
             })
             .then(data => {
                 conlangData = data;
