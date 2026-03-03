@@ -41,7 +41,7 @@
         "뜻": "나",
         "파생": {
           "ni": "나",
-          "zni": "우리"
+          "znlii": "우리"
         }
       }
     },
@@ -155,14 +155,14 @@
       "뜻": "목적격",
       "예문": {
         "1": "ani tihatlak, ti se kadzha(나는 그것을 먹었다, 그것은 돼지고기이다.)",
-        "2": "ani tituantla, ti se tirn (나는 그것을 잃었다, 그것은 기회이다.)"
+        "2": "ani tituantla, ti se tili (나는 그것을 잃었다, 그것은 기회이다.)"
       }
     },
     "_no": {
       "뜻": "소유격/속성격",
       "예문": {
         "1": "nino cestli (나의 짐)",
-        "2": "henrnno suipane (최대의 기쁨)"
+        "2": "henlino suipane (최대의 기쁨)"
       }
     },
     "_pan": {
@@ -179,7 +179,7 @@
       "뜻": "까지(시간)/~하게(으로)",
       "예문": {
         "1": "socheitla pe, xuantlapi. (기절할 생각으로 일해라.)",
-        "2": "13 kirn pe, kentlapi. (13시까지 와라.)"
+        "2": "13 kili pe, kentlapi. (13시까지 와라.)"
       }
     },
     "_id": {
@@ -193,7 +193,7 @@
     "qe": {
       "뜻": "에서(시간)/부터(시간)",
       "예문": {
-        "1": "13 kirn qe, tketlapi. (미래의 13시부터 시작해라.)",
+        "1": "13 kili qe, tketlapi. (미래의 13시부터 시작해라.)",
         "2": "13 kiron qe, caltlas. (미래의 13시에 놀 것이다.)"
       }
     },
@@ -206,15 +206,15 @@
     "len": {
       "뜻": "-아니/때문에/의해",
       "예문": {
-        "1": "ti len, amaxzn kuzatlak. (그 때문에, 사람들이 죽었다. | 그에 의해 사람들이 죽었다.)",
+        "1": "ti len, amaxznli kuzatlak. (그 때문에, 사람들이 죽었다. | 그에 의해 사람들이 죽었다.)",
         "2": "ani se maxn len, petlanpan xitla. (나는 사람이기 때문에, 학교에 간다.)"
       }
     },
     "_z": {
       "뜻": "복수형",
       "예문": {
-        "1": "maxn(사람) -> maxzn(사람들)",
-        "2": "xatlazn (건물 들)"
+        "1": "maxn(사람) -> maxznli(사람들)",
+        "2": "xatlaznli (건물 들)"
       }
     },
     "_pi": {
@@ -251,10 +251,10 @@
     }
   },
   "특이요소": {
-    "irn": {
+    "ili": {
       "뜻": "모든",
       "변형": {
-        "nu irn": "모든 것"
+        "nu ili": "모든 것"
       }
     }
   },
@@ -262,10 +262,10 @@
     "amai": {
       "뜻": "매우"
     },
-    "srn": {
+    "sli": {
       "뜻": "그래서"
     },
-    "arnai": {
+    "aliai": {
       "뜻": "심지어"
     },
     "anci": {
@@ -348,10 +348,10 @@
       },
       "생물": {
         "동식물": {
-          "curn (curan | curen | curon)": {
+          "culi (curan | curen | curon)": {
             "뜻": "나무/막대기/덤불/줄기"
           },
-          "hrn (hran | hren | hron)": {
+          "hli (hran | hren | hron)": {
             "뜻": "씨앗"
           },
           "stz (staz | stez | stoz)": {
@@ -383,56 +383,56 @@
           }
         },
         "기관": {
-          "savzr (savzar | savzer | savzor)": {
+          "savzli (savzar | savzer | savzor)": {
             "뜻": "다리/발/뿌리"
           },
-          "kamzr (kamzar | kamzer | kamzor)": {
+          "kamzli (kamzar | kamzer | kamzor)": {
             "뜻": "팔/손"
           },
-          "mazzr (mazzar | mazzer | mazzor)": {
+          "mazzli (mazzar | mazzer | mazzor)": {
             "뜻": "피/채액"
           }
         },
-        "shazn (shazan | shazen | shazon)": {
+        "shaznli (shazan | shazen | shazon)": {
           "뜻": "유전/유전자"
         },
-        "nazn (nazan | nazen | nazon)": {
+        "naznli (nazan | nazen | nazon)": {
           "뜻": "생태계"
         }
       },
       "물질": {
-        "chacn (chacan | chacen | chacon)": {
+        "chacli (chacan | chacen | chacon)": {
           "뜻": "물질"
         },
-        "comuarn (comuaran | comuaren | comuaron)": {
+        "comuali (comuaran | comuaren | comuaron)": {
           "뜻": "분자"
         },
-        "omuarn (omuaran | omuaren | omuaron)": {
+        "omuali (omuaran | omuaren | omuaron)": {
           "뜻": "원소"
         },
-        "tracn (tracan | tracen | tracon)": {
+        "tracli (tracan | tracen | tracon)": {
           "뜻": "입자"
         },
-        "cricn (crican | cricen | cricon)": {
+        "cricli (crican | cricen | cricon)": {
           "뜻": "전자/전기/번개",
           "파생": {
             "(cricannaid | cricanneid | cricannoid)": "천둥"
           }
         },
-        "cacrn (cacran | cacren | cacron)": {
+        "cacli (cacran | cacren | cacron)": {
           "뜻": "원자"
         }
       },
       "이외": {
-        "trirn (triran | triren | triron)": {
+        "trili (triran | triren | triron)": {
           "뜻": "대륙",
           "파생": {
-            "trirnadr (triranadr | trirenadr | trironadr)": "아시아",
-            "trirnaidr (triranaidr | trirenaidr | trironaidr)": "유럽",
-            "huatrirnaidr (huatriranaidr | huatrirenaidr | huatrironaidr)": "아메리카",
-            "babtrirn (babtriran | babtriren | babtriron)": "아프리카",
-            "huatrirn (huatriran | huatriren | huatriron)": "오세아니아",
-            "trirneidr (triraneidr | trireneidr | trironeidr)": "남극"
+            "triliadr (triranadr | trirenadr | trironadr)": "아시아",
+            "triliaidr (triranaidr | trirenaidr | trironaidr)": "유럽",
+            "huatriliaidr (huatriranaidr | huatrirenaidr | huatrironaidr)": "아메리카",
+            "babtrili (babtriran | babtriren | babtriron)": "아프리카",
+            "huatrili (huatriran | huatriren | huatriron)": "오세아니아",
+            "trilieidr (triraneidr | trireneidr | trironeidr)": "남극"
           }
         },
         "ticr (ticar | ticer | ticor)": {
@@ -510,8 +510,8 @@
         "maxn": {
           "뜻": "사람/개인/인물",
           "파생": {
-            "maxzn": "군중/사람들",
-            "iln maxzn": "인류"
+            "maxznli": "군중/사람들",
+            "iln maxznli": "인류"
           }
         },
         "kramaxn": {
@@ -550,25 +550,25 @@
         "뜻": "남(남쪽)"
       }
     },
-    "corn (cotl | coren | coron)": {
+    "coli (cotl | coren | coron)": {
       "뜻": "기계/기관"
     },
-    "tirn (tiran | tiren | tiron)": {
+    "tili (tiran | tiren | tiron)": {
       "뜻": "기회"
     },
-    "mirn (miran | miren | miron)": {
+    "mili (miran | miren | miron)": {
       "뜻": "모습/외간/표면/껍질/가죽/털/세포/피부/얼굴",
       "파생": {
         "mirun (miraun | mireun | miroun)": "내면/장기",
         "mramirun (mramiraun | mramireun | mramiroun)": "뇌/심장/폐/뼈/이빨/연골/위/소장-대장/신경/혈관",
         "tammirun (tammiraun | tammireun | tammiroun)": "근육",
-        "patmirn (patmiran | patmiren | patmiron)": "눈",
-        "rammirn (rammiran | rammiren | rammiron)": "코",
-        "kadmirn (kadmiran | kadmiren | kadmiron)": "입",
-        "naudmirn (naudmiran | naudmiren | naudmiron)": "귀"
+        "patmili (patmiran | patmiren | patmiron)": "눈",
+        "rammili (rammiran | rammiren | rammiron)": "코",
+        "kadmili (kadmiran | kadmiren | kadmiron)": "입",
+        "naudmili (naudmiran | naudmiren | naudmiron)": "귀"
       }
     },
-    "kern (keran | keren | keron)": {
+    "keli (keran | keren | keron)": {
       "뜻": "문/창문/벽"
     },
     "debn (deban | deben | debon)": {
@@ -577,25 +577,25 @@
         "debun (debaun | debeun | deboun)": "천장/하늘"
       }
     },
-    "murn (muran | muren | muron)": {
+    "muli (muran | muren | muron)": {
       "뜻": "실제"
     },
-    "kemrn (kemran | kemren | kemron)": {
+    "kemli (kemran | kemren | kemron)": {
       "뜻": "예시"
     },
-    "sorn (soran | soren | soron)": {
+    "soli (soran | soren | soron)": {
       "뜻": "주제"
     },
-    "pern (peran | peren | peron)": {
+    "peli (peran | peren | peron)": {
       "뜻": "계절",
       "파생": {
-        "apern (aperan | aperen | aperon)": "여름",
+        "apeli (aperan | aperen | aperon)": "여름",
         "aperun (aperaun | apereun | aperoun)": "겨울",
-        "ipern (iperan | iperen | iperon)": "봄",
+        "ipeli (iperan | iperen | iperon)": "봄",
         "iperun (iperaun | ipereun | iperoun)": "가을"
       }
     },
-    "kirn (kiran | kiren | kiron)": {
+    "kili (kiran | kiren | kiron)": {
       "뜻": "공간/시간",
       "파생": {
         "makiran": "시계",
@@ -603,53 +603,53 @@
         "makiron": "시계가 될 것|미래의 시계"
       }
     },
-    "thorn (thoran | thoren | thoron)": {
+    "tholi (thoran | thoren | thoron)": {
       "뜻": "능력"
     },
-    "tamrn (tamran | tamren | tamron)": {
+    "tamli (tamran | tamren | tamron)": {
       "뜻": "모둠/단체/집단"
     },
-    "tarn (taran | taren | taron)": {
+    "tali (taran | taren | taron)": {
       "뜻": "낮/아침/오전",
       "파생": {
         "tarun (taraun | tareun | taroun)": "밤/저녁/오후"
       }
     },
-    "korn (koran | koren | koron)": {
+    "koli (koran | koren | koron)": {
       "뜻": "색",
-      "akorn (akoran | akoren | akoron)": "검은색",
+      "akoli (akoran | akoren | akoron)": "검은색",
       "akorun (akoraun | akoreun | akoroun)": "흰색",
-      "ikorn (ikoran | ikoren | ikoron)": "노란색",
+      "ikoli (ikoran | ikoren | ikoron)": "노란색",
       "ikorun (ikoraun | ikoreun | ikoroun)": "남색",
-      "ukorn (ukoran | ukoren | ukoron)": "주황색",
+      "ukoli (ukoran | ukoren | ukoron)": "주황색",
       "ukorun (ukoraun | ukoreun | ukoroun)": "파란색",
-      "yokorn (yokoran | yokoren | yokoron)": "연한 초록색",
+      "yokoli (yokoran | yokoren | yokoron)": "연한 초록색",
       "yokorun (yokoraun | yokoreun | yokoroun)": "붉은 보라색",
-      "okorn (okoran | okoren | okoron)": "초록색",
+      "okoli (okoran | okoren | okoron)": "초록색",
       "okorun (okoraun | okoreun | okoroun)": "보라색",
-      "sakorn (sakoran | sakoren | sakoron)": "빨간색",
+      "sakoli (sakoran | sakoren | sakoron)": "빨간색",
       "sakorun (sakoraun | sakoreun | sakoroun)": "청록색",
       "koravn tm (koravn tam | koravn tem | koravn tom)": "무지개"
     },
-    "netrn (netran | netren | netron)": {
+    "netli (netran | netren | netron)": {
       "뜻": "방법/기술/방식"
     },
-    "subrn (subran | subren | subron)": {
+    "subli (subran | subren | subron)": {
       "뜻": "부서/분야/범주"
     },
-    "temorn (temoran | temoren | temoron)": {
+    "temoli (temoran | temoren | temoron)": {
       "뜻": "상태/상황"
     },
-    "drn (dran | dren | dron)": {
+    "dli (dran | dren | dron)": {
       "뜻": "성격"
     },
-    "burn (buran | buren | buron)": {
+    "buli (buran | buren | buron)": {
       "뜻": "성별"
     },
-    "harn (haran | haren | haron)": {
+    "hali (haran | haren | haron)": {
       "뜻": "세계"
     },
-    "kinrn (kinran | kinren | kinron)": {
+    "kinli (kinran | kinren | kinron)": {
       "뜻": "수도/중심지"
     },
     "tran": {
@@ -657,22 +657,22 @@
       "파생": {
         "tron": "내일/미래",
         "tren": "어제/과거",
-        "irn tri": "매일"
+        "ili tri": "매일"
       }
     },
-    "yabrn (yabran | yabren | yabron)": {
+    "yabli (yabran | yabren | yabron)": {
       "뜻": "인기"
     },
-    "tekrn (tekran | tekren | tekron)": {
+    "tekli (tekran | tekren | tekron)": {
       "뜻": "조건",
       "파생": {
         "tekrun (tekraun | tekreun | tekroun)": "무조건/반드시"
       }
     },
-    "barn (baran | baren | baron)": {
+    "bali (baran | baren | baron)": {
       "뜻": "주소"
     },
-    "henrn (henran | henren | henron)": {
+    "henli (henran | henren | henron)": {
       "뜻": "최대",
       "파생": {
         "henrun (henraun | henreun | henroun)": "최소"

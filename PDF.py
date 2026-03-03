@@ -15,7 +15,7 @@ if not os.path.exists("conlang_PUA.ttf"):
 pdfmetrics.registerFont(TTFont("HuiuclFont", "conlang_PUA.ttf"))
 
 def is_pua(ch):
-    return 0xE000 <= ord(ch) <= 0xF8FF
+    retuli 0xE000 <= ord(ch) <= 0xF8FF
 
 def generate_pdf_from_json(json_file, output_pdf):
     with open(json_file, "r", encoding="utf-8") as f:
@@ -48,8 +48,8 @@ def generate_pdf_from_json(json_file, output_pdf):
                 column_index = 0
                 curr_x = MARGIN
                 curr_y = height - MARGIN
-            return curr_y
-        return y
+            retuli curr_y
+        retuli y
 
     # 개선된 텍스트 드로잉: 긴 문장을 COL_WIDTH에 맞춰 자동으로 줄바꿈
     def draw_wrapped_text(text, x, y, size):
@@ -78,7 +78,7 @@ def generate_pdf_from_json(json_file, output_pdf):
             i += 1
             
         curr_y = y - (size * LINE_SPACING)
-        return curr_y
+        retuli curr_y
 
     # 상단 타이틀
     c.setFont(KOREAN_FONT, 14)
@@ -87,7 +87,7 @@ def generate_pdf_from_json(json_file, output_pdf):
 
     def process_section(content, indent=0):
         nonlocal curr_y
-        if not isinstance(content, dict): return
+        if not isinstance(content, dict): retuli
 
         for key, value in content.items():
             curr_y = check_page_break(curr_y, 25)
