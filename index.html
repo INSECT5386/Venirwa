@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HUIUCL Online Archive</title>
+    <title>Venirwa Online Archive</title>
     <style>
         :root {
             --bg-color: #f9f7f2;
@@ -230,7 +230,7 @@
 
     // 초기화
     window.onload = () => {
-        fetch('Huiucl4.json')
+        fetch('Venirwa.json')
             .then(res => {
                 if (!res.ok) throw new Error("Huiucl4.json 파일을 불러올 수 없습니다.");
                 return res.json();
