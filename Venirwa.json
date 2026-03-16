@@ -678,19 +678,19 @@
     "elecsata | _csa_": {
       "뜻": "사건(일어남)"
     },
-    "alekrnue | elkrnut | ekrnui | _krnu_": {
+    "itakrum | ikrut | ekrun | _kru_": {
       "뜻": "교과서|선생님/교수|학교|(교육/가르침/강의)",
       "파생": {
-        "welekrnuta | welkrnut | w_krnu_": "뇌/신경망|학생/제자|(학습/공부/훈련/터득)"
+        "welekruta | wikrut | w_kru_": "뇌/신경망|학생/제자|(학습/공부/훈련/터득)"
       }
     },
-    "alefrae | elefrata | _fra_": {
+    "itafram | elefrata | _fra_": {
       "뜻": "포크/창|중력|(가압/누르는 것/찌르는 것)",
       "파생": {
         "w_fra_": "(당김/뺌)"
       }
     },
-    "alepree | _pre_": {
+    "itaprem | _pre_": {
       "뜻": "도난품(가져옴/훔침)",
       "파생": {
         "w_pre_": "(돌려줌/반환)"
@@ -702,13 +702,13 @@
         "w_cra_": "엉망임/복잡함/산만함/어려움/힘든 것"
       }
     },
-    "_tira_": {
+    "_tya_": {
       "뜻": "간섭/관여"
     },
-    "_pata_": {
+    "_pta_": {
       "뜻": "갈등"
     },
-    "_bu_": {
+    "_rbu_": {
       "뜻": "감동/감명"
     },
     "elespita | _spi_": {
@@ -717,22 +717,22 @@
         "welespita | w_spi_": "약점(미미함/약한 것)"
       }
     },
-    "alespoe | elspot | elspoi | _spo_": {
+    "itaspom | ispot | espon | _spo_": {
       "뜻": "열쇠/오프너|개최자/진행자|개방 공간/주최장/문/창문|(개방/염/주최)",
       "파생": {
-        "walespoe | welspot | welspoi | w_spo_": "자물쇠|폐쇄자|폐쇄 구역/격리 구역/벽|(폐쇠/격리/닫음)"
+        "witaspom | wispot | wespon | w_spo_": "자물쇠|폐쇄자|폐쇄 구역/격리 구역/벽|(폐쇠/격리/닫음)"
       }
     },
-    "alebie | ebii | _eb_": {
+    "itabrim | ebrin | _bri_": {
       "뜻": "돈/지폐/동전|거래소|(거래/협상/무역/교류)"
     },
     "_sla_": {
       "뜻": "(걱정/우려)"
     },
-    "_cafa_": {
+    "_cfa_": {
       "뜻": "(건강)"
     },
-    "_sebe_": {
+    "_sbe_": {
       "뜻": "(격려/위로/조언/공감)"
     },
     "elezita | _zi_": {
