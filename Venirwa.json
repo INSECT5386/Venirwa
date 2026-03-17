@@ -675,28 +675,28 @@
     }
   },
   "행위 명사": {
-    "_spri_": {
+    "_strt_": {
       "뜻": "사건(일어남)"
     },
-    "itakrnum | ikrnut | ekrnun | _krnu_": {
+    "itakrnum | ikrnut | ekrnun | _krl_": {
       "뜻": "교과서|선생님/교수|학교|(교육/가르침/강의)",
       "파생": {
         "welekrnuta | wikrnut | w_krnu_": "뇌/신경망|학생/제자|(학습/공부/훈련/터득)"
       }
     },
-    "itafram | elefrata | _fra_": {
+    "itafram | elefrata | _pra_": {
       "뜻": "포크/창|중력|(가압/누르는 것/찌르는 것)",
       "파생": {
         "w_fra_": "(당김/뺌)"
       }
     },
-    "itaprem | _pre_": {
+    "itaprem | _kra_": {
       "뜻": "도난품(가져옴/훔침)",
       "파생": {
         "w_pre_": "(돌려줌/반환)"
       }
     },
-    "elecrata | _cra_": {
+    "elecrata | _spreng_": {
       "뜻": "포기(간단함/편리함/쉬움)",
       "파생": {
         "w_cra_": "엉망임/복잡함/산만함/어려움/힘든 것"
