@@ -5,29 +5,29 @@
     },
     "어순": {
       "일반문 | [주어 수식] [주어] [부사어] [행위 명사] [목적어 수식] [목적어] [기타 부사구]": {
-        "en wothapeov wosomo amapas atain haliospoxlit fu itacone": "나는 특별한 돼지를 끔찍하게 죽일 것이다 세계의 왼쪽에서 칼로",
+        "en arlaa akrias atain erunt.": "나는 보살핀다 귀여운 돼지를",
         "elt sa apean ain.": "사람은 이다 생각하는 동물",
-        "en koimo el seu mi.": "나는 그것을 줄 것이다 너에게",
-        "en cabramo 13 kilite.": "나는 놀 것이다 13시에"
+        "en oknao el seu mi.": "나는 그것을 줄 것이다 너에게",
+        "en ochio 13 kilite.": "나는 놀 것이다 13시에"
       },
       "복합문 | [주어 수식] [주어] [부사어] [행위 명사] [배경 정보] nu [하위 문장]": {
-        "en ebrue haliospoxlit nu ataas elt akoia seu el.": "나는 보았다 세상의 왼쪽에서 (nu 이하를) 뚱뚱한 사람이 무기를 주다 그에게"
+        "en evrue haliospoxlit nu ataas elt aknaa witarsam seu el.": "나는 보았다 세상의 왼쪽에서 (nu 이하를) 뚱뚱한 사람이 무기를 주다 그에게"
       },
       "목적문 | [주어 수식] [주어] [부사어1] [행위 명사1] [목적어 수식1] [목적어1] no [목적어 수식2] [목적어2] [부사어2] [행위 명사2]": {
-        "wathapean el wthamas azloa el no wosomo akrias akli.": "끔찍한 그는 멍청한 그것을 잔인하게 때리다 (위해) 귀여운 고양이를 죽일 것이다."
+        "wathapean el wathamas azloa wastraa el no worsao akrias akli.": "끔찍한 그는 멍청한 그것을 잔인하게 때리다 (위해) 귀여운 고양이를 죽일 것이다."
       },
       "요청문 | [주어 수식] [주어] [행위 명사] -mt [목적어 수식] [목적어] [부사어] [기타 부사구]": {
         "mi wahaamt ilihan no el": "당신는 요리해주세요 음식을. 그들을 위해"
       },
       "이유/피동문 | [대상 수식] [대상] len, [주어 수식] [주어] [부사어] [행위 명사] [기타 부사구]": {
-        "el len, tramas eltz tramav etele ebeit.": "그 때문에, 많은 사람들이 많이 다쳤다 집에서",
-        "en se elt len, en ashea ekrnuit.": "나는 이다 사람 때문에, 나는 간다 학교에"
+        "el len, atveas eltz atveav elkee event.": "그 때문에, 많은 사람들이 많이 다쳤다 집에서",
+        "en se elt len, en ashea ekrnunt.": "나는 이다 사람 때문에, 나는 간다 학교에"
       },
       "명령문 | esprt [주어 수식] [주어] [행위 명사] [목적어 수식] [목적어] [부사어] [기타 부사구]": {
-        "Esprt wastraas mi apera ataas it ekrnuit.": "멍청한 너는 뚱뚱한 사람을 도와라. 학교에서"
+        "Esprt wastraas mi arlaa ataas elt ekrnunt.": "멍청한 너는 뚱뚱한 사람을 도와라. 학교에서"
       },
       "이외 문법": {
-        "Esprt mi asrea ipei ellet wasoma atain fu itacone, no ahaa ain": "너는 생각을 말해라 에 대하여 돼지를 죽이는 것 칼로, 고기를 먹기 위해"
+        "Esprt mi asrea ipei ellet warsaa atain fu itacnim, no ahaa ain": "너는 생각을 말해라 에 대하여 돼지를 죽이는 것 칼로, 고기를 먹기 위해"
       }
     },
     "의문법": {
@@ -154,7 +154,7 @@
     "i__i": {
       "뜻": "기본 명사형"
     },
-    "el__t": {
+    "i__t": {
       "뜻": "사람"
     },
     "a__in": {
@@ -629,6 +629,18 @@
     "kinli": {
       "뜻": "수도/중심지"
     },
+    "itae": {
+      "뜻": "도구"
+    },
+    "hanli": {
+      "뜻": "신화/전설",
+      "파생": {
+        "hanun": "신"
+      }
+    },
+    "hosli": {
+      "뜻": "영혼"
+    },
     "kemli": {
       "뜻": "예시"
     },
@@ -663,22 +675,22 @@
     }
   },
   "행위 명사": {
-    "spret": {
+    "_spri_": {
       "뜻": "사건(일어남)"
     },
-    "itakrnum | ikrnut | ekrnui | _krnu_": {
+    "itakrnum | ikrnut | ekrnun | _krnu_": {
       "뜻": "교과서|선생님/교수|학교|(교육/가르침/강의)",
       "파생": {
-        "welekrnuta | witkrnut | w_krnu_": "뇌/신경망|학생/제자|(학습/공부/훈련/터득)"
+        "welekrnuta | wikrnut | w_krnu_": "뇌/신경망|학생/제자|(학습/공부/훈련/터득)"
       }
     },
-    "itafrae | elefrata | _fra_": {
+    "itafram | elefrata | _fra_": {
       "뜻": "포크/창|중력|(가압/누르는 것/찌르는 것)",
       "파생": {
         "w_fra_": "(당김/뺌)"
       }
     },
-    "itapree | _pre_": {
+    "itaprem | _pre_": {
       "뜻": "도난품(가져옴/훔침)",
       "파생": {
         "w_pre_": "(돌려줌/반환)"
@@ -696,7 +708,7 @@
     "_pata_": {
       "뜻": "갈등"
     },
-    "_bu_": {
+    "_vu_": {
       "뜻": "감동/감명"
     },
     "elespita | _spi_": {
@@ -705,13 +717,13 @@
         "welespita | w_spi_": "약점(미미함/약한 것)"
       }
     },
-    "itaspoe | elspot | elspoi | _spo_": {
+    "itaspom | ispot | ispon | _spo_": {
       "뜻": "열쇠/오프너|개최자/진행자|개방 공간/주최장/문/창문|(개방/염/주최)",
       "파생": {
-        "witaspoe | welspot | welspoi | w_spo_": "자물쇠|폐쇄자|폐쇄 구역/격리 구역/벽|(폐쇠/격리/닫음)"
+        "witaspom | wispot | wispon | w_spo_": "자물쇠|폐쇄자|폐쇄 구역/격리 구역/벽|(폐쇠/격리/닫음)"
       }
     },
-    "itabie | ebii | _eb_": {
+    "itavim | evin | _vi_": {
       "뜻": "돈/지폐/동전|거래소|(거래/협상/무역/교류)"
     },
     "_sla_": {
@@ -750,7 +762,7 @@
         "w_sata_": "(오만함/난폭함/무례함/둔감함/무관심함)"
       }
     },
-    "itaspae | _spa_": {
+    "itaspam | _spa_": {
       "뜻": "게시판/SNS|(공유/게시)"
     },
     "_cta_": {
@@ -759,10 +771,10 @@
         "w_cta_": "(불공평함)"
       }
     },
-    "elhot | _ho_": {
+    "ihot | _ho_": {
       "뜻": "구매자|(구매/수입)",
       "파생": {
-        "welhot | w_ho_": "판매자|(수출/판매)"
+        "wihot | w_ho_": "판매자|(수출/판매)"
       }
     },
     "_kri_": {
@@ -774,40 +786,40 @@
         "w_coma_": "하찮음"
       }
     },
-    "_lexa_": {
+    "_lea_": {
       "뜻": "기대/흥분",
       "파생": {
-        "w_lexa_": "실망/당황/절망"
+        "w_lea_": "실망/당황/절망"
       }
     },
-    "itaspee | _spe_": {
+    "itaspem | _spe_": {
       "뜻": "받침대/스탠드|(기립)",
       "파생": {
-        "witaspee | w_spe_": "의자/좌석|(착석/앉음)"
+        "witaspem | w_spe_": "의자/좌석|(착석/앉음)"
       }
     },
     "elecefleta | _cefle_": {
       "뜻": "방법/방식|(기술적)"
     },
-    "itanesae | enesai | elnesat | ilinesan | _nesa_": {
+    "itanesam | enesai | elnesat | ilinesan | _nesa_": {
       "뜻": "가방/서랍/봉투/지갑/통장|저장소/보관소|기억자/회상하는 자|짐/물건|(기억/회상/저장/보관/저축/재산)"
     },
     "lesec | _se_": {
       "뜻": "코|냄새 맡음",
       "파생": {
-        "witasee | w_se_": "향수|(냄새남/냄새)"
+        "witasem | w_se_": "향수|(냄새남/냄새)"
       }
     },
     "_za_": {
       "뜻": "논리"
     },
-    "elrut | erui | itarue | _ru_": {
+    "irut | erun | itarum | _ru_": {
       "뜻": "농부|농장|농사 도구|(농사)",
       "파생": {
-        "witarue | ilirun | werui | w_ru_": "재배도구/수확도구|농산물|재배지/수확지|(재배/수확)"
+        "witarum | ilirun | werun | w_ru_": "재배도구/수확도구|농산물|재배지/수확지|(재배/수확)"
       }
     },
-    "elepeta | itapee | elpet | _pe_": {
+    "elepeta | itapem | ipet | _pe_": {
       "뜻": "철학|감정 도구/표현 수단|느끼는 자/선택자/판단자/판사|(느낌/경험/태도/생각/추론/판단/인지)",
       "파생": {
         "w_pripe_": "지루함/피곤함",
@@ -815,18 +827,18 @@
         "w_thape_": "끔찍함/화남"
       }
     },
-    "_pal_": {
+    "_pa_": {
       "뜻": "전혀 다름/다양함",
       "파생": {
-        "w_pal_": "단조로움/동일한/비슷함"
+        "w_pa_": "단조로움/동일한/비슷함"
       }
     },
-    "eletelta | eltelt | _tel_": {
+    "elelketa | ilket | _lke_": {
       "뜻": "병/독|환자|(다침/상처/중독)",
       "파생": {
-        "iteliofre": "증상",
-        "betetrim": "재난/사고/병의 원인",
-        "weltelt": "의사/간호사"
+        "fre ilkei": "증상",
+        "ilkeiosca": "재난/사고/병의 원인",
+        "wilket": "의사/간호사"
       }
     },
     "_so_": {
@@ -844,19 +856,19 @@
         "weleziata | w_zia_": "천장/하늘|(깨끗함/청결)"
       }
     },
-    "elpert | eperi | _per_": {
+    "irlat | erlan | _rla_": {
       "뜻": "조력자/대리인/보호자/사육자|보조기구/보호소/사육장|(도움/구조/보살핌/보호/사육/보조)",
       "파생": {
-        "welpert | w_per_": "피보호자/사육 당하는 것|(방해)"
+        "wirlat | w_rla_": "피보호자/사육 당하는 것|(방해)"
       }
     },
-    "_copl_": {
+    "_lpo_": {
       "뜻": "이로움",
       "파생": {
-        "w_copl_": "해로움"
+        "w_lpo_": "해로움"
       }
     },
-    "itafelue | elfelut | _felu_": {
+    "itafelum | elfelut | _felu_": {
       "뜻": "추적기|추적자|(따라옴)",
       "파생": {
         "welfelut | w_felu_": "도망자|(도망/회피/꺼림)"
@@ -883,10 +895,10 @@
     "eleskruta | _skru_": {
       "뜻": "상징|(뜻)"
     },
-    "ilihan | elhat | itahae | _ha_": {
+    "ilihan | ihat | itaham | _ha_": {
       "뜻": "음식/간식|음용자/식객/먹는 입|컵/식기/접시|(흡수/먹음/먹는 것)",
       "파생": {
-        "witahae | welhat | wehai | w_ha_": "요리 도구|요리사|/식당/카페|(요리/끓임/가열/굽기/튀기기)"
+        "witaham | wihat | wehai | w_ha_": "요리 도구|요리사|/식당/카페|(요리/끓임/가열/굽기/튀기기)"
       }
     },
     "_zike_": {
@@ -895,38 +907,38 @@
         "w_zike_": "불만족"
       }
     },
-    "elsret | itasree | _sre_": {
+    "elsret | itasrem | _sre_": {
       "뜻": "말하는 입/화자/언어학자/변호사|마이크|(말/언급/주장/이야기/연설/언어/단어)",
       "파생": {
-        "_colsre_": "회의실(토론/대화/회의)",
+        "_colosre_": "회의실(토론/대화/회의)",
         "w_thasre_": "(비난/무례한 말/욕/도발)",
-        "_camsre_": "비판",
-        "w_basre_": "침묵",
-        "welesreta | witasree | welsret | w_sre_": "소리|이어폰|청취자/검사|(듣는 것)"
+        "_cmasre_": "비판",
+        "w_voasre_": "침묵",
+        "welesreta | witasrem | welsret | w_sre_": "소리|이어폰|청취자/검사|(듣는 것)"
       }
     },
-    "itasclee | _scle_": {
+    "italcam | _lca_": {
       "뜻": "전화기(전화)"
     },
-    "itaslee | _sle_": {
+    "italsam | _lsa_": {
       "뜻": "악보(노래/음악)"
     },
-    "elefesta | _fes_": {
+    "elelfata | _lfa_": {
       "뜻": "호기심/궁금증|(궁금함)"
     },
-    "elkazt | _kaz_": {
+    "ilzat | _lza_": {
       "뜻": "상관(명령/지시/지휘)"
     },
-    "itacire | elcirt | _cir_": {
+    "italvem | ilvet | _lve_": {
       "뜻": "모조품|모방자|(모방)"
     },
-    "_che_": {
+    "_lfe_": {
       "뜻": "목표"
     },
-    "_lem_": {
+    "_lte_": {
       "뜻": "(못함/막음/검열/저항/거절/금지/무시/묵살/차단/부정)",
       "파생": {
-        "w_lem_": "(수용/허락/동의/투항/항의/수락)"
+        "w_lte_": "(수용/허락/동의/투항/항의/수락)"
       }
     },
     "elehapata | _hapa_": {
@@ -935,25 +947,25 @@
         "w_hapa_": "가벼움"
       }
     },
-    "elechita | _chi_": {
+    "elecaiata | _caia_": {
       "뜻": "실제|(물리/물질)",
       "파생": {
-        "uelechita | w_chi_": "허상/환각|(상상)"
+        "welecaiata | w_caia_": "허상/환각|(상상)"
       }
     },
-    "itakemie | _kemi_": {
+    "itakemim | _kemi_": {
       "뜻": "개선품/교환품/대체품|(바꿈/개선/개혁/교환/교정/대체/혁신/발전/수정)",
       "파생": {
-        "elkemisret | itakemisree | _kemisre_": "통역가|번역기(말을 바꿈/번역/통역)"
+        "ikemisret | itakemisrem | _kemisre_": "통역가|번역기(말을 바꿈/번역/통역)"
       }
     },
     "_ma_": {
       "뜻": "허기"
     },
-    "_trian_": {
+    "_trai_": {
       "뜻": "버팀/지탱"
     },
-    "elbrut | itabrue | elebruta | _bru_": {
+    "ivrut | itavrum | elevruta | _vru_": {
       "뜻": "관람객/관찰자/감시자/망원경|CCTV/텔레비전|관점/시점|(보는 것/목격/감시/관찰/시청)"
     },
     "elecaita | _cai_": {
@@ -977,89 +989,89 @@
         "w_pri_": "느림"
       }
     },
-    "_hlw_": {
+    "_hlu_": {
       "뜻": "사과하는 것"
     },
-    "_tam_": {
+    "_tama_": {
       "뜻": "사라짐/멸종/없음",
       "파생": {
-        "w_tam_": "생김/있음"
+        "w_tama_": "생김/있음"
       }
     },
-    "_hel_": {
+    "_cela_": {
       "뜻": "사랑",
       "파생": {
-        "elehelta": "호감"
+        "elecelata": "호감"
       }
     },
-    "itaculue | _culu_": {
+    "itaculum | _culu_": {
       "뜻": "소모품/물건/가구|(사용/인용/소비)"
     },
-    "_ten_": {
+    "_mta_": {
       "뜻": "상당함/적절함/적합함/완전함/우세함",
       "파생": {
-        "w_ten_": "부족함/부적절함/결핍함/가난함/열세함"
+        "w_mta_": "부족함/부적절함/결핍함/가난함/열세함"
       }
     },
-    "_ter_": {
+    "_te_": {
       "뜻": "상승",
       "파생": {
-        "w_ter_": "하강"
+        "w_te_": "하강"
       }
     },
-    "_col_": {
+    "_colo_": {
       "뜻": "상호작용"
     },
-    "_saka_": {
+    "_ska_": {
       "뜻": "생생함",
       "파생": {
-        "w_saka_": "희미함"
+        "w_ska_": "희미함"
       }
     },
-    "itabee | elebeta | elbet | ebei | _be_": {
+    "itavem | eleveta | ivet | even | _ve_": {
       "뜻": "생존 도구|생물/유기체|생존자|서식시/거주구역/집/대피소/아파트/고향|(생존/호흡/거주/생활)",
       "파생": {
-        "webei | welbet | w_be_": "무덤|사망자|(죽음)",
-        "_sca_ ibei": "태어남"
+        "weven | wivet | w_ve_": "무덤|사망자|(죽음)",
+        "_sca_ ivei": "태어남"
       }
     },
-    "_san_": {
+    "_nsa_": {
       "뜻": "선택/채택/채용/고용/결정"
     },
-    "_nose_": {
+    "_noe_": {
       "뜻": "성공/달성",
       "파생": {
-        "w_nose_": "실패"
+        "w_noe_": "실패"
       }
     },
-    "itamare | _mar_": {
+    "itarim | _ri_": {
       "뜻": "양분/비료|(성장)"
     },
-    "elclit | itaclie | eclii | _cli_": {
+    "iclit | itaclim | eclin | _cli_": {
       "뜻": "세척자/청소자|비누/세제/치약/수건/다리미/칫솔/치실|목욕실/세면대/화장실|(세척/청소/정리/정돈/양치/다림)"
     },
-    "_kam_": {
+    "_ka_": {
       "뜻": "소리 지름/비명",
       "파생": {
-        "w_kam_": "속삭임"
+        "w_ka_": "속삭임"
       }
     },
-    "_stam_": {
+    "_stu_": {
       "뜻": "소박함/검소함",
       "파생": {
-        "w_stam_": "사치"
+        "w_stu_": "사치"
       }
     },
     "ebemi | bem": {
       "뜻": "수영장|(수영)"
     },
-    "elscat | _sca_": {
+    "iscat | _sca_": {
       "뜻": "입문자/신참/신입|(시작/출발/기원/근원)",
       "파생": {
-        "welscat | w_sca_": "전문자/선임/선배|(끝/도착)"
+        "wiscat | w_sca_": "전문자/선임/선배|(끝/도착)"
       }
     },
-    "_tepa_": {
+    "_tri_": {
       "뜻": "신고/고소/경고"
     },
     "elesita | _si_": {
@@ -1068,13 +1080,13 @@
         "welesita | w_si_": "고의|(의식)"
       }
     },
-    "elpeut | itapeue | _pew_": {
+    "ipeut | itapeum | _peu_": {
       "뜻": "정원사|모종/삽|(심는 것/매장/묻음)"
     },
-    "_pa_": {
+    "_pai_": {
       "뜻": "싸움/충돌",
       "파생": {
-        "w_pa": "용서"
+        "w_pai": "용서"
       }
     },
     "elecpata | _cpa_": {
@@ -1083,56 +1095,54 @@
         "w_cpa_": "못생김"
       }
     },
-    "itastae | _sta_": {
+    "itastram | _stra_": {
       "뜻": "기념품(알림/광고/기념)",
       "파생": {
-        "ucexem": "과장"
+        "_tvestra_": "과장"
       }
     },
     "_spre_": {
       "뜻": "약속/보장"
     },
-    "_ku_": {
-      "뜻": "얼음",
+    "_kui_": {
+      "뜻": "얼음/시원함/차가움/냉정함",
       "파생": {
-        "wilikun | w_ku_": "연료|(불탐/불타는 것/녹음)",
-        "_krku_": "시원함/차가움/냉정함",
-        "uitakrkue | w_krku_": "성냥/라이터|뜨거움/더움/열정/감정/심리"
+        "wilikuin | witakuim | w_kui_": "성냥/라이터|연료|(불탐/불타는 것/녹음/뜨거움/더움/열정/감정/심리)"
       }
     },
-    "_lam_": {
+    "_lma_": {
       "뜻": "새로움"
     },
-    "eltamit | _tami_": {
+    "itmat | _tma_": {
       "뜻": "여행자/개척자|(여행/탐험/개척)"
     },
-    "_freti_": {
+    "_shr_": {
       "뜻": "발견/탐색/찾음"
     },
-    "ehuii | itahuiubree | elhuit | elhuitz | _hui_": {
+    "ehuin | itahuicve | ihuit | elhuitz | _hui_": {
       "뜻": "연구실|논문|과학자/학자/연구자|학회|(연구/실험/도전/시도)",
       "파생": {
-        "ihuiperi": "과학",
-        "ifrehuii": "물리학/양자역학",
-        "ielebetahuii": "생물학/화학"
+        "irlat ihuii": "과학",
+        "hui ifrei": "물리학/양자역학",
+        "hui eleveta": "생물학/화학"
       }
     },
-    "eleclota | _clo_": {
+    "eletlota | _tlo_": {
       "뜻": "순서(연속/계속/반복/진행/순환)",
       "파생": {
-        "w_clo_": "멈춤/포기/중지"
+        "w_tlo_": "멈춤/포기/중지"
       }
     },
-    "_ba_": {
+    "_voa_": {
       "뜻": "유연함",
       "파생": {
-        "w_ba_": "경직"
+        "w_voa_": "경직"
       }
     },
     "imtei | _mte_": {
       "뜻": "영향|(영향을 줌)"
     },
-    "_frit_": {
+    "_fri_": {
       "뜻": "요약/줄임"
     },
     "_frt_": {
@@ -1146,50 +1156,50 @@
       "파생": {
         "_terfre_": "숟가락/비행기/활주로/트램펄린/항공사(도약/비행/퍼내는 것)",
         "w_terfre_": "낙하지점/낙하산(낙하)",
-        "ifresomi": "에너지"
+        "ifrescai": "에너지"
       }
     },
-    "_cot_": {
+    "_frc_": {
       "뜻": "웃음/웃는 것",
       "파생": {
-        "w_cot": "우는 것/울음/울부짖는 것/울부짖음"
+        "w_frc_": "우는 것/울음/울부짖는 것/울부짖음"
       }
     },
-    "itafee | elefeta | _fe_": {
+    "itafeim | elefeita | _fei_": {
       "뜻": "나침반/지도|좌표/주소|(위치/장소)"
     },
     "_ske_": {
       "뜻": "안전함/평온함",
       "파생": {
-        "wskam": "위험/불안/공포/혼돈/혼란"
+        "w_ske_": "위험/불안/공포/혼돈/혼란"
       }
     },
-    "itashitae | eshitai | _shita_": {
+    "itasoam | esoan | _soa_": {
       "뜻": "위장망|은신처|(은폐/위장)"
     },
-    "_kosa_": {
+    "_koa_": {
       "뜻": "의심/혐오"
     },
-    "elkuit | _kui_": {
+    "ikrkt | _krk_": {
       "뜻": "승자(승리)",
       "파생": {
-        "welkuit | w_kui_": "패배자(패배)"
+        "wikrkt | w_krk_": "패배자(패배)"
       }
     },
-    "elshet | itashee | eshei | elesheta | _she_": {
+    "ishet | itashem | eshen | elesheta | _she_": {
       "뜻": "운전자/이동자|이동 수단|산책로/공원/길/도로/거리|단계/절차|(이동/감/산책/운전)",
       "파생": {
-        "welshet | weshei | w_she_": "대기자|대기실/정류장|(대기)",
-        "elprishet | _prishe_": "질주자/폭주족|(질주/달림)"
+        "wishet | weshen | w_she_": "대기자|대기실/정류장|(대기)",
+        "_iprishet_ | _prishe_": "질주자/폭주족|(질주/달림)"
       }
     },
-    "_nama_": {
+    "_spr_": {
       "뜻": "이름 붙임",
       "파생": {
-        "winami | w_nama_": "이름|(이름 붙여짐)"
+        "wispri | w_spr_": "이름|(이름 붙여짐)"
       }
     },
-    "_prto_": {
+    "_prt_": {
       "뜻": "인기/유명"
     },
     "itlai | _tla_": {
@@ -1207,244 +1217,244 @@
     "_ple_": {
       "뜻": "자유"
     },
-    "itahue | ehui | elhut | _hu_": {
+    "itahrum | ehrun | ihrut | _hru_": {
       "뜻": "손잡이/집게/그물/망|사냥터|사냥꾼/체포자|(잡는 것/사냥/체포)",
       "파생": {
-        "uelhut | w_hu_": "놓는 자/사냥감|(놓음/사냥 당함)"
+        "wihrut | w_hru_": "놓는 자/사냥감|(놓음/사냥 당함)"
       }
     },
-    "elcart | itacare | ecari | _car_": {
+    "ichit | itachim | echin | _chi_": {
       "뜻": "놀이꾼/광대/노는 사람|장난감/공/게임기|놀이터/놀이공원/오락시설|(여가/장난/놀이/농담)"
     },
-    "_sur_": {
+    "_sce_": {
       "뜻": "재생/회복/치료/처방"
     },
-    "itacone | _con_": {
+    "itacnim | _cni_": {
       "뜻": "칼/가위(절단/자름)",
       "파생": {
-        "witacone | w_con_": "접착제/용접|(붙이는 것)"
+        "witacnim | w_cni_": "접착제/용접|(붙이는 것)"
       }
     },
-    "enoii | elenoita | _noi_": {
+    "ennan | elennata | _nna_": {
       "뜻": "영토/빼앗은 땅|국가/제국|(점령/정복/통치)"
     },
-    "etashi | itatashie | eltasht | _tash_": {
+    "eshan | itasham | ishat | _sha_": {
       "뜻": "접촉면/닿는 면|센서/터치패드|접촉자/만지는 자|(접촉/만지는 것)"
     },
-    "eclai | itaclae | elclat | _cla_": {
+    "eclan | itaclam | iclat | _cla_": {
       "뜻": "쓰레기장/배출 지점|쓰레기|제거자/배출자|(제거/삭제/버리는 것/방출/배출)"
     },
-    "elkoit | _koi_": {
+    "iknat | _kna_": {
       "뜻": "제공자/주는 자|(지출/제공/주는 것/선물/공급/할당/기증/전송/전달/수여/보급품/선물)",
       "파생": {
-        "welkoit | witakoie | w_koi_": "수령자/받는 자|수신기/안테나|(환불/돈을 받음/대출/이익/이자/받는 것/주문/배달)"
+        "wiknat | witaknam | w_kna_": "수령자/받는 자|수신기/안테나|(환불/돈을 받음/대출/이익/이자/받는 것/주문/배달)"
       }
     },
-    "elelimta | _lim_": {
+    "elemlita | _mli_": {
       "뜻": "이론/가설/개념|(제안/제시)",
       "파생": {
-        " wizemlimi": "역설"
+        "w_zmemli_": "역설"
       }
     },
-    "elsomt | ilisomn | itasome | esomi | _som_": {
+    "irsat | ilirsan | itarsam | ersan | _rsa_": {
       "뜻": "제작자/엔지니어/수리자/건축가|제품/작품/조각품|수리 도구/부품/재료/성분/자원|공장/작업실/서비스 센터/건축물/건물/시설/병원|(제작/수리/조각하는 것/결합/생산/발명/공예/살림)",
       "파생": {
-        "welsomt | witasome | wesomi | w_som_": "파괴자|무기|폐허/유적|(파괴/부수는 것/붕괴/손상/균열)"
+        "wirsat | witarsam | wersan | w_rsa_": "파괴자|무기|폐허/유적|(파괴/부수는 것/붕괴/손상/균열)"
       }
     },
-    "elesprta | _spr_": {
+    "elesmita | _smi_": {
       "뜻": "결과/함수/변수|(제출/완료/해결/출시/출판/출력)"
     },
-    "elkatrt | _katr_": {
+    "ivkit | _vki_": {
       "뜻": "친구/가족/부모/자식/조부모(좋음/훌륭함)",
       "파생": {
-        "welekatrta | wekatri | welkatrt | w_katr_": "적의|감옥|원수|(나쁨/싫음)"
+        "welevkita | wevkin | wivkit | w_vki_": "적의|감옥|원수|(나쁨/싫음)"
       }
     },
-    "eletekta | _tek_": {
+    "eletketa | _tke_": {
       "뜻": "기초/기본(중요함/주요함/중대함)",
       "파생": {
-        "w_tek_": "사소함"
+        "w_tke_": "사소함"
       }
     },
-    "_crei_": {
+    "_rpu_": {
       "뜻": "증가/팽창/많아짐",
       "파생": {
-        "w_crei": "감소/수축/줄어드는 것"
+        "w_rpu_": "감소/수축/줄어드는 것"
       }
     },
-    "elret | _re_": {
+    "irvet | _rve_": {
       "뜻": "질문자/문의자|(질문/문의/의견)",
       "파생": {
-        "uelret | w_re_": "응답자|(대답/응답)"
+        "wirvet | w_rve_": "응답자|(대답/응답)"
       }
     },
-    "_kim_": {
+    "_rki_": {
       "뜻": "질투/부러움"
     },
-    "_sam_": {
+    "_csa_": {
       "뜻": "집중"
     },
-    "elfimt | efimi | _fim_": {
+    "ifmit | efmin | _fmi_": {
       "뜻": "착용자|의류실/탈의실|(착용/입는 것/장비/옷)"
     },
-    "elzemt | _zem_": {
+    "elzmet | _zme_": {
       "뜻": "찬성자|(찬성/칭찬)",
       "파생": {
-        "uelzemt | w_zem_": "반대자|(반대)"
+        "welzmet | w_zme_": "반대자|(반대)"
       }
     },
-    "_cet_": {
+    "_tce_": {
       "뜻": "참신함",
       "파생": {
-        "w_cet_": "진부함"
+        "w_tce_": "진부함"
       }
     },
     "elslomt | _slom_": {
       "뜻": "참여자(참가/참여/기여/모집)"
     },
-    "itacrame | _cram_": {
+    "itavkam | _vka_": {
       "뜻": "주사기/깔때기|(채움/주입)"
     },
-    "itafrue | ilifrun | _frw_": {
+    "itafrum | ilifrun | _fru_": {
       "뜻": "카메라|사진/영상|(촬영하는 것/촬영)"
     },
-    "_bre_": {
+    "_vri_": {
       "뜻": "추가/확산/투자/충전/첨부",
       "파생": {
-        "w_bre_": "뺌/축소"
+        "w_vri_": "뺌/축소"
       }
     },
-    "elecemta | elcemt | ecemi | itaceme | ilicemn | _cem_": {
+    "elecmeta | icmet | ecmen | itacmem | ilicmen | _cme_": {
       "뜻": "장래/진로|수면자|침실|침구/이불/담요|직업|(취침/자는 것/기절하는 것/꿈/기절)",
       "파생": {
-        "wecemi | witaceme | welcemt | w_cem_": "깨우는 장소/알람 영역|깰 수 있는 기구/알람시계|기상자|(기상/잠에서 깨는 것)"
+        "wecmen | witacmem | wicmet | w_cme_": "깨우는 장소/알람 영역|깰 수 있는 기구/알람시계|기상자|(기상/잠에서 깨는 것)"
       }
     },
-    "_tram_": {
+    "_tve_": {
       "뜻": "큼/거대함/광범위함/많음/높음/김",
       "파생": {
-        "w_tram_": "작음/미소함/적음/낮음/짧음"
+        "w_tve_": "작음/미소함/적음/낮음/짧음"
       }
     },
-    "elkomt | kom": {
+    "ikmat | kma": {
       "뜻": "승객|(탑승/타는 것/환승)",
       "파생": {
-        "w_kom_": "내림"
+        "w_kma_": "내림"
       }
     },
-    "_pom_": {
+    "_mco_": {
       "뜻": "통합/합성"
     },
-    "ethani | itathane | elthant | _than_": {
+    "entan | itantat | intat | _nta_": {
       "뜻": "투척 지점/던질 수 있는 곳|투사체|투수/던지는 자|(투척/던짐)"
     },
-    "_mapa_": {
+    "_mpa_": {
       "뜻": "특별",
       "파생": {
-        "w_mapa_": "평범"
+        "w_mpa_": "평범"
       }
     },
-    "eltubrt | _tubr_": {
+    "icfet | _cfe_": {
       "뜻": "거짓말쟁이|(평균 조작/왜곡/거짓말/기만)",
       "파생": {
-        "weletubrta | w_tubr_": "표준/법/법칙(평균/진실/기준)",
-        "_ter_ itubri": "평균 상승/신격화/미화",
-        "w_ter_ itubri": "평균 하락/차별/편견을 가짐"
+        "welecfeta | w_cfe_": "표준/법/법칙(평균/진실/기준)",
+        "_te_ icfei": "평균 상승/신격화/미화",
+        "w_te_ icfei": "평균 하락/차별/편견을 가짐"
       }
     },
-    "_hels_": {
+    "_hsi_": {
       "뜻": "평평함/매끈함",
       "파생": {
-        "welehelsta | w_els_": "각도|(기울어짐/울퉁불퉁함)"
+        "welehsita | w_hsi_": "각도|(기울어짐/울퉁불퉁함)"
       }
     },
-    "itablue | elblut | _blw_": {
+    "itavcam | ivcat | _vca_": {
       "뜻": "화약/폭탄|테러범|(폭발/테러)"
     },
-    "_bres_": {
+    "_vse_": {
       "뜻": "표현"
     },
-    "elebreta | elbret | itabree | ilibren | _bre_": {
+    "elecveta | icvet | itacvem | ilicven | _cve_": {
       "뜻": "목록|작성자|필기구/미술 도구|역사/지식|(필기/작성/그림/기록/작곡)",
       "파생": {
-        "welbret | witabree | webrei | w_bre_": "독자|종이/기록물/책/메모|도서관/미술관/박물관|(읽음/독서)"
+        "wicvet | witacvem | wecven | w_cve_": "독자|종이/기록물/책/메모|도서관/미술관/박물관|(읽음/독서)"
       }
     },
-    "_cam_": {
+    "_cma_": {
       "뜻": "필요/필수",
       "파생": {
-        "w_cam_": "불필요"
+        "w_cma_": "불필요"
       }
     },
-    "eletesta | _tes_": {
+    "electita | _cti_": {
       "뜻": "세부/부분(해석/설명)",
       "파생": {
-        "w_tes_": "이해"
+        "w_cti_": "이해"
       }
     },
-    "_pail_": {
+    "_pca_": {
       "뜻": "행복"
     },
-    "_hap_": {
+    "_pha_": {
       "뜻": "화려함",
       "파생": {
-        "w_hap_": "초라함"
+        "w_pha_": "초라함"
       }
     },
-    "_saclas_": {
+    "_sma_": {
       "뜻": "확률/가능성 있음/가능성"
     },
-    "_pos_": {
+    "_pso_": {
       "뜻": "확정/신뢰/믿음/신용",
       "파생": {
-        "w_pos_": "보류/불신"
+        "w_pso_": "보류/불신"
       }
     },
-    "sas": {
+    "_kza_": {
       "뜻": "분명함/확실함/명백함/선명함",
       "파생": {
-        "w_sas_": "모호함/미묘함"
+        "w_kza_": "모호함/미묘함"
       }
     },
-    "_tos_": {
+    "_tso_": {
       "뜻": "획득/얻은 것",
       "파생": {
-        "w_tos_": "손실/잃은 것",
-        "w_tosinesai_": "잊은 것/잊음/망각"
+        "w_tso_": "손실/잃은 것",
+        "w_tso inesai": "잊은 것/잊음/망각"
       }
     },
-    "_kei_": {
+    "_kse_": {
       "뜻": "후회"
     },
-    "emesi | elmest | _mes_": {
+    "emsen | imset | _mse_": {
       "뜻": "휴게소/쉼터|휴식자|(쉼/휴식)",
       "파생": {
-        "wemesi | welmest | ilimesn | w_mes_": "회사/일자리|일하는 자|급여/월급/시급|(노력/일)"
+        "wemsen | wimset | ilimsen | w_mse_": "회사/일자리|일하는 자|급여/월급/시급|(노력/일)"
       }
     },
-    "_ses_": {
+    "_ste_": {
       "뜻": "충실함/꾸준함",
       "파생": {
-        "w_ses_": "불성실함/변덕스러움/간헐적임"
+        "w_ste_": "불성실함/변덕스러움/간헐적임"
       }
     },
-    "elehasta | ehasi | _has_": {
+    "elehsata | ehsan | _hsa_": {
       "뜻": "액체|항구|(흐름)",
       "파생": {
-        "wthahram": "술 "
+        "wthahsa": "술 "
       }
     },
-    "elecesta | _ces_": {
+    "elecseta | _cse_": {
       "뜻": "고체|(견고함)",
       "파생": {
         "w_ces_": "부드러움/물렁함"
       }
     },
-    "_zes_": {
+    "_zse_": {
       "뜻": "흥미"
     },
-    "_pes_": {
+    "_pse_": {
       "뜻": "희망/원함/소망"
     }
   }
