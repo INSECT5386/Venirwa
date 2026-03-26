@@ -2,26 +2,26 @@
   "문법": {
     "어순": {
       "일반문 | [주어 수식] [주어] [부사어] [행위 명사] [목적어 수식] [목적어] [기타 부사구]": {
-        "uihisivl paleqaqecl.": "나는 보살핀다 유명한 뚱뚱한 동물을",
-        "xilitivl caniacl.": "사람은 이다 생각하는 동물",
-        "uitisivl eli erua.": "나는 그것을 준다 너에게",
-        "uihaqivl eliviltili 13.": "나는 논다 13시에",
-        "uipisivl mul.": "나는 도서관에서 책을 읽었다."
+        "uihisi paleqaqecl.": "나는 보살핀다 유명한 뚱뚱한 동물을",
+        "xiliti caniacl.": "사람은 이다 생각하는 동물",
+        "uitisi eli erua.": "나는 그것을 준다 너에게",
+        "uihaqi eliviltili 13.": "나는 논다 13시에",
+        "uipisi mul.": "나는 도서관에서 책을 읽었다."
       },
       "복합문 | [주어 수식] [주어] [부사어] [행위 명사] nu [배경 정보] [하위 문장]": {
-        "uimanponivl elmuctz nu halusili erua": "나는 본다 세상의 왼쪽에서 (nu 이하를) 뚱뚱한 사람이 무기를 주다 그에게"
+        "uimanponi elmuctz nu halusili erua": "나는 본다 세상의 왼쪽에서 (nu 이하를) 뚱뚱한 사람이 무기를 주다 그에게"
       },
       "목적문 | [주어 수식] [주어] [부사어1] [행위 명사1] [목적어 수식1] [목적어1] no [목적어 수식2] [목적어2] [부사어2] [행위 명사2]": {
-        "uixokivl hamansan no paleqaqecl": "나는 유명한 뚱뚱한 동물을 위해 음식을 산다."
+        "uixoki hamansan no paleqaqecl": "나는 유명한 뚱뚱한 동물을 위해 음식을 산다."
       },
       "요청문 | sacili [주어 수식] [주어] [행위 명사] [목적어 수식] [목적어] [부사어] [기타 부사구]": {
-        "sacili cisivl hamansan no oalia": "당신은 요리해주세요 음식을. 그들을 위해"
+        "sacili cisi hamansan no oalia": "당신은 요리해주세요 음식을. 그들을 위해"
       },
       "이유/피동문 | [대상 수식] [대상], [주어 수식] [주어] [부사어] [행위 명사] [기타 부사구]": {
-        "xialinacivl mul, inoa.": "사람들이 다친다 현장에서, 때문에 그 "
+        "xialinaci mul, inoa.": "사람들이 다친다 현장에서, 때문에 그 "
       },
       "명령문 | hui~ [주어 수식] [주어] [행위 명사] [목적어 수식] [목적어] [부사어] [기타 부사구]": {
-        "hui~ uahisivl xili muhit.": "너는 사람을 도와라. 학교에서"
+        "hui~ uahisi xili muhit.": "너는 사람을 도와라. 학교에서"
       }
     },
     "의문법": {
@@ -275,7 +275,7 @@
     "oa-": "그",
     "e-": "그것",
     "u-": "이것/저것",
-    "-ivl[C] | -vl[V]": "현재 동사",
+    "-i[C] | -vi[V]": "현재 동사",
     "-ili[C] | -li[V]": "명사",
     "-ia[C] | lia[V]": "복수형",
     "-ix[C] | -x[V]": "사람",
