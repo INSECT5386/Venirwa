@@ -1,12 +1,11 @@
-Q: sa AI hi.
-A: manehnosix sihnenax əpnis wm ehnosis af aiktis manash imesax AI.
-<end>
-Q: manehnosix sihnenax əpnis wm ehnosis af [mask] manash imesax [mask1]
-A: aiktis ax [mask] / AI ax [mask1]
-<end>
-Q: sa ehnəpn hi.
-A: əuix ehnaf əpnis əpnax ehnəpn
-<end>
-Q: əuix ehnaf [mask] əpnax [mask1]
-A: əpnis ax [mask] / ehnəpn ax [mask1]
-<end>
+əhix opnisaf əpnis imesax Machine Learning. wm əuix ehnix ishaf aiktis ax. əhix əhix opnisaf əbtis ax. wm sindix sindix ishix ishaf expenis ax. ws imiktis imesaf ektis ax. wn sishix sishix opnisaf sashnis ax. itn ishix ishix ohnaf somisis ax.
+
+əhix opnisaf əpnis imesax Machine Learning. wm əhix əhix opnisaf əbtis imesax ax. wm əuix ehnix ishaf aiktis ax. itn sindix sindix ishix ishaf expenis ax. wm ishix ohnaf ifsinis ax. wn sishix saimix ohnaf sashnis ax. ws imiktis imesaf ektis ax. wm nidptix ushnix sainanaf ahnis imesax ax.
+
+əhix əhix opnisaf əbtis ax. wm əhix opnisaf əpnis ax. wm əuix ehnosaf aiktis ax. ws ishix ishix ohnaf expenis ax. itn ifsinix ektis imesax ax. wm sishix saimix opnisaf sashnis ax. wm sindix sindix ishix ishaf expenis imesax Machine Learning. wm ishix ishix sainanaf ahnis imesax ax. wm nidptix ushnix amaf ahnis ax.
+
+əhix opnisaf əpnis imesax Machine Learning. wm əuix ehnix ishaf aiktis ax. əhix əhix opnisaf əbtis ax. wm sindix sindix ishix ishaf expenis ax. ws imiktis imesaf ektis ax. wn sishix sishix opnisaf sashnis ax. itn ishix ishix ohnaf somisis ax.
+
+əhix opnisaf əpnis imesax Machine Learning. wm əhix əhix opnisaf əbtis imesax ax. wm əuix ehnix ishaf aiktis ax. itn sindix sindix ishix ishaf expenis ax. wm ishix ohnaf ifsinis ax. wn sishix saimix ohnaf sashnis ax. ws imiktis imesaf ektis ax. wm nidptix ushnix sainanaf ahnis imesax ax.
+
+əhix əhix opnisaf əbtis ax. wm əhix opnisaf əpnis ax. wm əuix ehnosaf aiktis ax. ws ishix ishix ohnaf expenis ax. itn ifsinix ektis imesax ax. wm sishix saimix opnisaf sashnis ax. wm sindix sindix ishix ishaf expenis imesax Machine Learning. wm ishix ishix sainanaf ahnis imesax ax. wm nidptix ushnix amaf ahnis ax.
