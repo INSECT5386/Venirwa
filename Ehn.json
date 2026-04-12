@@ -2,9 +2,9 @@
   "문법": {
     "어순": {
       "일반문 | [기타 부사구] [목적어 수식] [목적어]af [어근 + 하는/했던/한] [주어]": {
-        "Isix ehnəpnaɣan ehnomisix et.": "냉정한 심리학을 이해한 나",
-        "Axaɣan efsix exaɣan uthis et.": "그것을 먹은 그를 보는 나",
-        "Manehnosix sihnenax əpnis wm ehnosis aɣan aiktis manash imesax AI": "인공지능의 약자이며, 학습, 추론 능력을 모방하는 컴퓨터 기술인 AI"
+        "Isəgn ehnəpnaɣan ehnomisəgn et.": "냉정한 심리학을 이해한 나",
+        "Axaɣan efsəgn exaɣan uthaɣan et.": "그것을 먹은 그를 보는 나",
+        "Manehnosix sihnenax əpnis wm ehnosis aɣan aikt oetł manash imesax AI": "생각하는 도구의 약자인, 학습, 추론 능력을 모방하는 컴퓨터 기술인 AI"
       },
       "요청문|목적문 | mvrs [부사어 + 하는/했던/한 + 주어] [목적어 수식] [목적어] li [기타]": {
         "vlspervot vlspud linot": "당신은 요리해주세요 음식을. 그를 위해"
@@ -178,8 +178,8 @@
       "ixp": "이것|저것"
     },
     "문법적": {
-      "_ix": "~한|의",
-      "_is": "~하는",
+      "~ [단어]əgn ...": "~를 [단어] 한|의 ...",
+      "~ [단어] oetł ...": "~를 [단어] 하는 ...",
       "_int": "~했던",
       "_inf": "~할",
       "_ax": "~인",
