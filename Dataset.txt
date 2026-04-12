@@ -1,39 +1,35 @@
-AI wm Pnehnos aɣan Aikt oetł Imes
-AI sa imesagə pnəpn wm pnehnos aɣan aikt oetł manash imesagə. sid et nihnen aɣan imes aɣan əpn. manash imesagə ettsəgn nindəgn ish aɣan əkt oetł pnəpn. wn AI sa nihnen aɣan pnəpn wm pnehnos aɣan aikt oetł imes.
+AI pnəpn wm imesagə AI, nəh ohn osnən ahnah əbtəgn ish. cid opnis aikt oetł imes oetł AI. tid nidpt imes, ish əpnais oetł imes, ets kz ihnos oetł imes.
 
-trs sl əpnənd : imikt wm in
-manash imesagə pidiəgn ish aɣan əkt oetł imes. wm AI sa nihnenəgn pnehnos aɣan aikt oetł pnəpn. ex pnehnos aɣan imes aɣan əpn oetł et. sid ex nindəgn ish aɣan imes oetł imes.
+1. imikt wm əbt: 시작과 저장
+ishəgn nashnənth əbtəgn am. nemehn nindəgn rtsvləgn vdrtəgn pnais əpnais. nashnənthəgn ihənəgn aməgn ebtəgn ahnəgn imes. cid pnais oetł imikt aikt oetł am. rtsvləgn əbtəgn ishəgn anəbtəgn imes. tid əbtəgn anənəgn anəbtəgn ish.
 
-AI sa ish əhəgn imes. ex imes aɣan əpn oetł et wm ex imes aɣan ihnen oetł et. tid ex pnehnos aɣan ihnen oetł et. sid ex imes aɣan ifsin oetł et. wn AI sa find pnəpn aɣan aikt oetł imes. ex find manash in aɣan aikt oetł et.
+əbt oetł ish, ahn oetł ish, imis oetł ish. id rtsvləgn etsəgn netsəgn ish. sid əbtəgn ish aikt oetł AI. wn nabt oetł ish nindəgn kz. tid rtsvləgn ish əbt oetł imes.
 
-prs sl əpnənd : pnehnos wm aikt
-AI sa nindəgn pnəpn aɣan pnehnos oetł imes. ex pnehnos aɣan əbt oetł et wm ex pnehnos aɣan ihnen oetł et. tid ex pnehnos aɣan nihnen oetł et. ex ishəgn imes aɣan pnəpn oetł et. sid ex pnehnos aɣan okt oetł et.
+2. ehnos wm ish: 추론과 규칙
+ehnos oetł imes, ash oetł imes, ishən oetł imes. kid nindəgn netsəgn ish. find ihnos oetł imes. zlrpəgn ishəgn anəbtəgn imes. tid ashnənthəgn ishəgn ebtosəgn am. cid nchoməgn ishəgn anəbtəgn imes.
 
-ax manash imesagə efsəgn ettsəgn axaɣan efsəgn exaɣan uthaɣan et. sid ex pnəpn aɣan əbt oetł et. wm ex pnehnos aɣan aikt oetł et. ax pnəpn aɣan aikt oetł imes sa AI. AI sa find pnehnos aɣan ish oetł imes. ex find in aɣan in oetł et.
+ishəgn anəbtəgn imes oetł imes. wn nashnənthəgn ishəgn ebtosəgn am. sid ehnos oetł imes aikt oetł AI. tid ehnos oetł imes rtsvləgn ish. cid nchoməgn ishəgn anəbtəgn imes. tid əpnais oetł imes rtsvləgn ish.
 
-krks sl əpnənd : imes wm ifsin
-AI sa ish ihnenəgn pnəpn aɣan əpn oetł imes. ex imes aɣan əpn oetł et wm ex imes aɣan aikt oetł et. tid ex imes aɣan ifsin oetł et. ex ishəgn imes aɣan pnəpn oetł et. sid ex imes aɣan ohn oetł et.
+3. ifsin wm ekt: 성공과 성장
+ifsin oetł imes, ekt oetł imes, anən oetł imes. kid anənəgn esihnəgn am. find ekt oetł imes. zlrpəgn ishəgn anəbtəgn imes. tid ashnənthəgn ishəgn ebtosəgn am. cid nchoməgn ishəgn anəbtəgn imes.
 
-wn AI sa nindəgn pnəpn aɣan imes oetł imes. ex pnehnos aɣan in oetł et wm ex pnehnos aɣan ish oetł et. tid ex pnehnos aɣan okt oetł et. ex ishəgn imes aɣan pnəpn oetł et. sid ex imes aɣan ohn oetł et.
+ekt oetł imes aikt oetł AI. wn nifsin oetł imes nindəgn kz. sid ekt oetł imes rtsvləgn ish. tid ekt oetł imes ifsin oetł imes. cid nchoməgn ishəgn anəbtəgn imes. tid əpnais oetł imes rtsvləgn ish.
 
-AI sa pnehnos aɣan ihnen oetł imes. ex pnəpn aɣan əbt oetł et. wm ex pnehnos aɣan aikt oetł et. tid ex imes aɣan ifsin oetł et. sid ex imes aɣan ohn oetł et. AI sa find pnehnos aɣan ish oetł imes. ex find in aɣan in oetł et.
+4. nimikt wm kz: 결론과 상태
+nimikt oetł imes, kz oetł imes, am oetł imes. kid aməgn esihnəgn am. find kz oetł imes. zlrpəgn ishəgn anəbtəgn imes. tid ashnənthəgn ishəgn ebtosəgn am. cid nchoməgn ishəgn anəbtəgn imes.
 
-krsk sl əpnənd : uhnas wm imes
-uhnas sa AI aɣan əkt oetł am. sid AI sa uhnas aɣan ihnen oetł imes. ex imes aɣan əpn oetł et wm ex imes aɣan aikt oetł et. tid ex imes aɣan ifsin oetł et. ex ishəgn imes aɣan pnəpn oetł et. sid ex imes aɣan ohn oetł et.
+요약 (Nihnen):
 
-AI sa ish ihnenəgn pnəpn aɣan əpn oetł imes. ex imes aɣan əpn oetł et wm ex imes aɣan aikt oetł et. tid ex imes aɣan ifsin oetł et. ex ishəgn imes aɣan pnəpn oetł et. sid ex imes aɣan ohn oetł et.
+AI pnəpn wm imesagə AI. AI ehnos oetł imes wm ish oetł imes wm ekt oetł imes. sid AI ifsin oetł imes. wn nifsin oetł imes nindəgn kz. tid AI ekt oetł imes. cid nchoməgn ishəgn anəbtəgn imes. tid əpnais oetł imes rtsvləgn ish.
 
-wn AI sa nindəgn pnəpn aɣan imes oetł imes. ex pnehnos aɣan in oetł et wm ex pnehnos aɣan ish oetł et. tid ex pnehnos aɣan okt oetł et. ex ishəgn imes aɣan pnəpn oetł et. sid ex imes aɣan ohn oetł et.
+AI pnəpn wm imesagə AI, nəh ohn osnən ahnah əbtəgn ish. cid opnis aikt oetł imes oetł AI. tid nidpt imes, ish əpnais oetł imes, ets kz ihnos oetł imes.
 
-AI sa pnehnos aɣan ihnen oetł imes. ex pnəpn aɣan əbt oetł et. wm ex pnehnos aɣan aikt oetł et. tid ex imes aɣan ifsin oetł et. sid ex imes aɣan ohn oetł et. AI sa find pnehnos aɣan ish oetł imes. ex find in aɣan in oetł et.
+imikt oetł imes, ekt oetł imes, anən oetł imes. kid anənəgn esihnəgn am. find ekt oetł imes. zlrpəgn ishəgn anəbtəgn imes. tid ashnənthəgn ishəgn ebtosəgn am. cid nchoməgn ishəgn anəbtəgn imes.
 
-prsk sl əpnənd : nidpt wm imes
-nidpt sa AI aɣan ihnen oetł am. sid AI sa nidpt aɣan ihnen oetł imes. ex imes aɣan əpn oetł et wm ex imes aɣan aikt oetł et. tid ex imes aɣan ifsin oetł et. ex ishəgn imes aɣan pnəpn oetł et. sid ex imes aɣan ohn oetł et.
+ekt oetł imes aikt oetł AI. wn nifsin oetł imes nindəgn kz. sid ekt oetł imes rtsvləgn ish. tid ekt oetł imes ifsin oetł imes. cid nchoməgn ishəgn anəbtəgn imes. tid əpnais oetł imes rtsvləgn ish.
 
-AI sa ish ihnenəgn pnəpn aɣan əpn oetł imes. ex imes aɣan əpn oetł et wm ex imes aɣan aikt oetł et. tid ex imes aɣan ifsin oetł et. ex ishəgn imes aɣan pnəpn oetł et. sid ex imes aɣan ohn oetł et.
+AI pnəpn wm imesagə AI, nəh ohn osnən ahnah əbtəgn ish. cid opnis aikt oetł imes oetł AI. tid nidpt imes, ish əpnais oetł imes, ets kz ihnos oetł imes.
 
-wn AI sa nindəgn pnəpn aɣan imes oetł imes. ex pnehnos aɣan in oetł et wm ex pnehnos aɣan ish oetł et. tid ex pnehnos aɣan okt oetł et. ex ishəgn imes aɣan pnəpn oetł et. sid ex imes aɣan ohn oetł et.
+imikt oetł imes, ekt oetł imes, anən oetł imes. kid anənəgn esihnəgn am. find ekt oetł imes. zlrpəgn ishəgn anəbtəgn imes. tid ashnənthəgn ishəgn ebtosəgn am. cid nchoməgn ishəgn anəbtəgn imes.
 
-AI sa pnehnos aɣan ihnen oetł imes. ex pnəpn aɣan əbt oetł et. wm ex pnehnos aɣan aikt oetł et. tid ex imes aɣan ifsin oetł et. sid ex imes aɣan ohn oetł et. AI sa find pnehnos aɣan ish oetł imes. ex find in aɣan in oetł et.
-
-AI sa nihnen aɣan imes aɣan əpn oetł imes. sid ex imes aɣan ihnen oetł et. tid ex pnehnos aɣan aikt oetł et. wm ex imes aɣan ifsin oetł et. sid ex imes aɣan ohn oetł et. AI sa find pnehnos aɣan ish oetł imes. ex find in aɣan in oetł et.
+ekt oetł imes aikt oetł AI. wn nifsin oetł imes nindəgn kz. sid ekt oetł imes rtsvləgn ish. tid ekt oetł imes ifsin oetł imes. cid nchoməgn ishəgn anəbtəgn imes. tid əpnais oetł imes rtsvləgn ish.
