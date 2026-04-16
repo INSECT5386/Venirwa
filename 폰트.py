@@ -181,7 +181,7 @@ def create_ttf(path, data):
         target_h = UNITS_PER_EM * 0.8
         scale = target_h / max(draw_w, draw_h, 100)
         
-        # 실제 글자 너비 계산: (그려진 폭 * 스케일) + 좌우 여백
+        # 실제 글자 너비 계산: (려진 폭 * 스케일) + 좌우 여백
         glyph_width = int(draw_w * scale + (SIDE_BEARING * 2))
 
         def tr(x, y):
@@ -191,7 +191,7 @@ def create_ttf(path, data):
             ty = (max_y - y) * scale + (UNITS_PER_EM - target_h) / 2
             return tx, ty
 
-        # 곡선 그리기 로직 (동일)
+        # 곡선 리기 로직 (동일)
         half_w = FONT_STROKE_THICK / 2
         for (x1, y1, cx, cy, x2, y2) in curves:
             points = [tr(px, py) for px, py in [
@@ -226,7 +226,7 @@ def create_ttf(path, data):
                     pen.lineTo((first_p[0]+math.cos(a)*half_w, first_p[1]+math.sin(a)*half_w))
                 pen.closePath()
 
-        # 점 그리기 로직 (동일)
+        # 점 리기 로직 (동일)
         for (dx, dy, dr) in dots:
             fx, fy = tr(dx, dy)
             fsr = dr * scale
