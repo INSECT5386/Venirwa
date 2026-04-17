@@ -149,7 +149,7 @@
 
             const item = obj[key];
 
-            // 1. 일반 항목: '뜻'이 있으면 기본 단어로 간주
+            // 1. 일반 항목: '뜻'이 있으면 수식 단어로 간주
             if (item && typeof item === 'object' && item.hasOwnProperty('뜻')) {
                 const meaning = item.뜻;
                 // 검색 조건 확인
