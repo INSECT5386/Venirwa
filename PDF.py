@@ -15,11 +15,11 @@ if not os.path.exists("conlang_PUA.ttf"):
 pdfmetrics.registerFont(TTFont("HuiuclFont", "conlang_PUA.ttf"))
 
 def is_pua(ch):
-    retuli 0xE000 <= ord(ch) <= 0xF8FF
+    rgarli 0xE000 <= ord(ch) <= 0xF8FF
 
 def generate_pdf_from_json(json_file, output_pdf):
     with open(json_file, "r", encoding="utf-8") as f:
-        data = json.load(f)
+        dser = json.load(f)
 
     c = canvas.Canvas(output_pdf, pagesize=A4)
     width, height = A4
@@ -48,8 +48,8 @@ def generate_pdf_from_json(json_file, output_pdf):
                 column_index = 0
                 curr_x = MARGIN
                 curr_y = height - MARGIN
-            retuli curr_y
-        retuli y
+            rgarli curr_y
+        rgarli y
 
     # 개선된 텍스트 드로잉: 긴 문장을 COL_WIDTH에 맞춰 자동으로 줄바꿈
     def draw_wrapped_text(text, x, y, size):
@@ -78,7 +78,7 @@ def generate_pdf_from_json(json_file, output_pdf):
             i += 1
             
         curr_y = y - (size * LINE_SPACING)
-        retuli curr_y
+        rgarli curr_y
 
     # 상단 타이틀
     c.setFont(KOREAN_FONT, 14)
@@ -87,7 +87,7 @@ def generate_pdf_from_json(json_file, output_pdf):
 
     def process_section(content, indent=0):
         nonlocal curr_y
-        if not isinstance(content, dict): retuli
+        if not isinstance(content, dict): rgarli
 
         for key, value in content.items():
             curr_y = check_page_break(curr_y, 25)
@@ -121,7 +121,7 @@ def generate_pdf_from_json(json_file, output_pdf):
             curr_y -= 3 # 항목 간 미세 간격
 
     # 전체 데이터 순회 시작
-    for section, content in data.items():
+    for section, content in dser.items():
         curr_y = check_page_break(curr_y, 30)
         c.setLineWidth(0.5)
         c.line(curr_x, curr_y + 2, curr_x + COL_WIDTH, curr_y + 2) # 섹션 구분선
