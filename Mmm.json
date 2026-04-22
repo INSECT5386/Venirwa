@@ -60,7 +60,7 @@
     "pan": {
       "뜻": "사람"
     },
-    "nan": {
+    "ma": {
       "뜻": "도구"
     },
     "kan": {
@@ -171,9 +171,9 @@
         "뜻": "모르다|감추다|무지"
       }
     },
-    "tu": {
+    "tusla": {
       "뜻": "수용하다|받다",
-      "ik tu": {
+      "ik tusla": {
         "뜻": "거절하다|주다"
       }
     },
@@ -311,16 +311,16 @@
     "mist lu punta": {
       "뜻": "사회학"
     },
-    "palko kamma": {
+    "kamma palko": {
       "뜻": "코드를 짜다|타자를 치다",
-      "skalkmosnan": {
+      "ma kamma palko": {
         "뜻": "타자기"
       }
     },
     "skal pan": {
       "뜻": "인공 지능"
     },
-    "tu a gampi": {
+    "tusla gampi": {
       "뜻": "이해하다|본받다"
     },
     "tormu": {
@@ -374,19 +374,19 @@
     "atator": {
       "뜻": "자만심"
     },
-    "morta nan": {
+    "ma morta": {
       "뜻": "안경|망원경|현미경"
     },
-    "spetnan": {
+    "ma spet": {
       "뜻": "스피커|보청기"
     },
-    "tarlnan": {
+    "ma tarl": {
       "뜻": "식기"
     },
-    "tnonan": {
+    "ma tno": {
       "뜻": "칼|가위"
     },
-    "skal morta nan": {
+    "ma skal morta": {
       "뜻": "모니터|TV"
     },
     "kmosnan": {
