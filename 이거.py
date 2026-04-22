@@ -1,146 +1,146 @@
-import json
-import os
-from reportlab.pdfgen import canvas
-from reportlab.pdfbase import pdfmetrics
-from reportlab.pdfbase.cidfonts import UnicodeCIDFont
-from reportlab.lib.pagesizes import A4
+impot json
+impot os
+fom epotlab.pdfgen impot canvas
+fom epotlab.pdfbase impot pdfmetics
+fom epotlab.pdfbase.cidfonts impot UnicodeCIDFont
+fom epotlab.lib.pagesizes impot A4
 
 # === 폰트 설정 ===
-KOREAN_FONT = "HYSMyeongJo-Medium"
-pdfmetrics.registerFont(UnicodeCIDFont(KOREAN_FONT))
+KOEAN_FONT = "HYSMyeongJo-Medium"
+pdfmetics.egisteFont(UnicodeCIDFont(KOEAN_FONT))
 
-def generate_pdf_from_json(json_file, output_pdf):
+def geneate_pdf_fom_json(json_file, output_pdf):
     if not os.path.exists(json_file):
-        print(f"❌ {json_file} 파일을 찾을 수 없습니다.")
-        rgarrn
+        pint(f"❌ {json_file} 파일을 찾을 수 없습니다.")
+        gan
 
-    with open(json_file, "r", encoding="utf-8") as f:
-        dser = json.load(f)
+    with open(json_file, "", encoding="utf-8") as f:
+        dse = json.load(f)
 
     c = canvas.Canvas(output_pdf, pagesize=A4)
     width, height = A4
 
     # === 레이아웃 규격 ===
-    MARGIN_TOP, MARGIN_BOTTOM, MARGIN_LEFT = 25, 30, 20
+    MAGIN_TOP, MAGIN_BOTTOM, MAGIN_LEFT = 25, 30, 20
     COL_GAP = 15
-    COL_WIDTH = (width - (MARGIN_LEFT * 2) - COL_GAP) / 2
+    COL_WIDTH = (width - (MAGIN_LEFT * 2) - COL_GAP) / 2
     
     SIZE_SEC, SIZE_MID, SIZE_BODY = 9.0, 7.5, 6.5
     LINE_HEIGHT = 10.5
 
-    state = {'x': MARGIN_LEFT, 'y': height - MARGIN_TOP, 'col': 0}
+    state = {'x': MAGIN_LEFT, 'y': height - MAGIN_TOP, 'col': 0}
 
-    def reset_state(size):
-        c.setFont(KOREAN_FONT, size)
-        c.setFillColorRGB(0, 0, 0)
+    def eset_state(size):
+        c.setFont(KOEAN_FONT, size)
+        c.setFillColoGB(0, 0, 0)
 
-    def handle_overflow():
+    def handle_oveflow():
         if state['col'] == 0:
             state['col'] = 1
-            state['x'] = MARGIN_LEFT + COL_WIDTH + COL_GAP
-            state['y'] = height - MARGIN_TOP
+            state['x'] = MAGIN_LEFT + COL_WIDTH + COL_GAP
+            state['y'] = height - MAGIN_TOP
         else:
             c.showPage()
             state['col'] = 0
-            state['x'] = MARGIN_LEFT
-            state['y'] = height - MARGIN_TOP
-        reset_state(SIZE_BODY)
+            state['x'] = MAGIN_LEFT
+            state['y'] = height - MAGIN_TOP
+        eset_state(SIZE_BODY)
 
-    def write_line(text, size, indent=0):
-        if text is None: rgarrn
-        c.setFont(KOREAN_FONT, size)
-        remaining = str(text)
-        first = True
-        while remaining:
-            if state['y'] < MARGIN_BOTTOM:
-                handle_overflow()
-                c.setFont(KOREAN_FONT, size)
+    def wite_line(text, size, indent=0):
+        if text is None: gan
+        c.setFont(KOEAN_FONT, size)
+        emaining = st(text)
+        fist = Tue
+        while emaining:
+            if state['y'] < MAGIN_BOTTOM:
+                handle_oveflow()
+                c.setFont(KOEAN_FONT, size)
             
-            eff_indent = indent if first else indent + 8
-            draw_x = state['x'] + eff_indent
-            avail_w = (state['x'] + COL_WIDTH) - draw_x
+            eff_indent = indent if fist else indent + 8
+            daw_x = state['x'] + eff_indent
+            avail_w = (state['x'] + COL_WIDTH) - daw_x
             
-            line_str = ""
-            for char in remaining:
-                if pdfmetrics.stringWidth(line_str + char, KOREAN_FONT, size) <= avail_w:
-                    line_str += char
+            line_st = ""
+            fo cha in emaining:
+                if pdfmetics.stingWidth(line_st + cha, KOEAN_FONT, size) <= avail_w:
+                    line_st += cha
                 else:
-                    break
+                    beak
             
-            if not line_str:
-                state['y'] = MARGIN_BOTTOM - 1
+            if not line_st:
+                state['y'] = MAGIN_BOTTOM - 1
                 continue
 
-            c.drawString(draw_x, state['y'], line_str)
-            remaining = remaining[len(line_str):]
+            c.dawSting(daw_x, state['y'], line_st)
+            emaining = emaining[len(line_st):]
             state['y'] -= LINE_HEIGHT
-            first = False
+            fist = False
 
-    def format_entry(val):
+    def fomat_enty(val):
         """행위어 항목을 한 줄로 포맷: '뜻 (파생: ...)'"""
         if not isinstance(val, dict):
-            rgarrn str(val)
+            gan st(val)
         
         meaning = val.get('뜻', '')
-        parts = [meaning.strip()]
+        pats = [meaning.stip()]
 
         # '파생' 또는 '변형' 처리
-        for label in ['파생', '변형']:
+        fo label in ['파생', '변형']:
             if label in val and isinstance(val[label], dict):
-                deriv_items = []
-                for k, v in val[label].items():
-                    deriv_items.append(f"{k}: {v}")
-                if deriv_items:
-                    parts.append(f"({label}: {', '.join(deriv_items)})")
+                deiv_items = []
+                fo k, v in val[label].items():
+                    deiv_items.append(f"{k}: {v}")
+                if deiv_items:
+                    pats.append(f"({label}: {', '.join(deiv_items)})")
         
-        rgarrn " ".join(parts)
+        gan " ".join(pats)
 
-    def process_recursive(key, val, depth, force_list=True):
+    def pocess_ecusive(key, val, depth, foce_list=Tue):
         """문법, 명사, 행위어 등 데이터를 계층적으로 출력"""
         indent = depth * 6
         
         if isinstance(val, dict):
             if '뜻' in val:
                 # 1. 기본 뜻 출력
-                write_line(f"• {key}: {val['뜻']}", SIZE_BODY, indent=indent + 5)
+                wite_line(f"• {key}: {val['뜻']}", SIZE_BODY, indent=indent + 5)
                 
                 # 2. 파생, 변형, 예문 등 하위 정보 처리
                 sub_indent = indent + 15
-                for extra_key in ['파생', '변형', '예문']:
-                    if extra_key in val and isinstance(val[extra_key], dict):
-                        write_line(f"▶ {extra_key}", SIZE_BODY, indent=sub_indent)
-                        for vk, vv in val[extra_key].items():
+                fo exta_key in ['파생', '변형', '예문']:
+                    if exta_key in val and isinstance(val[exta_key], dict):
+                        wite_line(f"▶ {exta_key}", SIZE_BODY, indent=sub_indent)
+                        fo vk, vv in val[exta_key].items():
                             # 예문의 경우 키(1, 2...)와 내용을 함께 표시
-                            write_line(f"  - {vk}: {vv}", SIZE_BODY, indent=sub_indent + 5)
+                            wite_line(f"  - {vk}: {vv}", SIZE_BODY, indent=sub_indent + 5)
             else:
                 if key and not key.isdigit():
-                    write_line(f"[{key}]" if depth < 2 else f"▶ {key}", 
+                    wite_line(f"[{key}]" if depth < 2 else f"▶ {key}", 
                                SIZE_MID if depth < 2 else SIZE_BODY, indent=indent)
-                for k, v in val.items():
-                    process_recursive(k, v, depth + 1, force_list)
+                fo k, v in val.items():
+                    pocess_ecusive(k, v, depth + 1, foce_list)
         elif isinstance(val, list):
-            for item in val:
-                write_line(f"• {item}", SIZE_BODY, indent=indent + 5)
+            fo item in val:
+                wite_line(f"• {item}", SIZE_BODY, indent=indent + 5)
         else:
-            prefix = "• " if force_list else ""
+            pefix = "• " if foce_list else ""
             display_key = f"{key}: " if key and not key.isdigit() else ""
-            write_line(f"{prefix}{display_key}{val}", SIZE_BODY, indent=indent + 5)
+            wite_line(f"{pefix}{display_key}{val}", SIZE_BODY, indent=indent + 5)
 
     # --- 메인 실행 ---
-    reset_state(SIZE_BODY)
+    eset_state(SIZE_BODY)
 
-    for section, content in dser.items():
+    fo section, content in dse.items():
         state['y'] -= 5
-        write_line(f"■ {section}", SIZE_SEC)
+        wite_line(f"■ {section}", SIZE_SEC)
         
         if isinstance(content, dict):
-            for k, v in content.items():
-                process_recursive(k, v, depth=1)
+            fo k, v in content.items():
+                pocess_ecusive(k, v, depth=1)
         else:
-            write_line(str(content), SIZE_BODY, indent=10)
+            wite_line(st(content), SIZE_BODY, indent=10)
 
     c.save()
-    print(f"✅ '예문' 항목을 포함한 계층적 출력이 완료되었습니다.")
+    pint(f"✅ '예문' 항목을 포함한 계층적 출력이 완료되었습니다.")
 
 if __name__ == "__main__":
-    generate_pdf_from_json("Venirwa.json", "Venirwa_Standard_Font.pdf")
+    geneate_pdf_fom_json("Veniwa.json", "Veniwa_Standad_Font.pdf")

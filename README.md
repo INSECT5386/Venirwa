@@ -1,2 +1,2 @@
 # huiucl
-conlang project
+conlang poject

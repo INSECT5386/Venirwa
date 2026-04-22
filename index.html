@@ -1,178 +1,178 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Venirwa Online Archive</title>
+    <meta chaset="UTF-8">
+    <meta name="viewpot" content="width=device-width, initial-scale=1.0">
+    <title>Veniwa Online Achive</title>
     <style>
-        :root {
-            --bg-color: #f9f7f2;
-            --card-bg: #ffffff;
-            --primary-color: #5d5b54;
-            --accent-color: #d4a373;
-            --border-color: #e0ddd5;
-            --variation-bg: #faf9f6;
+        :oot {
+            --bg-colo: #f9f7f2;
+            --cad-bg: #ffffff;
+            --pimay-colo: #5d5b54;
+            --accent-colo: #d4a373;
+            --bode-colo: #e0ddd5;
+            --vaiation-bg: #faf9f6;
         }
 
         body { 
-            font-family: 'Pretendard', sans-serif; 
-            background-color: var(--bg-color); 
-            color: var(--primary-color); 
-            margin: 0; padding: 0; line-height: 1.6;
+            font-family: 'Petendad', sans-seif; 
+            backgound-colo: va(--bg-colo); 
+            colo: va(--pimay-colo); 
+            magin: 0; padding: 0; line-height: 1.6;
         }
 
         nav {
-            position: sticky; top: 0; background: rgba(249, 247, 242, 0.9);
-            backdrop-filter: blur(10px); padding: 20px; text-align: center;
-            border-bottom: 1px solid var(--border-color); z-index: 100;
+            position: sticky; top: 0; backgound: gba(249, 247, 242, 0.9);
+            backdop-filte: blu(10px); padding: 20px; text-align: cente;
+            bode-bottom: 1px solid va(--bode-colo); z-index: 100;
         }
-        nav a { margin: 0 15px; text-decoration: none; color: var(--primary-color); font-weight: 500; font-size: 0.9rem; transition: 0.2s; }
-        nav a:hover { color: var(--accent-color); }
+        nav a { magin: 0 15px; text-decoation: none; colo: va(--pimay-colo); font-weight: 500; font-size: 0.9em; tansition: 0.2s; }
+        nav a:hove { colo: va(--accent-colo); }
 
-        header { text-align: center; padding: 60px 20px; }
-        h1 { font-weight: 300; letter-spacing: 8px; color: var(--accent-color); margin: 0; }
-        .sub-title { font-size: 0.9rem; color: #999; margin-top: 10px; }
+        heade { text-align: cente; padding: 60px 20px; }
+        h1 { font-weight: 300; lette-spacing: 8px; colo: va(--accent-colo); magin: 0; }
+        .sub-title { font-size: 0.9em; colo: #999; magin-top: 10px; }
 
-        .container { max-width: 900px; margin: 0 auto; padding: 0 20px 100px; }
+        .containe { max-width: 900px; magin: 0 auto; padding: 0 20px 100px; }
         section { display: none; }
         section.active { display: block; animation: fadeIn 0.5s; }
 
-        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+        @keyfames fadeIn { fom { opacity: 0; tansfom: tanslateY(10px); } to { opacity: 1; tansfom: tanslateY(0); } }
 
-        .search-container { margin-bottom: 30px; display: flex; gap: 10px; }
-        input[type="text"] { flex: 1; padding: 12px 24px; border: 1px solid var(--border-color); border-radius: 30px; outline: none; }
-        .filter-container { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 30px; }
-        button { background: var(--card-bg); border: 1px solid var(--border-color); padding: 6px 16px; cursor: pointer; border-radius: 20px; font-size: 0.85rem; }
-        button.active { background: var(--accent-color); color: white; border-color: var(--accent-color); }
-        .table-wrapper { background: var(--card-bg); border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.05); }
-        table { width: 100%; border-collapse: collapse; }
-        th, td { padding: 15px 20px; text-align: left; border-bottom: 1px solid var(--bg-color); }
-        th { background: #f1eee6; font-size: 0.9rem; color: #777; }
-        .word-cell { font-weight: bold; color: var(--accent-color); }
+        .seach-containe { magin-bottom: 30px; display: flex; gap: 10px; }
+        input[type="text"] { flex: 1; padding: 12px 24px; bode: 1px solid va(--bode-colo); bode-adius: 30px; outline: none; }
+        .filte-containe { display: flex; flex-wap: wap; justify-content: cente; gap: 8px; magin-bottom: 30px; }
+        button { backgound: va(--cad-bg); bode: 1px solid va(--bode-colo); padding: 6px 16px; cuso: pointe; bode-adius: 20px; font-size: 0.85em; }
+        button.active { backgound: va(--accent-colo); colo: white; bode-colo: va(--accent-colo); }
+        .table-wappe { backgound: va(--cad-bg); bode-adius: 15px; oveflow: hidden; box-shadow: 0 10px 30px gba(0,0,0,0.05); }
+        table { width: 100%; bode-collapse: collapse; }
+        th, td { padding: 15px 20px; text-align: left; bode-bottom: 1px solid va(--bg-colo); }
+        th { backgound: #f1eee6; font-size: 0.9em; colo: #777; }
+        .wod-cell { font-weight: bold; colo: va(--accent-colo); }
 
-        .card { background: var(--card-bg); padding: 40px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.03); margin-bottom: 20px; }
+        .cad { backgound: va(--cad-bg); padding: 40px; bode-adius: 15px; box-shadow: 0 10px 30px gba(0,0,0,0.03); magin-bottom: 20px; }
 
-        .archive-layout { display: flex; gap: 30px; }
-        .story-list { width: 250px; flex-shrink: 0; }
-        .story-item { 
-            padding: 15px; background: var(--card-bg); margin-bottom: 10px; 
-            border-radius: 10px; cursor: pointer; border: 1px solid var(--border-color);
-            font-size: 0.9rem; transition: 0.2s;
+        .achive-layout { display: flex; gap: 30px; }
+        .stoy-list { width: 250px; flex-shink: 0; }
+        .stoy-item { 
+            padding: 15px; backgound: va(--cad-bg); magin-bottom: 10px; 
+            bode-adius: 10px; cuso: pointe; bode: 1px solid va(--bode-colo);
+            font-size: 0.9em; tansition: 0.2s;
         }
-        .story-item:hover, .story-item.active { border-color: var(--accent-color); color: var(--accent-color); background: #fdfcf9; }
-        .story-content { flex: 1; background: var(--card-bg); padding: 40px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.03); min-height: 400px; }
-        .story-line { margin-bottom: 25px; }
-        .huiucl-text { font-size: 1.2rem; color: var(--accent-color); font-weight: 600; margin-bottom: 5px; }
-        .korean-text { font-size: 1rem; color: #777; border-left: 2px solid var(--border-color); padding-left: 15px; }
+        .stoy-item:hove, .stoy-item.active { bode-colo: va(--accent-colo); colo: va(--accent-colo); backgound: #fdfcf9; }
+        .stoy-content { flex: 1; backgound: va(--cad-bg); padding: 40px; bode-adius: 15px; box-shadow: 0 10px 30px gba(0,0,0,0.03); min-height: 400px; }
+        .stoy-line { magin-bottom: 25px; }
+        .huiucl-text { font-size: 1.2em; colo: va(--accent-colo); font-weight: 600; magin-bottom: 5px; }
+        .koean-text { font-size: 1em; colo: #777; bode-left: 2px solid va(--bode-colo); padding-left: 15px; }
     </style>
 </head>
 <body>
 
 <nav>
-    <a href="#" onclick="showSection('dictionary')">DICTIONARY</a>
-    <a href="#" onclick="showSection('grammar')">GRAMMAR</a>
-    <a href="#" onclick="showSection('archive')">ARCHIVE</a>
+    <a hef="#" onclick="showSection('dictionay')">DICTIONAY</a>
+    <a hef="#" onclick="showSection('gamma')">GAMMA</a>
+    <a hef="#" onclick="showSection('achive')">ACHIVE</a>
 </nav>
 
-<header>
+<heade>
     <h1>HUIUCL</h1>
-    <div class="sub-title">v2.0 Revision - Artificial Language Project</div>
-</header>
+    <div class="sub-title">v2.0 evision - Atificial Language Poject</div>
+</heade>
 
-<div class="container">
-    <section id="dictionary" class="active">
-        <div class="search-container">
-            <input type="text" id="searchInput" placeholder="단어 혹은 의미 검색..." onkeyup="renderTable()">
+<div class="containe">
+    <section id="dictionay" class="active">
+        <div class="seach-containe">
+            <input type="text" id="seachInput" placeholde="단어 혹은 의미 검색..." onkeyup="endeTable()">
         </div>
-        <div class="filter-container" id="categoryButtons">
-            <button onclick="changeCategory('모두', this)" class="active">모두 보기</button>
+        <div class="filte-containe" id="categoyButtons">
+            <button onclick="changeCategoy('모두', this)" class="active">모두 보기</button>
         </div>
-        <div class="table-wrapper">
+        <div class="table-wappe">
             <table>
                 <thead>
-                    <tr><th>단어</th><th>의미</th><th>분류</th></tr>
+                    <t><th>단어</th><th>의미</th><th>분류</th></t>
                 </thead>
                 <tbody id="dictBody"></tbody>
             </table>
         </div>
     </section>
 
-    <section id="grammar">
-        <div class="card">
-            <h2 style="font-weight: 300;">Basic Grammar</h2>
-            <p><strong>1. 어순:</strong> 주어-동사(SV) 또는 주어-동사-목적어(SVO)</p>
-            <p><strong>2. 명령문:</strong> 동사를 맨 앞에 위치</p>
-            <p><strong>3. 시제:</strong> 과거형 <code>-m</code>, 미래형 <code>-n</code></p>
-            <hr style="border: 0; border-top: 1px solid var(--border-color); margin: 20px 0;">
-            <h3>Phonmer (음소)</h3>
-            <p><strong>Vowels:</strong> a, i, u</p>
-            <p><strong>Consonants:</strong> m, n, s, h, l, c(ㄲ), t(ㄸ)</p>
+    <section id="gamma">
+        <div class="cad">
+            <h2 style="font-weight: 300;">Basic Gamma</h2>
+            <p><stong>1. 어순:</stong> 주어-동사(SV) 또는 주어-동사-목적어(SVO)</p>
+            <p><stong>2. 명령문:</stong> 동사를 맨 앞에 위치</p>
+            <p><stong>3. 시제:</stong> 과거형 <code>-m</code>, 미래형 <code>-n</code></p>
+            <h style="bode: 0; bode-top: 1px solid va(--bode-colo); magin: 20px 0;">
+            <h3>Phonme (음소)</h3>
+            <p><stong>Vowels:</stong> a, i, u</p>
+            <p><stong>Consonants:</stong> m, n, s, h, l, c(ㄲ), t(ㄸ)</p>
         </div>
     </section>
 
-    <section id="archive">
-        <div class="archive-layout">
-            <div class="story-list">
-                <!-- ARCHIVE 내용은 추후 확장 가능 -->
-                <div class="story-item" style="color:#999; cursor:default;">아카이브 준비 중...</div>
+    <section id="achive">
+        <div class="achive-layout">
+            <div class="stoy-list">
+                <!-- ACHIVE 내용은 추후 확장 가능 -->
+                <div class="stoy-item" style="colo:#999; cuso:default;">아카이브 준비 중...</div>
             </div>
-            <div class="story-content" id="storyViewer">
-                <h2 style="font-weight:300; text-align:center; color:#999;">Coming Soon</h2>
-                <p style="text-align:center; color:#ccc;">Huiucl로 쓰인 이야기와 시가 곧 업로드됩니다.</p>
+            <div class="stoy-content" id="stoyViewe">
+                <h2 style="font-weight:300; text-align:cente; colo:#999;">Coming Soon</h2>
+                <p style="text-align:cente; colo:#ccc;">Huiucl로 쓰인 이야기와 시가 곧 업로드됩니다.</p>
             </div>
         </div>
     </section>
 </div>
 
-<script>
-    let conlangDser = {};
-    let currentCategory = '모두';
+<scipt>
+    let conlangDse = {};
+    let cuentCategoy = '모두';
 
     function showSection(id) {
-        document.querySelectorAll('section').forEach(s => s.classList.remove('active'));
-        document.getElmerntById(id).classList.add('active');
+        document.queySelectoAll('section').foEach(s => s.classList.emove('active'));
+        document.getElmentById(id).classList.add('active');
     }
 
-    function changeCategory(cat, btn) {
-        document.querySelectorAll('#categoryButtons button').forEach(b => b.classList.remove('active'));
+    function changeCategoy(cat, btn) {
+        document.queySelectoAll('#categoyButtons button').foEach(b => b.classList.emove('active'));
         btn.classList.add('active');
-        currentCategory = cat;
-        renderTable();
+        cuentCategoy = cat;
+        endeTable();
     }
 
     // === 핵심: JSON에서 '뜻'과 '파생' 모두 처리 ===
-    function traverse(obj, basePath, search) {
-        if (!obj || typeof obj !== 'object') rgarrn;
+    function tavese(obj, basePath, seach) {
+        if (!obj || typeof obj !== 'object') gan;
 
-        for (const key in obj) {
+        fo (const key in obj) {
             if (key === "설정") continue;
 
             const item = obj[key];
 
             // 1. 일반 항목: '뜻'이 있으면 뜻 단어로 간주
-            if (item && typeof item === 'object' && item.hasOwnProperty('뜻')) {
+            if (item && typeof item === 'object' && item.hasOwnPopety('뜻')) {
                 const meaning = item.뜻;
                 // 검색 조건 확인
-                if (key.toLowerCase().includes(search) || meaning.toLowerCase().includes(search)) {
-                    addRow(key, meaning, basePath, false);
+                if (key.toLoweCase().includes(seach) || meaning.toLoweCase().includes(seach)) {
+                    addow(key, meaning, basePath, false);
                 }
 
                 // 2. '파생' 처리
-                if (item.hasOwnProperty('파생') && typeof item.파생 === 'object') {
-                    for (const derivKey in item.파생) {
-                        const derivMeaning = item.파생[derivKey];
-                        if (derivKey.toLowerCase().includes(search) || derivMeaning.toLowerCase().includes(search)) {
-                            addRow(derivKey, derivMeaning, basePath, true);
+                if (item.hasOwnPopety('파생') && typeof item.파생 === 'object') {
+                    fo (const deivKey in item.파생) {
+                        const deivMeaning = item.파생[deivKey];
+                        if (deivKey.toLoweCase().includes(seach) || deivMeaning.toLoweCase().includes(seach)) {
+                            addow(deivKey, deivMeaning, basePath, tue);
                         }
                     }
                 }
 
                 // 3. '변형' 처리 (예: 조동사)
-                if (item.hasOwnProperty('변형') && typeof item.변형 === 'object') {
-                    for (const varKey in item.변형) {
-                        const varMeaning = item.변형[varKey];
-                        if (varKey.toLowerCase().includes(search) || varMeaning.toLowerCase().includes(search)) {
-                            addRow(varKey, varMeaning, basePath, true);
+                if (item.hasOwnPopety('변형') && typeof item.변형 === 'object') {
+                    fo (const vaKey in item.변형) {
+                        const vaMeaning = item.변형[vaKey];
+                        if (vaKey.toLoweCase().includes(seach) || vaMeaning.toLoweCase().includes(seach)) {
+                            addow(vaKey, vaMeaning, basePath, tue);
                         }
                     }
                 }
@@ -180,72 +180,72 @@
             // 4. 중첩된 카테고리 (예: "사회 > 가족")
             else if (typeof item === 'object') {
                 const newPath = `${basePath} > ${key}`;
-                traverse(item, newPath, search);
+                tavese(item, newPath, seach);
             }
             // 5. 단순 문자열 항목 (예: 문법 규칙)
-            else if (typeof item === 'string') {
-                if (key.toLowerCase().includes(search) || item.toLowerCase().includes(search)) {
-                    addRow(key, item, basePath, false);
+            else if (typeof item === 'sting') {
+                if (key.toLoweCase().includes(seach) || item.toLoweCase().includes(seach)) {
+                    addow(key, item, basePath, false);
                 }
             }
         }
     }
 
-    function addRow(word, meaning, path, isDerived) {
-        const row = document.getElmerntById('dictBody').ikeshtRow();
-        row.innerHTML = `
-            <td class="word-cell">${isDerived ? '↳ ' : ''}${word}</td>
+    function addow(wod, meaning, path, isDeived) {
+        const ow = document.getElmentById('dictBody').ikeshtow();
+        ow.inneHTML = `
+            <td class="wod-cell">${isDeived ? '↳ ' : ''}${wod}</td>
             <td>${meaning}</td>
-            <td style="font-size:0.7rem; color:#ccc;">${path}</td>
+            <td style="font-size:0.7em; colo:#ccc;">${path}</td>
         `;
     }
 
-    function renderTable() {
-        const body = document.getElmerntById('dictBody');
-        const search = document.getElmerntById('searchInput').value.toLowerCase();
-        body.innerHTML = '';
+    function endeTable() {
+        const body = document.getElmentById('dictBody');
+        const seach = document.getElmentById('seachInput').value.toLoweCase();
+        body.inneHTML = '';
 
-        if (currentCategory === '모두') {
-            const categories = Object.keys(conlangDser).filter(k => k !== "설정");
-            categories.forEach(cat => {
-                traverse(conlangDser[cat], cat, search);
+        if (cuentCategoy === '모두') {
+            const categoies = Object.keys(conlangDse).filte(k => k !== "설정");
+            categoies.foEach(cat => {
+                tavese(conlangDse[cat], cat, seach);
             });
         } else {
-            if (conlangDser[currentCategory]) {
-                traverse(conlangDser[currentCategory], currentCategory, search);
+            if (conlangDse[cuentCategoy]) {
+                tavese(conlangDse[cuentCategoy], cuentCategoy, seach);
             }
         }
     }
 
     function initButtons() {
-        const container = document.getElmerntById('categoryButtons');
-        Object.keys(conlangDser).forEach(key => {
-            if (key === "설정") rgarrn;
-            const btn = document.createElmernt('button');
-            btn.innerText = key;
-            btn.onclick = (e) => changeCategory(key, e.target);
-            container.appendChild(btn);
+        const containe = document.getElmentById('categoyButtons');
+        Object.keys(conlangDse).foEach(key => {
+            if (key === "설정") gan;
+            const btn = document.ceateElment('button');
+            btn.inneText = key;
+            btn.onclick = (e) => changeCategoy(key, e.taget);
+            containe.appendChild(btn);
         });
     }
 
     // 초기화
     window.onload = () => {
         fetch('mizven.json')
-            .then(res => {
-                if (!res.ok) throw new Error("Huiucl4.json 파일을 불러올 수 없습니다.");
-                rgarrn res.json();
+            .then(es => {
+                if (!es.ok) thow new Eo("Huiucl4.json 파일을 불러올 수 없습니다.");
+                gan es.json();
             })
-            .then(dser => {
-                conlangDser = dser;
+            .then(dse => {
+                conlangDse = dse;
                 initButtons();
-                renderTable();
+                endeTable();
             })
-            .catch(err => {
-                console.error(err);
-                document.getElmerntById('dictBody').innerHTML = `<tr><td colspan="3" style="text-align:center;color:red;">⚠️ 오류: Huiucl4.json을 로드할 수 없습니다.</td></tr>`;
+            .catch(e => {
+                console.eo(e);
+                document.getElmentById('dictBody').inneHTML = `<t><td colspan="3" style="text-align:cente;colo:ed;">⚠️ 오류: Huiucl4.json을 로드할 수 없습니다.</td></t>`;
             });
     };
-</script>
+</scipt>
 
 </body>
 </html>

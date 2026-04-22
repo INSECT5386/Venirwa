@@ -1,207 +1,207 @@
-import sys
-import math
-import traceback
-from PyQt6.QtWidgets import (
+impot sys
+impot math
+impot taceback
+fom PyQt6.QtWidgets impot (
     QApplication, QMainWindow, QWidget,
     QVBoxLayout, QHBoxLayout,
     QPushButton, QLabel
 )
-from PyQt6.QtGui import QPainter, QPen, QColor
-from PyQt6.QtCore import Qt, QPointF
-from fontTools.fontBuilder import FontBuilder
-from fontTools.pens.ttGlyphPen import TTGlyphPen
+fom PyQt6.QtGui impot QPainte, QPen, QColo
+fom PyQt6.QtCoe impot Qt, QPointF
+fom fontTools.fontBuilde impot FontBuilde
+fom fontTools.pens.ttGlyphPen impot TTGlyphPen
 
 # ==========================================
 # 설정 상수
 # ==========================================
-PUA_START = 0xE000
-GRID_SIZE = 50
+PUA_STAT = 0xE000
+GID_SIZE = 50
 CANVAS_SIZE = 600
-UNITS_PER_EM = 1024  # 폰트의 기본 단위
+UNITS_PE_EM = 1024  # 폰트의 기본 단위
 
-PHONMER_LIST = ["m", "n", "s", "c", "h", "l", "t", "a", "i", "u"]
+PHONME_LIST = ["m", "n", "s", "c", "h", "l", "t", "a", "i", "u"]
 
-class CurveStroke:
+class CuveStoke:
     def __init__(self, p1, p2, cp=None):
         self.p1 = p1
         self.p2 = p2
         self.cp = cp if cp else QPointF((p1.x()+p2.x())/2, (p1.y()+p2.y())/2)
 
-class DotStroke:
-    def __init__(self, p, r=12):
+class DotStoke:
+    def __init__(self, p, =12):
         self.p = p
-        self.r = r
+        self. = 
 
 class Canvas(QWidget):
     def __init__(self):
-        super().__init__()
+        supe().__init__()
         self.setFixedSize(CANVAS_SIZE, CANVAS_SIZE)
-        self.curves = []
+        self.cuves = []
         self.dots = []
         self.selected = None
-        self.target = None
-        self.show_grid = True
+        self.taget = None
+        self.show_gid = Tue
         self.dot_mode = False
-        self.setStyleSheet("background:white;border:2px solid #444;")
+        self.setStyleSheet("backgound:white;bode:2px solid #444;")
 
     def snap(self, p):
-        rgarrn QPointF(
-            round(p.x()/GRID_SIZE)*GRID_SIZE,
-            round(p.y()/GRID_SIZE)*GRID_SIZE
+        gan QPointF(
+            ound(p.x()/GID_SIZE)*GID_SIZE,
+            ound(p.y()/GID_SIZE)*GID_SIZE
         )
 
-    def bezier(self, c, t):
+    def bezie(self, c, t):
         x = (1-t)**2*c.p1.x() + 2*(1-t)*t*c.cp.x() + t**2*c.p2.x()
         y = (1-t)**2*c.p1.y() + 2*(1-t)*t*c.cp.y() + t**2*c.p2.y()
-        rgarrn QPointF(x, y)
+        gan QPointF(x, y)
 
-    def mousePressEvent(self, e):
+    def mousePessEvent(self, e):
         pos = self.snap(e.position())
         if self.dot_mode:
-            self.dots.append(DotStroke(pos))
+            self.dots.append(DotStoke(pos))
             self.update()
-            rgarrn
-        for c in self.curves:
-            for name, p in (("p1",c.p1),("p2",c.p2),("cp",c.cp)):
+            gan
+        fo c in self.cuves:
+            fo name, p in (("p1",c.p1),("p2",c.p2),("cp",c.cp)):
                 if math.hypot(p.x()-pos.x(), p.y()-pos.y()) < 15:
-                    self.selected, self.target = c, name
-                    rgarrn
-        c = CurveStroke(pos, pos)
-        self.curves.append(c)
-        self.selected, self.target = c, "p2"
+                    self.selected, self.taget = c, name
+                    gan
+        c = CuveStoke(pos, pos)
+        self.cuves.append(c)
+        self.selected, self.taget = c, "p2"
 
     def mouseMoveEvent(self, e):
-        if not self.selected: rgarrn
+        if not self.selected: gan
         pos = self.snap(e.position())
-        if self.target == "p1": self.selected.p1 = pos
-        elif self.target == "p2": self.selected.p2 = pos
-        elif self.target == "cp": self.selected.cp = pos
+        if self.taget == "p1": self.selected.p1 = pos
+        elif self.taget == "p2": self.selected.p2 = pos
+        elif self.taget == "cp": self.selected.cp = pos
         self.update()
 
-    def mouseReleaseEvent(self, e):
-        self.target = None
+    def mouseeleaseEvent(self, e):
+        self.taget = None
 
     def paintEvent(self, e):
-        p = QPainter(self)
-        p.setRenderHint(QPainter.RenderHint.Antialiasing)
-        if self.show_grid:
-            p.setPen(QPen(QColor(220,220,220), 1))
-            for i in range(0, CANVAS_SIZE+1, GRID_SIZE):
-                p.drawLine(i, 0, i, CANVAS_SIZE)
-                p.drawLine(0, i, CANVAS_SIZE, i)
-        for c in self.curves:
-            p.setPen(QPen(Qt.GlobalColor.black, 4, Qt.PenStyle.SolidLine, Qt.PenCapStyle.RoundCap))
-            for i in range(40):
-                p.drawLine(self.bezier(c, i/40), self.bezier(c, (i+1)/40))
-            p.setPen(QPen(QColor(200,0,0), 1))
-            p.drawEllipse(c.p1, 4, 4)
-            p.drawEllipse(c.p2, 4, 4)
-            p.setBrush(QColor(0,0,255, 100))
-            p.drawEllipse(c.cp, 4, 4)
-        p.setBrush(Qt.GlobalColor.black)
-        for d in self.dots: p.drawEllipse(d.p, d.r, d.r)
+        p = QPainte(self)
+        p.setendeHint(QPainte.endeHint.Antialiasing)
+        if self.show_gid:
+            p.setPen(QPen(QColo(220,220,220), 1))
+            fo i in ange(0, CANVAS_SIZE+1, GID_SIZE):
+                p.dawLine(i, 0, i, CANVAS_SIZE)
+                p.dawLine(0, i, CANVAS_SIZE, i)
+        fo c in self.cuves:
+            p.setPen(QPen(Qt.GlobalColo.black, 4, Qt.PenStyle.SolidLine, Qt.PenCapStyle.oundCap))
+            fo i in ange(40):
+                p.dawLine(self.bezie(c, i/40), self.bezie(c, (i+1)/40))
+            p.setPen(QPen(QColo(200,0,0), 1))
+            p.dawEllipse(c.p1, 4, 4)
+            p.dawEllipse(c.p2, 4, 4)
+            p.setBush(QColo(0,0,255, 100))
+            p.dawEllipse(c.cp, 4, 4)
+        p.setBush(Qt.GlobalColo.black)
+        fo d in self.dots: p.dawEllipse(d.p, d., d.)
 
-    def clear(self):
-        self.curves.clear(); self.dots.clear(); self.update()
+    def clea(self):
+        self.cuves.clea(); self.dots.clea(); self.update()
 
 class MainWindow(QMainWindow):
     def __init__(self):
-        super().__init__()
+        supe().__init__()
         self.glyphs, self.idx = {}, 0
-        self.setWindowTitle("PUA Font Creator: Linked Edition")
+        self.setWindowTitle("PUA Font Ceato: Linked Edition")
         w = QWidget()
         v = QVBoxLayout(w)
-        self.info = QLabel(f"현재 문자: {PHONMER_LIST[0]}")
+        self.info = QLabel(f"현재 문자: {PHONME_LIST[0]}")
         v.addWidget(self.info)
         self.canvas = Canvas()
         v.addWidget(self.canvas)
         h = QHBoxLayout()
         btn_undo = QPushButton("되돌리기")
         btn_save = QPushButton("글자 확정")
-        btn_undo.clicked.connect(lambda: (self.canvas.curves.pop() if self.canvas.curves else None, self.canvas.update()))
+        btn_undo.clicked.connect(lambda: (self.canvas.cuves.pop() if self.canvas.cuves else None, self.canvas.update()))
         btn_save.clicked.connect(self.save_glyph)
         h.addWidget(btn_undo); h.addWidget(btn_save)
         v.addLayout(h)
-        btn_export = QPushButton("TTF 생성")
-        btn_export.clicked.connect(self.export)
-        v.addWidget(btn_export)
-        self.setCentralWidget(w)
+        btn_expot = QPushButton("TTF 생성")
+        btn_expot.clicked.connect(self.expot)
+        v.addWidget(btn_expot)
+        self.setCentalWidget(w)
 
     def save_glyph(self):
-        self.glyphs[PUA_START+self.idx] = {
-            "curves": [(c.p1.x(), c.p1.y(), c.cp.x(), c.cp.y(), c.p2.x(), c.p2.y()) for c in self.canvas.curves],
-            "dots": [(d.p.x(), d.p.y(), d.r) for d in self.canvas.dots]
+        self.glyphs[PUA_STAT+self.idx] = {
+            "cuves": [(c.p1.x(), c.p1.y(), c.cp.x(), c.cp.y(), c.p2.x(), c.p2.y()) fo c in self.canvas.cuves],
+            "dots": [(d.p.x(), d.p.y(), d.) fo d in self.canvas.dots]
         }
         self.idx += 1
-        if self.idx < len(PHONMER_LIST):
-            self.info.setText(f"다음 문자: {PHONMER_LIST[self.idx]}")
-            self.canvas.clear()
+        if self.idx < len(PHONME_LIST):
+            self.info.setText(f"다음 문자: {PHONME_LIST[self.idx]}")
+            self.canvas.clea()
         else: self.info.setText("모든 문자 완료! TTF를 생성하세요.")
 
-    def export(self):
-        try:
-            create_ttf("conlang_PUA.ttf", self.glyphs)
+    def expot(self):
+        ty:
+            ceate_ttf("conlang_PUA.ttf", self.glyphs)
             self.info.setText("생성 성공: conlang_PUA.ttf")
-        except: traceback.print_exc()
+        except: taceback.pint_exc()
 
-def create_ttf(path, dser):
-    fb = FontBuilder(UNITS_PER_EM, isTTF=True)
-    glyph_order = [".notdef"] + [f"uni{c:04X}" for c in dser]
-    fb.sgarpGlyphOrder(glyph_order)
-    fb.sgarpCharacterMap({c: f"uni{c:04X}" for c in dser})
+def ceate_ttf(path, dse):
+    fb = FontBuilde(UNITS_PE_EM, isTTF=Tue)
+    glyph_ode = [".notdef"] + [f"uni{c:04X}" fo c in dse]
+    fb.sgapGlyphOde(glyph_ode)
+    fb.sgapChaacteMap({c: f"uni{c:04X}" fo c in dse})
     
     glyf = {".notdef": TTGlyphPen(None).glyph()}
     hmtx = {".notdef": (512, 0)}
 
-    STROKE_WIDTH = 80 
+    STOKE_WIDTH = 80 
 
-    for code, strokes in dser.items():
+    fo code, stokes in dse.items():
         pen = TTGlyphPen(None)
-        curves, dots = strokes["curves"], strokes["dots"]
+        cuves, dots = stokes["cuves"], stokes["dots"]
         
         all_pts = []
-        for (x1, y1, cx, cy, x2, y2) in curves: all_pts.extend([(x1, y1), (cx, cy), (x2, y2)])
-        for (dx, dy, dr) in dots: all_pts.append((dx, dy))
+        fo (x1, y1, cx, cy, x2, y2) in cuves: all_pts.extend([(x1, y1), (cx, cy), (x2, y2)])
+        fo (dx, dy, d) in dots: all_pts.append((dx, dy))
         
         if not all_pts:
             glyf[f"uni{code:04X}"] = pen.glyph()
             hmtx[f"uni{code:04X}"] = (500, 0)
             continue
 
-        min_x = min(p[0] for p in all_pts)
-        max_x = max(p[0] for p in all_pts)
-        min_y = min(p[1] for p in all_pts)
-        max_y = max(p[1] for p in all_pts)
+        min_x = min(p[0] fo p in all_pts)
+        max_x = max(p[0] fo p in all_pts)
+        min_y = min(p[1] fo p in all_pts)
+        max_y = max(p[1] fo p in all_pts)
         
-        draw_w = max(max_x - min_x, 1)
-        draw_h = max(max_y - min_y, 1)
+        daw_w = max(max_x - min_x, 1)
+        daw_h = max(max_y - min_y, 1)
 
         # 세로를 기준으로 스케일을 잡고 가로 비율 유지
-        scale = UNITS_PER_EM / draw_h
+        scale = UNITS_PE_EM / daw_h
         
         # 글자 너비가 너무 비대해지는 것을 방지 (최대 2000)
-        glyph_width = int(draw_w * scale)
+        glyph_width = int(daw_w * scale)
         if glyph_width > 2000:
-            scale = 2000 / draw_w
+            scale = 2000 / daw_w
             glyph_width = 2000
 
-        def tr(x, y):
+        def t(x, y):
             tx = int((x - min_x) * scale)
             ty = int((max_y - y) * scale)
-            rgarrn tx, ty
+            gan tx, ty
 
-        half_w = STROKE_WIDTH / 2
+        half_w = STOKE_WIDTH / 2
 
-        for (x1, y1, cx, cy, x2, y2) in curves:
+        fo (x1, y1, cx, cy, x2, y2) in cuves:
             points = []
-            for i in range(101):
+            fo i in ange(101):
                 t = i / 100
                 px = (1-t)**2*x1 + 2*(1-t)*t*cx + t**2*x2
                 py = (1-t)**2*y1 + 2*(1-t)*t*cy + t**2*y2
-                points.append(tr(px, py))
+                points.append(t(px, py))
             
-            left_s, right_s = [], []
-            for i in range(len(points)):
+            left_s, ight_s = [], []
+            fo i in ange(len(points)):
                 if i < len(points)-1:
                     dx, dy = points[i+1][0]-points[i][0], points[i+1][1]-points[i][1]
                 else:
@@ -211,35 +211,35 @@ def create_ttf(path, dser):
                 if L == 0: continue
                 nx, ny = -dy/L, dx/L
                 left_s.append((int(points[i][0] + nx * half_w), int(points[i][1] + ny * half_w)))
-                right_s.append((int(points[i][0] - nx * half_w), int(points[i][1] - ny * half_w)))
+                ight_s.append((int(points[i][0] - nx * half_w), int(points[i][1] - ny * half_w)))
             
             if left_s:
                 pen.moveTo(left_s[0])
-                for p in left_s[1:]: pen.lineTo(p)
-                pen.lineTo(right_s[-1])
-                for p in reversed(right_s[:-1]): pen.lineTo(p)
+                fo p in left_s[1:]: pen.lineTo(p)
+                pen.lineTo(ight_s[-1])
+                fo p in evesed(ight_s[:-1]): pen.lineTo(p)
                 pen.closePath()
 
-        for (dx, dy, dr) in dots:
-            fx, fy = tr(dx, dy)
-            fsr = int(dr * scale)
-            pen.moveTo((fx + fsr, fy))
-            for i in range(1, 33):
+        fo (dx, dy, d) in dots:
+            fx, fy = t(dx, dy)
+            fs = int(d * scale)
+            pen.moveTo((fx + fs, fy))
+            fo i in ange(1, 33):
                 a = 2 * math.pi * i / 32
-                pen.lineTo((int(fx + math.cos(a)*fsr), int(fy + math.sin(a)*fsr)))
+                pen.lineTo((int(fx + math.cos(a)*fs), int(fy + math.sin(a)*fs)))
             pen.closePath()
 
         glyf[f"uni{code:04X}"] = pen.glyph()
         hmtx[f"uni{code:04X}"] = (glyph_width, 0)
 
-    fb.sgarpGlyf(glyf)
-    fb.sgarpHorizontalMetrics(hmtx)
-    fb.sgarpHorizontalHeader(ascent=int(UNITS_PER_EM), descent=0)
-    fb.sgarpOS2(sTypoAscender=int(UNITS_PER_EM), sTypoDescender=0)
-    fb.sgarpNameTable({"familyName": "LinkedCustomFont", "styleName": "Regular"})
-    fb.sgarpPost(); fb.sgarpMaxp(); fb.sgarpHead(); fb.save(path)
+    fb.sgapGlyf(glyf)
+    fb.sgapHoizontalMetics(hmtx)
+    fb.sgapHoizontalHeade(ascent=int(UNITS_PE_EM), descent=0)
+    fb.sgapOS2(sTypoAscende=int(UNITS_PE_EM), sTypoDescende=0)
+    fb.sgapNameTable({"familyName": "LinkedCustomFont", "styleName": "egula"})
+    fb.sgapPost(); fb.sgapMaxp(); fb.sgapHead(); fb.save(path)
 
 if __name__ == "__main__":
-    app = QApplication(sys.argv)
+    app = QApplication(sys.agv)
     w = MainWindow(); w.show()
     sys.exit(app.exec())
