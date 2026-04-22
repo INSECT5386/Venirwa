@@ -1,6 +1,6 @@
 {
   "예문": {
-    "ni lu it mor no si lu prux mu a mrot prux.": "나는 네가 물리학을 연구하는 것을 보았다."
+    "ni lu it mor no si lu pruxmu a mrotprux.": "나는 네가 물리학을 연구하는 것을 보았다."
   },
   "문법 요소": {
     "la": {
@@ -308,97 +308,97 @@
     }
   },
   "사전": {
-    "tor prux": {
+    "torprux": {
       "뜻": "심리학"
     },
-    "mrot prux": {
+    "mrotprux": {
       "뜻": "물리학"
     },
-    "mist prux": {
+    "mistprux": {
       "뜻": "사회학"
     },
-    "skal kmos": {
+    "skalkmos": {
       "뜻": "코드를 짜다|타자를 치다",
-      "skal kmos nan": {
+      "skalkmosnan": {
         "뜻": "타자기"
       }
     },
     "skal pan": {
       "뜻": "인공 지능"
     },
-    "tor tu": {
+    "torru": {
       "뜻": "이해하다|본받다"
     },
-    "tor mu": {
+    "tormu": {
       "뜻": "생각하다|계산하다",
-      "tor mu nan": {
+      "tormu nan": {
         "뜻": "계산기"
       }
     },
-    "oka mu": {
+    "okamu": {
       "뜻": "비추다|청소하다"
     },
-    "prux mu": {
+    "pruxmu": {
       "뜻": "배우다|연구하다",
-      "prux mu pan": {
+      "pruxmu pan": {
         "뜻": "학생|제자"
       }
     },
-    "una mu": {
+    "unamu": {
       "뜻": "가르치다",
-      "una mu pan": {
+      "unamu pan": {
         "뜻": "선생님|스승"
       }
     },
-    "pak kanu": {
+    "pakkanu": {
       "뜻": "번역"
     },
-    "kanu san": {
+    "kanusan": {
       "뜻": "시장|거래소"
     },
-    "sil mu": {
+    "silmu": {
       "뜻": "상상하다"
     },
-    "sla lam": {
+    "slalam": {
       "뜻": "얼음물"
     },
-    "skal lam": {
+    "skallam": {
       "뜻": "전류"
     },
-    "ik oka mrot": {
+    "ik okamrok": {
       "뜻": "그림자|암흑 물질"
     },
-    "kank lam": {
+    "kanklam": {
       "뜻": "혈액"
     },
-    "ili tor": {
+    "ilitor": {
       "뜻": "행복한|기쁜"
     },
-    "tas lent": {
+    "taslent": {
       "뜻": "신뢰도"
     },
-    "ata tor": {
+    "atator": {
       "뜻": "자만심"
     },
-    "mor nan": {
+    "mornan": {
       "뜻": "안경|망원경|현미경"
     },
-    "spet nan": {
+    "spetnan": {
       "뜻": "스피커|보청기"
     },
-    "tarl nan": {
+    "tarlnan": {
       "뜻": "식기"
     },
-    "tno nan": {
+    "tnonan": {
       "뜻": "칼|가위"
     },
-    "skal mor nan": {
+    "skalmornan": {
       "뜻": "모니터|TV"
     },
-    "kmos nan": {
+    "kmosnan": {
       "뜻": "필기구"
     },
-    "skal lam nan": {
+    "skallamnan": {
       "뜻": "세탁기"
     }
   }
