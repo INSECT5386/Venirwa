@@ -1,7 +1,7 @@
 {
   "예문": {
-    "nuiktent no saistemt esmest.": "나는 네가 물리학을 연구하는 것을 보았다.",
-    "latheks pan, lapsetri pan. taia laik shepan?": "자유를 찢는 자, 가치 없게 던진 자. 그것은 무엇의 노예인가?"
+    "nuiktnt no saistmt esmst.": "나는 네가 물리학을 연구하는 것을 보았다.",
+    "lathks pan, lapstri pan. taia laik shpan?": "자유를 찢는 자, 가치 없게 던진 자. 그것은 무엇의 노예인가?"
   },
   "문법 요소": {
     "la_": {
@@ -66,7 +66,7 @@
   "어근": {
     "pan": {
       "뜻": "사람",
-      "shepan": "기계|노예"
+      "shpan": "기계|노예"
     },
     "nan": {
       "뜻": "도구"
@@ -95,36 +95,36 @@
     },
     "mt": {
       "뜻": "행동",
-      "stemt": "연구|배움",
-      "kremt": "생각|계산",
-      "premt": "말|언어"
+      "stmt": "연구|배움",
+      "krmt": "생각|계산",
+      "prmt": "말|언어"
     },
     "st": {
       "뜻": "학문",
-      "srest": "사회학",
-      "smest": "물리학",
-      "shest": "전기공학",
-      "prest": "언어학",
-      "krest": "심리학",
-      "smeshest": "반도체 공학"
+      "srst": "사회학",
+      "smst": "물리학",
+      "shst": "전기공학",
+      "prst": "언어학",
+      "krst": "심리학",
+      "smshst": "반도체 공학"
     },
     "nt": {
       "뜻": "수용|받음",
       "nti": "거절|줌",
-      "ktent": "봄|관찰",
-      "sqent": "먹음|흡수",
-      "qrent": "들음",
-      "htent": "맡음"
+      "ktnt": "봄|관찰",
+      "sqnt": "먹음|흡수",
+      "qrnt": "들음",
+      "htnt": "맡음"
     },
     "th": {
       "뜻": "자름|찢음",
       "thi": "붙임",
-      "theks": "통제"
+      "thks": "통제"
     },
     "ps": {
       "뜻": "가치 있음",
       "psi": "가치 없음",
-      "psetri": "포기|중지"
+      "pstri": "포기|중지"
     },
     "tr": {
       "뜻": "던짐|날림"
