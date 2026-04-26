@@ -1,7 +1,7 @@
 {
   "예문": {
-    "ne tuluktnt no se tolustmt musmst.": "나는 네가 물리학을 연구하는 것을 보았다.",
-    "lathks pan, laupstr pan. te tolua laik shpan?": "자유를 찢는 자, 가치 없게 던진 자. 그것은 무엇의 노예인가?"
+    "netuluktnt no setolustmt musmst.": "나는 네가 물리학을 연구하는 것을 보았다.",
+    "lathks pan, laupstr pan. tetolua laik shpan?": "자유를 찢는 자, 가치 없게 던진 자. 그것은 무엇의 노예인가?"
   },
   "문법 요소": {
     "la_": {
@@ -47,19 +47,19 @@
     }
   },
   "대명사": {
-    "ne": {
+    "ne_": {
       "뜻": "나"
     },
-    "se": {
+    "se_": {
       "뜻": "너"
     },
-    "ke": {
+    "ke_": {
       "뜻": "그"
     },
-    "te": {
+    "te_": {
       "뜻": "그것"
     },
-    "pe": {
+    "pe_": {
       "뜻": "이것|저것"
     }
   },
