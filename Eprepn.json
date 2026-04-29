@@ -2,7 +2,7 @@
   "예문": {
     "adyon yoniami no lauame.": "물리학 연구하는 너 라는 것을 보았던 나.",
     "ethks pan, epstri pan. taia eik shpan?": "자유를 찢는 자, 가치 없게 던진 자. 그것은 무엇의 노예인가?",
-    "nuiqrnt no kuistmt krst oe stmtsan": "나는 그가 도서관에서 심리학을 연구했던 것을 들었다."
+    "aqyon yoniamu yoniatloe no lauame.": "심리학 연구하는 그 도서관에서 라는 것을 보았던 나."
   },
   "문법 요소": {
     "e_": {
@@ -26,7 +26,7 @@
     "no": {
       "뜻": "-라는 것을"
     },
-    "oe": {
+    "_oe": {
       "뜻": "장소격"
     }
   },
@@ -75,7 +75,7 @@
     "lan": {
       "뜻": "식물"
     },
-    "san": {
+    "tl": {
       "뜻": "땅|건물"
     },
     "bh": {
