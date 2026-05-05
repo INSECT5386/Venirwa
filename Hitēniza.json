@@ -1,10 +1,10 @@
 {
   "예문": {
-    "1": "dhi tev bhepja e, bhi, hyten o tu.",
+    "1": "dhi tev bhecja e, bhi, hyten o tu.",
     "2": "Xafy e, dhi, yudu o redu"
   },
   "": {
-    "자음" : "dh, bh, gh, p, t, k, cl[tshł], ql[kyul], h, n, m, ng[ŋ]",
+    "자음" : "dh, bh, gh, p, t, k, c[tshł], q[kyul], h, n, m, ng[ŋ]",
     "모음" : "e[ə/어], w[uu/으], i[ui/의], y[i/이]"
   },
   "문법 요소": {
@@ -20,8 +20,8 @@
     "sai X": "X에게/X에서",
     "koi X": "X와 함께",
     "poi X": "X를 위해",
-    "_t" : "부정",
-    "_p": "긍정",
+    "_q" : "부정",
+    "_c": "긍정",
     "대명사": {
       "bhi": "나",
       "cu": "너",
@@ -154,25 +154,25 @@
       "xahu": "예지"
     },
     "ja 계열 복합어": {
-      "bhepja": "행복",
-      "bhetja": "슬픔"
+      "bhecja": "행복",
+      "bheqja": "슬픔"
     },
     "we 계열 복합어": {
       "xawe": "미침",
-      "zopbhe": "친절함",
-      "zotbhe": "불친절함"
+      "zocbhe": "친절함",
+      "zoqbhe": "불친절함"
     },
     "긍정-부정 복합어": {
-      "mop": "엑기스",
-      "mot": "쓰레기",
-      "bhep": "좋은 정신",
-      "bhet": "나쁜 정신",
-      "zop": "높은 온도",
-      "zot": "낮은 온도",
-      "bhenep": "성령",
-      "bhenet": "악령",
-      "fop": "생존",
-      "fot": "죽음"
+      "moc": "엑기스",
+      "moq": "쓰레기",
+      "bhec": "좋은 정신",
+      "bheq": "나쁜 정신",
+      "zoc": "높은 온도",
+      "zoq": "낮은 온도",
+      "bhenec": "성령",
+      "bheneq": "악령",
+      "foc": "생존",
+      "foq": "죽음"
     }
   }
 }
