@@ -3,6 +3,10 @@
     "1": "Tu tev weuja e, fu, hyten o tu.",
     "2": "Xafy e, tu, yudu o redu"
   },
+  "": {
+    "자음" : "dh, bh, gh, p, t, k, cl[tshł], ql[kyul], h, n, m, ng[ŋ]",
+    "모음" : "e[ə/어], w[uu/으], i[ui/의]"
+  },
   "문법 요소": {
     "_ho": "이후에",
     "_ha": "지금",
