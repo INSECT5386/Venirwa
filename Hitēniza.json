@@ -5,7 +5,7 @@
     "3": "Qnekintigenee, cneqgata sai qk."
   },
   "음소": {
-    "C": "(h, s, z, c), (m, n, t, k, p) (km, ks, kz), (pk, ps, pz), (tt, ts, tz)",
+    "C": "(h, s, z, c, y, w), (m, n, t, k, p) (km, ks, kz), (pk, ps, pz), (tt, ts, tz)",
     "V": "a, i, u, o, e"
   },
   "문법 요소": {
@@ -125,7 +125,7 @@
       "cnem": "심령학"
     },
     "kzi 계열 복합어": {
-      "mkzi": "연구실/학교",
+      "omkzi": "연구실/학교",
       "pekzi": "거주지",
       "opsikzi": "거래소/교환소",
       "phikzi": "발전소",
@@ -146,7 +146,7 @@
       "qune": "악마"
     },
     "su 계열 복합어": {
-      "zsu": "삶의 의미/가치관",
+      "pesu": "삶의 의미/가치관",
       "csu": "의도",
       "qusu": "음모"
     },
@@ -154,7 +154,7 @@
       "zapsi": "혁명",
       "kapsi": "유동성",
       "sipsi": "휴전/중단 결정",
-      "spsi": "변종/특성 변화"
+      "kupsi": "변종/특성 변화"
     },
     "t 계열 복합어": {
       "lt": "투표",
