@@ -1,6 +1,6 @@
 {
   "예문": {
-    "1": "Ya, ta psis hu sai psikzi."
+    "1": "Ya, ta opsis hu sai opsikzi."
   },
   "음소": {
     "C": "(ph, h, s, z, c, y, w), (m, n, t, k, p) (km, ks, kz), (pk, ps, pz)",
@@ -96,7 +96,7 @@
       "wus": "추락/타락",
       "cs": "생각/계산",
       "cos": "통치/지배",
-      "psis": "거래/교환"
+      "opsis": "거래/교환"
     },
     "n 계열 복합어": {
       "way": "보는 것",
@@ -124,9 +124,9 @@
       "cnem": "심령학"
     },
     "kzi 계열 복합어": {
-      "mkzi": "연구실/학교",
+      "omkzi": "연구실/학교",
       "pekzi": "거주지",
-      "psikzi": "거래소/교환소",
+      "opsikzi": "거래소/교환소",
       "phikzi": "발전소",
       "sikzi": "휴게소/숙소",
       "cekzi": "공장/작업장",
