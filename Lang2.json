@@ -4,14 +4,14 @@
         "V": "a, o, i, e, u"
     },
     "예문": {
-        "1": "cizi caipomatsa cimetha"
+        "1": "ciz cihmetha sa caipomat."
     },
     "접사": {
         "ci": "나",
         "no": "타인",
         "ce": "인간이 아닌 것",
-        "zi": "주격",
-        "sa": "목적격",
+        "[A]z": "주격",
+        "sa [A]": "목적격",
         "ha": "현재",
         "hi": "과거",
         "ho": "미래"
