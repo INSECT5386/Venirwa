@@ -4,7 +4,7 @@
         "V": "a, o, i, e, u"
     },
     "예문": {
-        "1": "cizichaipohmattsachihha"
+        "1": "cizi chaipohmattsa chimetha"
     },
     "접사": {
         "ci": "나",
@@ -34,10 +34,10 @@
         "xih": "변화, 이동",
         "chih": "사용, 소모",
         "zih": "수용, 저장 또는 방출, 삭제",
-        "meh": "행동",
         "poh": "조작, 조절",
         "pah": "측정",
-        
+
+        "met": "행동",
         "nut": "-것",
         "mat": "손, 도구",
         "net": "장소"
