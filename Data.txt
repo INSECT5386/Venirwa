@@ -1,90 +1,500 @@
-Possomtu los posbimtu-ma-som.
-Initial ideas are electronic physical-object-action-minds.
-
-So xe ubitutu ka so xe datomtu.
-Everything currently is backup files and everything currently is used logic.
-
-So ye-tu los xenet tomposdan.
-Everything important-thing is current-location computer-science.
-
-Vi co udan somposdan ka vi co usom possomtu.
-I have learned brain-engineering and I have understood artificial-intelligence-chips.
-
-Sonta xe pema posnettu ka sonta xe tema tenposno.
-The intellectual currently operates the server-room and the intellectual currently measures high-voltage.
-
-Tomta xe ubitu ubitutu ka tomta xe adama nertu.
-The law-expert currently archives backup-files and the law-expert currently discards errors.
-
-Vi co udan bimposdan ka vi co usom bimxadtu.
-I have learned semiconductor-engineering and I have understood solid-matter.
-
-Bimta xe dakama bimnet ka bimta xe pema peno.
-The physical-worker currently labors at the building and the physical-worker currently operates the engine-output.
-
-So xe habtu los tenyedan ka so xe nertu los ceyedan.
-Everything currently correct-thing is advanced-expertise and everything currently error-thing is basic-knowledge.
-
-Danta xe udan tomdan ka danta xe usom nino.
-The scholar learns mathematics and the scholar understands balanced-force.
-
-Truta xe truma zenet ka truta xe pema petruma.
-The traveler moves to the destination and the traveler operates navigation.
-
-Vi co udan netposdan ka vi co usom netapostu.
-I have learned network-engineering and I have understood routers.
-
-Posta xe pema possomtu ka posta xe adama abitutu.
-The hacker operates artificial-intelligence-chips and the hacker discards deleted-records.
-
-So los tomposdan ka so los somposdan.
-Everything is computer-science and everything is brain-engineering.
-
-Dita xe di disomtu ka dita xe pema dinettu.
-The creator creates ideas and the creator operates the gallery.
-
-Xumta xe udan tenxumdan ka xumta xe usom nixumtu.
-The biologist learns evolutionary-biology and the biologist understands healthy-organisms.
-
-So xe xotu los tombitu ka so xe xitu los uxitu.
-Everything currently truth is logical-data and everything currently opinion is adopted-opinion.
-
-Tenmata xe poma tenma ka cenmata xe poma cenma.
-The activist-leader starts increasing-action and the observer starts decreasing-action.
-
-So xe habnet los xenet ka so xe nernete los conet.
-Everything currently safe-zone is current-location and everything currently obstacle-area is starting-point.
-
-Vi co udan duno ka vi co usom zemaudu.
-I have learned the force-of-time and I have understood future-eternity.
-
-Xita xe tema xadno ka xita xe u bimtu.
-The observer measures kinetic-energy and the observer stores objects.
-
-So xe poma possomtu los habtu.
-Everything starting artificial-intelligence-chips is the correct-thing.
-
-So xe poma tomposdan los yedan.
-Everything starting computer-science is expertise.
-
-Sonta xe pema penet ka sonta xe tema teno.
-The intellectual operates the control-room and the intellectual measures amplified-force.
-
-Vi co udan pomdan ka vi co usom pomo.
-I have learned the science-of-beginnings and I have understood the energy-of-ignition.
-
-So xe udama habtu ka so xe adama nertu.
-Everything accepts the correct-thing and everything discards the error.
-
-Sonta xe udan dandan ka sonta xe usom tomdan.
-The intellectual learns the science-of-knowledge and the intellectual understands logic.
-
-Vi co udan posdan ka vi co usom posno.
-I have learned electronic-engineering and I have understood electronic-power.
-
-So xe poma bimdan los bimtu.
-Everything starting material-science is a physical-object.
-
-Sonta xe pema posnet ka sonta xe tema posno.
-The intellectual operates the electrical-facility and the intellectual measures electronic-power.
-[EOS]
+1. Possomtu los bimbitu. Possomtu is an artificial intelligence chip.
+2. Sonta xe udan tomdan. The intellectual is learning mathematics.
+3. Posta xe pema postu. The electronics technician is operating the electronic component.
+4. Bidan los yedan. Records management is specialized knowledge.
+5. So xe usom habtu. You understood the correct answer.
+6. Vi co udan somdan. I have learned psychology.
+7. Dita xe di ditu. The creator is creating a work.
+8. Sombitu los sombitu. Memory is recorded data.
+9. So xe udan bimdan. You are learning materials science.
+10. Sonta xe usom tomtu. The intellectual understood the logic.
+11. Truta xe truma net. The traveler is moving to the location.
+12. Habta xe udama habtu. The good person is accepting the truth.
+13. Binet los bitu. The map is information.
+14. So co udan posdan. You have learned electronics.
+15. Vi xe usom tomtu. I understand the law.
+16. Peta xe pema petu. The pilot is operating the control device.
+17. Xita xe xema xitu. The observer is observing the opinion.
+18. Danta xe udan yedan. The scholar is learning professional knowledge.
+19. Nita xe pema nino. The mediator is controlling the balance of power.
+20. Xumta xe udan xumdan. The biologist is learning biology.
+21. Mata xe pema mano. The activist is controlling the power of action.
+22. Nota xe pema tano. The leader is controlling the social power.
+23. Data xe dama bimtu. The consumer is using the object.
+24. Teta xe tema xadtu. The judge is measuring the speed.
+25. Sonta xe di somtu. The intellectual is creating an idea.
+26. Postu los bimtu. The electronic component is a thing.
+27. Bitu los sombitu. The document is a memory record.
+28. Tomdan los yedan. Mathematics is specialized knowledge.
+29. Cidan los yedan. Physics is specialized knowledge.
+30. Posdan los yedan. Electronics is specialized knowledge.
+31. Bimdan los yedan. Materials science is specialized knowledge.
+32. Xumdan los yedan. Biology is specialized knowledge.
+33. Netdan los yedan. Geography is specialized knowledge.
+34. Nodan los yedan. Mechanics is specialized knowledge.
+35. Pimdan los yedan. Architecture is specialized knowledge.
+36. Hadan los yedan. Ethics is specialized knowledge.
+37. Madan los yedan. Behavioral science is specialized knowledge.
+38. Pedan los yedan. Control engineering is specialized knowledge.
+39. Tedan los yedan. Metrology is specialized knowledge.
+40. Trudan los yedan. Transportation engineering is specialized knowledge.
+41. Somdan los yedan. Psychology is specialized knowledge.
+42. Bidan los yedan. Archival science is specialized knowledge.
+43. Dadun los yedan. Economics is specialized knowledge.
+44. Tomta xe usom tomtu. The legal professional understands the law.
+45. Xita xe udan xotu. The witness is learning the objective fact.
+46. Habta xe udama habma. The righteous person accepts proper conduct.
+47. Nerta xe nerma nertu. The rebel rejects the error.
+48. Dita xe di ditu. The artist creates a work.
+49. Cinta xe cima cinta. The partner is interacting with the partner.
+50. Duta xe truma net. The colleague is moving to the location.
+51. Pimta xe pema pimtu. The model is controlling the structure.
+52. Nita xe pema nino. The judge is controlling the balance.
+53. Xumta xe xema xumtu. The doctor is observing the living organism.
+54. Danta xe udan tomdan. The student is learning mathematics.
+55. Mata xe pema mano. The activist is controlling the action power.
+56. Nota xe pema tano. The authority is controlling the power.
+57. Peta xe pema petu. The controller is controlling the device.
+58. Teta xe tema punda. The examiner is measuring the volume.
+59. Truta xe truma zenet. The immigrant is moving to the destination.
+60. Data xe dama adatu. The customer is using the consumable.
+61. Sombitu los bitu. Memory is information.
+62. Bitu los sombitu. Information is a record.
+63. Tomtu los habtu. Logic is the correct thing.
+64. Xitu los xitu. Opinion is a subjective fact.
+65. Xotu los habtu. Truth is the correct thing.
+66. Habtu los habtu. The correct answer is the right thing.
+67. Nertu los nertu. The error is a defect.
+68. Ditu los ditu. The work is a creation.
+69. Bimtu los bimtu. The matter is an object.
+70. Citu los citu. The atom is a particle.
+71. Xadtu los xadtu. The speedometer is a flow.
+72. Dututu los dututu. The clock is a schedule.
+73. Pumtu los pumtu. The vessel is a spatial object.
+74. Katu los katu. The link is a cable.
+75. Pimtu los pimtu. The structure is a construction.
+76. Nitutu los nitutu. The scale is a balance device.
+77. Notu los notu. The battery is an energy source.
+78. Postu los postu. The cell is an electronic component.
+79. Nettu los nettu. The site is a location.
+80. Xumtu los xumtu. The organism is a pet.
+81. Somdan los dandan. Psychology is a field of study.
+82. Tomdan los dandan. Mathematics is a field of study.
+83. Cidan los dandan. Physics is a field of study.
+84. Posdan los dandan. Electronics is a field of study.
+85. Bimdan los dandan. Materials science is a field of study.
+86. Xumdan los dandan. Biology is a field of study.
+87. Netdan los dandan. Geography is a field of study.
+88. Nodan los dandan. Mechanics is a field of study.
+89. Pimdan los dandan. Architecture is a field of study.
+90. Yedan los dandan. Professional knowledge is a study.
+91. Udan los dandan. Learning is a study.
+92. Adan los dandan. Education is a study.
+93. Hadan los dandan. Ethics is a study.
+94. Madan los dandan. Behavioral science is a study.
+95. Xidun los dandan. Statistics is a study.
+96. Bidan los dandan. Archival science is a study.
+97. Dadun los dandan. Economics is a study.
+98. Pedan los dandan. Control engineering is a study.
+99. Tedan los dandan. Metrology is a study.
+100. Trudan los dandan. Transportation engineering is a study.
+101. Citama los mama. Conversation is an action.
+102. Dakama los mama. Labor is an action.
+103. Nerma los mama. Rejection is an action.
+104. Potama los mama. Birth is an action.
+105. Truma los mama. Transportation is an action.
+106. Pema los mama. Control is an action.
+107. Tema los mama. Measurement is an action.
+108. Dama los mama. Consumption is an action.
+109. Cima los mama. Interaction is an action.
+110. Poma los mama. Starting is an action.
+111. Nercima los mama. Fighting is an action.
+112. Udama los mama. Acceptance is an action.
+113. Adama los mama. Disposal is an action.
+114. Tenma los mama. Increasing action is an action.
+115. Cenma los mama. Decreasing action is an action.
+116. Xema los mama. Current action is an action.
+117. Coma los mama. Past action is an action.
+118. Zema los mama. Future action is an action.
+119. Habma los mama. Proper conduct is an action.
+120. Nerhabma los mama. Mistake is an action.
+121. Xenet los netnet. Current position is a place.
+122. Conet los netnet. Starting point is a place.
+123. Zenet los netnet. Destination is a place.
+124. Pumnet los netnet. Area is a place.
+125. Kanet los netnet. Border is a place.
+126. Habnet los netnet. Safe zone is a place.
+127. Nernete los netnet. Obstacle area is a place.
+128. Binet los netnet. Map is a place.
+129. Dunet los netnet. Era is a place.
+130. Nonet los netnet. Power plant is a place.
+131. Posnet los netnet. Electrical facility is a place.
+132. Xumnet los netnet. Habitat is a place.
+133. Tanet los netnet. Society is a place.
+134. Somnet los netnet. School is a place.
+135. Bimnet los netnet. Building is a place.
+136. Pimnet los netnet. Complex is a place.
+137. Cinet los netnet. Empty lot is a place.
+138. Dinet los netnet. Studio is a place.
+139. Penet los netnet. Control room is a place.
+140. Tenet los netnet. Measuring station is a place.
+141. Pono los nono. Strong energy is power.
+142. Ceno los nono. Weak energy is power.
+143. Xadno los nono. Kinetic energy is power.
+144. Truno los nono. Transmission power is power.
+145. Peno los nono. Engine output is power.
+146. Cino los nono. Friction is power.
+147. Dano los nono. Fuel is power.
+148. Somno los nono. Willpower is power.
+149. Posno los nono. Electric power is power.
+150. Bimno los nono. Physical force is power.
+151. Tano los nono. Authority is power.
+152. Mano los nono. Action power is power.
+153. Teno los nono. Amplified power is power.
+154. Pimno los nono. Structural strength is power.
+155. Nino los nono. Balanced power is power.
+156. Nerno los nono. Resistance is power.
+157. Xumno los nono. Vitality is power.
+158. Duno los nono. Durability is power.
+159. Tenposno los nono. High voltage is power.
+160. Cenposno los nono. Low voltage is power.
+161. Uposnet los netnet. Charging station is a place.
+162. Aposnet los netnet. Discharge outlet is a place.
+163. Tenbimno los nono. Superhuman strength is power.
+164. Cenbimno los nono. Weakened force is power.
+165. Nerbimno los nono. Repulsion is power.
+166. Ubimtu los tutu. Stock is a thing.
+167. Abimtu los tutu. Waste is a thing.
+168. Tenxumno los nono. Excessive vitality is power.
+169. Cenxumno los nono. Low energy is power.
+170. Uxumtu los tutu. Host is a thing.
+171. Axumtu los tutu. Carcass is a thing.
+172. Tesomdan los dandan. IQ testing field is a study.
+173. Pesomma los mama. Mind control is an action.
+174. Usomtu los tutu. Hard drive is a thing.
+175. Asomtu los tutu. Forgotten memory is a thing.
+176. Tetrudan los dandan. Surveying is a study.
+177. Petruma los mama. Navigation is an action.
+178. Utrutu los tutu. Imported goods is a thing.
+179. Atrutu los tutu. Exported goods is a thing.
+180. Tedadun los dandan. Market research is a study.
+181. Pedama los mama. Resource management is an action.
+182. Udatu los tutu. Stockpiled resources is a thing.
+183. Adatu los tutu. Consumable is a thing.
+184. Tepundan los dandan. Volumetrics is a study.
+185. Pepuma los mama. Spatial design is an action.
+186. Upumtu los tutu. Container is a thing.
+187. Apumtu los tutu. Empty space is a thing.
+188. Tenpidan los dandan. Advanced structural engineering is a study.
+189. Cepimtu los tutu. Ruin is a thing.
+190. Upimtu los tutu. Modular house is a thing.
+191. Apimtu los tutu. Debris is a thing.
+192. Tennodan los dandan. High-energy physics is a study.
+193. Ponoma los mama. Ignition is an action.
+194. Cenoma los mama. Extinguishing is an action.
+195. Upono los tutu. Fuel tank is a thing.
+196. Tehadan los dandan. Morality evaluation is a study.
+197. Pehabma los mama. Discipline is an action.
+198. Uhabtu los tutu. Certified fact is a thing.
+199. Ahabtu los tutu. Invalid answer is a thing.
+200. Tenxidan los dandan. Big data analysis is a study.
+201. Cexitu los tutu. Prejudice is a thing.
+202. Uxitu los tutu. Vote result is a thing.
+203. Axitu los tutu. Rejection is a thing.
+204. Tebidan los dandan. Historical criticism is a study.
+205. Pebitu los mama. Data editing is an action.
+206. Ubitutu los tutu. Backup file is a thing.
+207. Abitutu los tutu. Deleted log is a thing.
+208. Tenyedan los dandan. Doctoral course is a study.
+209. Ceyedan los dandan. General knowledge is a study.
+210. Uyedan los dandan. Know-how is a study.
+211. Ayedan los dandan. Lost technology is a study.
+212. Tepima los mama. Scanning is an action.
+213. Pepima los mama. Sculpting is an action.
+214. Apimtu los tutu. Fragment is a thing.
+215. Tennotu los tutu. Nuclear battery is a thing.
+216. Cennotu los tutu. Discharged battery is a thing.
+217. Unotu los tutu. Power bank is a thing.
+218. Anotu los netnet. Battery graveyard is a place.
+219. Posbimtu los tutu. Appliance is a thing.
+220. Posxumtu los tutu. Cyborg is a thing.
+221. Possomtu los tutu. AI chip is a thing.
+222. Posnettu los netnet. Data center is a place.
+223. Posmada los mama. Digital payment is an action.
+224. Bimxadtu los tutu. Solid object is a thing.
+225. Cidanxad los dandan. Fluid mechanics is a study.
+226. Xadsomtu los tutu. Intuition is a thing.
+227. Xadtruma los mama. Teleportation is an action.
+228. Dusomtu los tutu. Clock mechanism is a thing.
+229. Dutuma los mama. Waiting is an action.
+230. Zemaudu los tutu. Eternity is a thing.
+231. Comaudu los tutu. Moment of memory is a thing.
+232. Kaxumtu los tutu. Chimera is a thing.
+233. Kabimtu los tutu. Alloy is a thing.
+234. Kasomtu los tutu. Hive mind is a thing.
+235. Kanettu los netnet. Border checkpoint is a place.
+236. Nerkama los mama. Breakup is an action.
+237. Cikama los mama. Networking is an action.
+238. Nixumtu los tutu. Healthy individual is a thing.
+239. Nibimtu los tutu. Stable building is a thing.
+240. Nisomma los mama. Meditation is an action.
+241. Ninotu los tutu. Voltage regulator is a thing.
+242. Nerxima los mama. Dispute is an action.
+243. xixumtu los tutu. Mutant is a thing.
+244. xibimtu los tutu. Optical illusion is a thing.
+245. xisomtu los tutu. Dream is a thing.
+246. dituadu los tutu. Moment of inspiration is a thing.
+247. dipumtu los tutu. Statue is a thing.
+248. disomtu los tutu. Idea is a thing.
+249. dinettu los netnet. Gallery is a place.
+250. potaxumma los mama. Birthday party is an action.
+251. poxumtu los tutu. Seed is a thing.
+252. pobimtu los tutu. Raw material is a thing.
+253. posomtu los tutu. Draft idea is a thing.
+254. ponettu los netnet. New city is a place.
+255. tenmata los tata. Activist leader is a person.
+256. cenmata los tata. Bystander is a person.
+257. nermata los tata. Striker is a person.
+258. umata los mama. Cooperative behavior is an action.
+259. amata los mama. Boycott is an action.
+260. tepono los mama. Efficiency measurement is an action.
+261. pepono los mama. Output control is an action.
+262. upono los tutu. Accumulator is a thing.
+263. apono los mama. Electric leakage is an action.
+264. somposdan los dandan. Neurotechnology is a study.
+265. bimposdan los dandan. Semiconductor engineering is a study.
+266. xumposdan los dandan. Bioelectronics is a study.
+267. netposdan los dandan. Network engineering is a study.
+268. tomposdan los dandan. Computer science is a study.
+269. citapostu los tutu. Chatbot is a thing.
+270. bimapostu los tutu. Sensor is a thing.
+271. xumapostu los tutu. Life monitor is a thing.
+272. netapostu los tutu. Router is a thing.
+273. tomapostu los tutu. Logic gate is a thing.
+274. tenxumdan los dandan. Evolutionary biology is a study.
+275. cenxumdan los dandan. Parasitology is a study.
+276. uxumdan los dandan. Conservation biology is a study.
+277. axumdan los dandan. Paleontology is a study.
+278. tenbidan los dandan. Historiography is a study.
+279. cenbidan los dandan. Information control is a study.
+280. ubidan los dandan. Library science is a study.
+281. abidan los dandan. Information destruction study is a study.
+282. tenhadan los dandan. Philosophy is a study.
+283. cenhadan los dandan. Criminal psychology is a study.
+284. uhadan los dandan. Character education is a study.
+285. ahadan los mama. Immorality is an action.
+286. tenmadan los dandan. Leadership study is a study.
+287. cenmadan los dandan. Pathology is a study.
+288. umadan los dandan. Etiquette education is a study.
+289. amadan los dandan. Antisociality research is a study.
+290. So xe usom tomdan? Do you understand mathematics?
+291. Vi xe usom tomdan. I understand mathematics.
+292. Sonta xe udan tomtu. The intellectual is learning the logic.
+293. Posta xe dama postu. The technician is using the component.
+294. Xumta xe xema xumtu. The doctor is observing the organism.
+295. Danta xe udan yedan. The student is learning expertise.
+296. Dita xe di ditu. The artist is creating a work.
+297. Mata xe dama mano. The activist is using action power.
+298. Truta xe truma net. The traveler is moving to the place.
+299. Data xe dama adatu. The customer is using the consumable.
+300. Nota xe pema tano. The leader is controlling the power.
+301. Nita xe pema nino. The judge is controlling the balance.
+302. Teta xe tema bimtu. The judge is measuring the object.
+303. Peta xe pema petu. The pilot is controlling the device.
+304. Habta xe udama habma. The good person is accepting the behavior.
+305. Nerta xe nerma nertu. The rebel is rejecting the error.
+306. Xita xe udan xotu. The witness is learning the truth.
+307. Cinta xe cima cinta. The partner is interacting with the partner.
+308. Duta xe truma net. The colleague is moving to the location.
+309. Pimta xe pema pimtu. The model is controlling the structure.
+310. Bimta xe dakama bimtu. The laborer is working on the object.
+311. So xe udan tomdan? Are you learning mathematics?
+312. Vi xe udan tomdan. I am learning mathematics.
+313. So co usom somdan? Did you understand psychology?
+314. Vi co usom somdan. I understood psychology.
+315. Somtu los tutu. An idea is a thing.
+316. Bitu los tutu. Information is a thing.
+317. Tomtu los tutu. Logic is a thing.
+318. Xitu los tutu. Opinion is a thing.
+319. Xotu los tutu. Truth is a thing.
+320. Habtu los tutu. Answer is a thing.
+321. Nertu los tutu. Error is a thing.
+322. Ditu los tutu. Work is a thing.
+323. Bimtu los tutu. Matter is a thing.
+324. Citu los tutu. Atom is a thing.
+325. Xadtu los tutu. Speed is a thing.
+326. Dututu los tutu. Clock is a thing.
+327. Pumtu los tutu. Container is a thing.
+328. Katu los tutu. Cable is a thing.
+329. Pimtu los tutu. Structure is a thing.
+330. Nitutu los tutu. Scale is a thing.
+331. Notu los tutu. Battery is a thing.
+332. Postu los tutu. Cell is a thing.
+333. Nettu los tutu. Site is a thing.
+334. Xumtu los tutu. Pet is a thing.
+335. Sonta los tata. Thinker is a person.
+336. Bimta los tata. Laborer is a person.
+337. Posta los tata. Technician is a person.
+338. Tomta los tata. Lawyer is a person.
+339. Xita los tata. Witness is a person.
+340. Habta los tata. Good person is a person.
+341. Nerta los tata. Rebel is a person.
+342. Dita los tata. Artist is a person.
+343. Cinta los tata. Partner is a person.
+344. Duta los tata. Colleague is a person.
+345. Pimta los tata. Model is a person.
+346. Nita los tata. Judge is a person.
+347. Xumta los tata. Doctor is a person.
+348. Danta los tata. Scholar is a person.
+349. Mata los tata. Activist is a person.
+350. Nota los tata. Leader is a person.
+351. Peta los tata. Pilot is a person.
+352. Teta los tata. Judge is a person.
+353. Truta los tata. Traveler is a person.
+354. Data los tata. Customer is a person.
+355. Xenet los netnet. Current position is a place.
+356. Conet los netnet. Start point is a place.
+357. Zenet los netnet. Destination is a place.
+358. Pumnet los netnet. Region is a place.
+359. Kanet los netnet. Border is a place.
+360. Habnet los netnet. Safety zone is a place.
+361. Nernete los netnet. Barrier zone is a place.
+362. Binet los netnet. Map location is a place.
+363. Dunet los netnet. Era is a place.
+364. Nonet los netnet. Plant is a place.
+365. Posnet los netnet. Electric facility is a place.
+366. Xumnet los netnet. Habitat is a place.
+367. Tanet los netnet. Society is a place.
+368. Somnet los netnet. School is a place.
+369. Bimnet los netnet. Building is a place.
+370. Pimnet los netnet. Complex is a place.
+371. Cinet los netnet. Square is a place.
+372. Dinet los netnet. Studio is a place.
+373. Penet los netnet. Control room is a place.
+374. Tenet los netnet. Station is a place.
+375. Pono los nono. Energy is power.
+376. Ceno los nono. Low energy is power.
+377. Xadno los nono. Speed power is power.
+378. Truno los nono. Transfer power is power.
+379. Peno los nono. Driving power is power.
+380. Cino los nono. Friction power is power.
+381. Dano los nono. Fuel power is power.
+382. Somno los nono. Mental power is power.
+383. Posno los nono. Electric power is power.
+384. Bimno los nono. Physical power is power.
+385. Tano los nono. Social power is power.
+386. Mano los nono. Action power is power.
+387. Teno los nono. Amplified power is power.
+388. Pimno los nono. Strong power is power.
+389. Nino los nono. Balanced power is power.
+390. Nerno los nono. Resistance power is power.
+391. Xumno los nono. Life power is power.
+392. Duno los nono. Time power is power.
+393. Tama. Hello.
+394. Xumma. See you later.
+395. So tom? Is it true?
+396. Los? What is it?
+397. So los bimtu. It is an object.
+398. Vi co udan tomdan. I have learned mathematics.
+399. Vi co usom somdan. I understood psychology.
+400. So xe usom tomtu? Do you understand the logic?
+401. So co udan cidan? Do you know physics?
+402. Vi co udan cidan. I know physics.
+403. Sonta xe udama sombitu. The thinker is accepting the memory.
+404. Posta xe pema postu. The technician is controlling the component.
+405. Xumta xe xema xumtu. The doctor is observing the organism.
+406. Danta xe udan yedan. The student is learning expertise.
+407. Dita xe di ditu. The artist is creating art.
+408. Mata xe pema mano. The activist is controlling the power.
+409. Truta xe truma net. The traveler is moving to the place.
+410. Data xe dama adatu. The customer is using the consumable.
+411. Nota xe pema tano. The leader is controlling the power.
+412. Nita xe pema nino. The judge is controlling the balance.
+413. Teta xe tema bimtu. The judge is measuring the object.
+414. Peta xe pema petu. The pilot is controlling the device.
+415. Habta xe udama habma. The good person is accepting the behavior.
+416. Nerta xe nerma nertu. The rebel is rejecting the error.
+417. Xita xe udan xotu. The witness is learning the truth.
+418. Cinta xe cima cinta. The partner is interacting with the partner.
+419. Duta xe truma net. The colleague is moving to the location.
+420. Pimta xe pema pimtu. The model is controlling the structure.
+421. Bimta xe dakama bimtu. The laborer is working on the object.
+422. Sonta xe di somtu. The intellectual creates an idea.
+423. Sonta xe usom tomtu. The intellectual understands logic.
+424. Posta xe dama postu. The technician uses electronic components.
+425. Xumta xe udan xumdan. The doctor learns biology.
+426. Danta xe udan tomdan. The student learns mathematics.
+427. Dita xe pema ditu. The artist controls the work.
+428. Mata xe dama mano. The activist uses action power.
+429. Truta xe truma net. The traveler moves to the place.
+430. Data xe dama adatu. The customer uses the item.
+431. Nota xe pema tano. The leader controls authority.
+432. Nita xe tema nino. The judge measures balance.
+433. Teta xe tema xadtu. The examiner measures speed.
+434. Peta xe pema petu. The pilot controls the device.
+435. Habta xe udama habtu. The good person accepts the answer.
+436. Nerta xe nerma nertu. The rebel rejects the error.
+437. Xita xe udan xotu. The witness learns the fact.
+438. Cinta xe cima cinta. The partner interacts with the partner.
+439. Duta xe truma net. The colleague moves to the location.
+440. Pimta xe pema pimtu. The model controls the structure.
+441. Bimta xe dakama bimtu. The worker works on the matter.
+442. Somdan los dandan. Psychology is a study.
+443. Tomdan los dandan. Mathematics is a study.
+444. Cidan los dandan. Physics is a study.
+445. Posdan los dandan. Electronics is a study.
+446. Bimdan los dandan. Materials science is a study.
+447. Xumdan los dandan. Biology is a study.
+448. Netdan los dandan. Geography is a study.
+449. Nodan los dandan. Mechanics is a study.
+450. Pimdan los dandan. Architecture is a study.
+451. Yedan los dandan. Expertise is a study.
+452. Udan los dandan. Learning is a study.
+453. Adan los dandan. Education is a study.
+454. Hadan los dandan. Ethics is a study.
+455. Madan los dandan. Behavior study is a study.
+456. Xidun los dandan. Statistics is a study.
+457. Bidan los dandan. Archival study is a study.
+458. Dadun los dandan. Economics is a study.
+459. Pedan los dandan. Control study is a study.
+460. Tedan los dandan. Measurement study is a study.
+461. Trudan los dandan. Traffic study is a study.
+462. Sonta xe usom xotu. The thinker understands the truth.
+463. Vi co udan tomdan. I have learned mathematics.
+464. Vi co udan somdan. I have learned psychology.
+465. Vi co udan cidan. I have learned physics.
+466. Vi co udan posdan. I have learned electronics.
+467. Vi co udan bimdan. I have learned materials science.
+468. Vi co udan xumdan. I have learned biology.
+469. Vi co udan netdan. I have learned geography.
+470. Vi co udan nodan. I have learned mechanics.
+471. Vi co udan pimdan. I have learned architecture.
+472. Vi co udan yedan. I have learned expertise.
+473. Vi co udan hadan. I have learned ethics.
+474. Vi co udan madan. I have learned behavioral science.
+475. Vi co udan xidun. I have learned statistics.
+476. Vi co udan bidan. I have learned records study.
+477. Vi co udan dadun. I have learned economics.
+478. Vi co udan pedan. I have learned control engineering.
+479. Vi co udan tedan. I have learned metrology.
+480. Vi co udan trudan. I have learned transport engineering.
+481. So xe usom tomtu? Do you understand the logic?
+482. Vi xe usom tomtu. I understand the logic.
+483. So co udan sombitu? Do you know the memory?
+484. Vi co udan sombitu. I know the memory.
+485. Somtu los tutu. The idea is a thing.
+486. Bitu los tutu. Information is a thing.
+487. Tomtu los tutu. Logic is a thing.
+488. Xitu los tutu. Opinion is a thing.
+489. Xotu los tutu. Truth is a thing.
+490. Habtu los tutu. The answer is a thing.
+491. Nertu los tutu. The error is a thing.
+492. Ditu los tutu. The work is a thing.
+493. Bimtu los tutu. The matter is a thing.
+494. Citu los tutu. The atom is a thing.
+495. Xadtu los tutu. The speed is a thing.
+496. Dututu los tutu. The clock is a thing.
+497. Pumtu los tutu. The vessel is a thing.
+498. Katu los tutu. The cable is a thing.
+499. Pimtu los tutu. The structure is a thing.
+500. Nitutu los tutu. The scale is a thing.
