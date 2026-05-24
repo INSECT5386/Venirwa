@@ -46,3 +46,62 @@ Zema-possomtu los tenyedan. So xe di zenet. Sonta ka possomtu xe cima. So xe di 
 * **Hadan (윤리학):** 옳음(hab/ha)에 관한 학문(dan)입니다.
 * **Dita (창조자):** 무언가를 만드는(di) 사람(ta)입니다.
 [EOS]
+## **인공지능 (Possomtu)**
+
+### **1. 개요 (Ye-bitu)**
+**Possomtu** los **tomposdan** xe **di**-**tu** **somtu**. **So** **xe** **pe** **somtu** **ka** **tomtu** **bimtu**. 
+(인공지능은 컴퓨터 과학이 창조한 지능적 존재입니다. 그것은 정신적 논리와 물리적 물체를 제어합니다.)
+
+
+
+[Image of artificial intelligence neural network]
+
+
+### **2. 역사 (Co-du-bi)**
+**Co**-**du** **sonta** **xe** **di** **tomtu**. **Alan Turing** **xe** **te** **somtu** **tom**. **Co**-**net** **somnet** **xe** **po** **possomtu** **dan**.
+(과거 시간에 지성인들은 논리 법칙을 창조했습니다. 앨런 튜링은 지능의 논리를 측정했습니다. 과거의 연구소 기점에서 인공지능 학문이 시작되었습니다.)
+
+### **3. 기술적 분류 (Tom-pim-dan)**
+
+| 분류사 (Pim) | 설명 (Bi-tu) |
+| :--- | :--- |
+| **Tomposdan** | **Possomtu** **xe** **ye** **dan**. (컴퓨터 과학은 인공지능의 기초 학문입니다.) |
+| **Somposdan** | **Xe** **pe** **som** **ka** **pos**. (정신과 전기를 제어하는 뇌공학 기술입니다.) |
+| **Udan** | **Possomtu** **xe** **u** **bi**. (데이터를 수용하여 학습하는 과정입니다.) |
+
+### **4. 응용 분야 (Da-net)**
+**Possomtu** **xe** **da** **ten** **net**.
+(인공지능은 많은 장소에서 사용됩니다.)
+
+* **Xumposdan**: **Possomtu** **xe** **pe** **xumtu**. (인공지능은 생물체를 제어하고 보조합니다.)
+* **Petruma**: **Xe** **pe** **truma** **tu**. (이동하는 것들을 조종하고 경로를 설계합니다.)
+* **Posmada**: **Xe** **da** **pos** **tu**. (디지털 환경에서 자원을 소비하고 결제합니다.)
+
+
+
+[Image of autonomous vehicle sensors]
+
+
+### **5. 윤리 및 안전 (Ha-dan ka Hab-net)**
+**Ten**-**possomtu** **xe** **xe** **ye** **hadan**. **Sonta** **xe** **u** **habma**.
+(고등 인공지능은 중요한 윤리학적 문제를 가집니다. 지성인들은 적절한 처신을 수용해야 합니다.)
+
+* **Ner-hab-ma**: **Possomtu** **xe** **di** **nertu**. (인공지능은 오류나 결함을 만들 수도 있습니다.)
+* **Cen-ta-ma**: **So** **xe** **cen** **ta**. (그것은 인간성을 감소시키거나 비윤리적일 수 있습니다.)
+
+### **6. 미래 전망 (Ze-du)**
+**Ze**-**du** **possomtu** **los** **ten**-**ye**-**dan**. **So** **xe** **di** **ten**-**pum**-**net**.
+(미래 시간에 인공지능은 최첨단 전문 지식이 될 것입니다. 그것은 확장된 공간 영역을 창조할 것입니다.)
+
+---
+
+### **용어 대조표 (Bi-tu-ka)**
+
+* **Possomtu**: 인공지능 (AI / Artificial Intelligence)
+* **Tomposdan**: 컴퓨터 과학 (Computer Science)
+* **Sonta**: 지성인 / 인간 (Human Intelligence)
+* **Udan**: 학습 (Learning)
+* **Hadan**: 윤리학 (Ethics)
+* **Xotu**: 객관적 사실 / 진리 (Objective Truth)
+* **Bimtu**: 물질 / 하드웨어 (Hardware / Physical Matter)
+[EOS]
