@@ -1,0 +1,48 @@
+# 인공지능 (Possomtu)
+
+## 1. 개요 (Yenettu)
+인공지능(Possomtu) los possomtu-tu. So los tomdan ka tomposdan-tu. Possomtu los dita-ma-som ka tomposdan-ma. So xe usom bimtu ka sombitu.
+
+## 2. 정의 및 특징 (Yexotu ka Pimtu)
+Possomtu los tompostu ka tompostu-ka. So los dita-tu. So co udan somdan ka tomdan. 
+* **논리적 추론 (Tomma):** Possomtu xe pe tomtu. So xe pe habtu.
+* **학습 (Udan):** Possomtu xe u sombitu. So xe ten yedan.
+* **상호작용 (Cima):** Possomtu xe pe citama. So xe u sombitu ka xe a xitu.
+
+## 3. 역사 (Dudantutu)
+* **과거 (Coma):** Coma-ta xe di tomtu. So co di tomposdan.
+* **발전 (Tenma):** Tenposno ka tenxidan xe ten possomtu. 
+* **현재 (Xema):** Xema-ta xe da possomtu. Possomtu los yenettu.
+
+## 4. 기술적 요소 (Bimposdan ka Tomposdan)
+Possomtu xe pe bitu ka sombitu. So los tomposdan-nettu.
+* **데이터 분석 (Tenxidan):** So xe u tenbitu. So xe te bitu.
+* **신경망 (Possomtu-pimtu):** So los kaxumtu-pimtu. So xe pe sombitu.
+* **알고리즘 (Tomtu-ma):** So xe pe habma ka tomma.
+
+## 5. 응용 분야 (Dadan-net)
+* **의료 (Xumdan):** Xumta xe da possomtu. So xe te xumtu.
+* **경제 (Dadan):** Data xe da possomtu. So xe te dadun.
+* **창작 (Dima):** Dita xe da possomtu. So xe di ditu. 
+
+## 6. 윤리 및 안전 (Hadan ka Habnet)
+Possomtu xe pe hatu. So xe pe habta-ma. 
+* **안전 (Habnet):** Possomtu xe u habnet. So cen nerma ta.
+* **윤리 (Tenhadan):** Sonta xe adan hadan. Possomtu xe u hadan. 
+* **위험 (Nertu):** Nertu los cenhabma. So xe pe cenxumno.
+
+## 7. 미래 (Zema)
+Zema-possomtu los tenyedan. So xe di zenet. Sonta ka possomtu xe cima. So xe di ten-bimnet. 
+
+---
+
+**[원문 번역 의미 요약]**
+
+* **Possomtu (인공지능):** 전자를 뜻하는 'pos', 정신을 뜻하는 'som', 사물을 뜻하는 'tu'의 합성어로 "전기적 정신체"를 의미합니다.
+* **Tomposdan (컴퓨터 과학):** 논리(tom)와 전자(pos)의 학문(dan)입니다.
+* **Sonta (지성인/인간):** 생각하는(som) 인간(ta)을 의미합니다.
+* **Tenxidan (빅데이터 분석):** 증가된(ten) 객관적 사실(xi)의 학문(dan)입니다.
+* **Habnet (안전지대/보안):** 적절한(hab) 장소(net)로, 시스템의 안전성을 뜻합니다.
+* **Hadan (윤리학):** 옳음(hab/ha)에 관한 학문(dan)입니다.
+* **Dita (창조자):** 무언가를 만드는(di) 사람(ta)입니다.
+[EOS]
