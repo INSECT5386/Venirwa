@@ -1,167 +1,90 @@
-# 인공지능 (Possomtu)
+Possomtu los posbimtu-ma-som.
+Initial ideas are electronic physical-object-action-minds.
 
-## 1. 개요 (Yenettu)
-인공지능(Possomtu) los possomtu-tu. So los tomdan ka tomposdan-tu. Possomtu los dita-ma-som ka tomposdan-ma. So xe usom bimtu ka sombitu.
+So xe ubitutu ka so xe datomtu.
+Everything currently is backup files and everything currently is used logic.
 
-## 2. 정의 및 특징 (Yexotu ka Pimtu)
-Possomtu los tompostu ka tompostu-ka. So los dita-tu. So co udan somdan ka tomdan. 
-* **논리적 추론 (Tomma):** Possomtu xe pe tomtu. So xe pe habtu.
-* **학습 (Udan):** Possomtu xe u sombitu. So xe ten yedan.
-* **상호작용 (Cima):** Possomtu xe pe citama. So xe u sombitu ka xe a xitu.
+So ye-tu los xenet tomposdan.
+Everything important-thing is current-location computer-science.
 
-## 3. 역사 (Dudantutu)
-* **과거 (Coma):** Coma-ta xe di tomtu. So co di tomposdan.
-* **발전 (Tenma):** Tenposno ka tenxidan xe ten possomtu. 
-* **현재 (Xema):** Xema-ta xe da possomtu. Possomtu los yenettu.
+Vi co udan somposdan ka vi co usom possomtu.
+I have learned brain-engineering and I have understood artificial-intelligence-chips.
 
-## 4. 기술적 요소 (Bimposdan ka Tomposdan)
-Possomtu xe pe bitu ka sombitu. So los tomposdan-nettu.
-* **데이터 분석 (Tenxidan):** So xe u tenbitu. So xe te bitu.
-* **신경망 (Possomtu-pimtu):** So los kaxumtu-pimtu. So xe pe sombitu.
-* **알고리즘 (Tomtu-ma):** So xe pe habma ka tomma.
+Sonta xe pema posnettu ka sonta xe tema tenposno.
+The intellectual currently operates the server-room and the intellectual currently measures high-voltage.
 
-## 5. 응용 분야 (Dadan-net)
-* **의료 (Xumdan):** Xumta xe da possomtu. So xe te xumtu.
-* **경제 (Dadan):** Data xe da possomtu. So xe te dadun.
-* **창작 (Dima):** Dita xe da possomtu. So xe di ditu. 
+Tomta xe ubitu ubitutu ka tomta xe adama nertu.
+The law-expert currently archives backup-files and the law-expert currently discards errors.
 
-## 6. 윤리 및 안전 (Hadan ka Habnet)
-Possomtu xe pe hatu. So xe pe habta-ma. 
-* **안전 (Habnet):** Possomtu xe u habnet. So cen nerma ta.
-* **윤리 (Tenhadan):** Sonta xe adan hadan. Possomtu xe u hadan. 
-* **위험 (Nertu):** Nertu los cenhabma. So xe pe cenxumno.
+Vi co udan bimposdan ka vi co usom bimxadtu.
+I have learned semiconductor-engineering and I have understood solid-matter.
 
-## 7. 미래 (Zema)
-Zema-possomtu los tenyedan. So xe di zenet. Sonta ka possomtu xe cima. So xe di ten-bimnet. 
+Bimta xe dakama bimnet ka bimta xe pema peno.
+The physical-worker currently labors at the building and the physical-worker currently operates the engine-output.
 
----
+So xe habtu los tenyedan ka so xe nertu los ceyedan.
+Everything currently correct-thing is advanced-expertise and everything currently error-thing is basic-knowledge.
 
-**[원문 번역 의미 요약]**
+Danta xe udan tomdan ka danta xe usom nino.
+The scholar learns mathematics and the scholar understands balanced-force.
 
-* **Possomtu (인공지능):** 전자를 뜻하는 'pos', 정신을 뜻하는 'som', 사물을 뜻하는 'tu'의 합성어로 "전기적 정신체"를 의미합니다.
-* **Tomposdan (컴퓨터 과학):** 논리(tom)와 전자(pos)의 학문(dan)입니다.
-* **Sonta (지성인/인간):** 생각하는(som) 인간(ta)을 의미합니다.
-* **Tenxidan (빅데이터 분석):** 증가된(ten) 객관적 사실(xi)의 학문(dan)입니다.
-* **Habnet (안전지대/보안):** 적절한(hab) 장소(net)로, 시스템의 안전성을 뜻합니다.
-* **Hadan (윤리학):** 옳음(hab/ha)에 관한 학문(dan)입니다.
-* **Dita (창조자):** 무언가를 만드는(di) 사람(ta)입니다.
-[EOS]
-## **인공지능 (Possomtu)**
+Truta xe truma zenet ka truta xe pema petruma.
+The traveler moves to the destination and the traveler operates navigation.
 
-### **1. 개요 (Ye-bitu)**
-**Possomtu** los **tomposdan** xe **di**-**tu** **somtu**. **So** **xe** **pe** **somtu** **ka** **tomtu** **bimtu**. 
-(인공지능은 컴퓨터 과학이 창조한 지능적 존재입니다. 그것은 정신적 논리와 물리적 물체를 제어합니다.)
+Vi co udan netposdan ka vi co usom netapostu.
+I have learned network-engineering and I have understood routers.
 
+Posta xe pema possomtu ka posta xe adama abitutu.
+The hacker operates artificial-intelligence-chips and the hacker discards deleted-records.
 
+So los tomposdan ka so los somposdan.
+Everything is computer-science and everything is brain-engineering.
 
-[Image of artificial intelligence neural network]
+Dita xe di disomtu ka dita xe pema dinettu.
+The creator creates ideas and the creator operates the gallery.
 
+Xumta xe udan tenxumdan ka xumta xe usom nixumtu.
+The biologist learns evolutionary-biology and the biologist understands healthy-organisms.
 
-### **2. 역사 (Co-du-bi)**
-**Co**-**du** **sonta** **xe** **di** **tomtu**. **Alan Turing** **xe** **te** **somtu** **tom**. **Co**-**net** **somnet** **xe** **po** **possomtu** **dan**.
-(과거 시간에 지성인들은 논리 법칙을 창조했습니다. 앨런 튜링은 지능의 논리를 측정했습니다. 과거의 연구소 기점에서 인공지능 학문이 시작되었습니다.)
+So xe xotu los tombitu ka so xe xitu los uxitu.
+Everything currently truth is logical-data and everything currently opinion is adopted-opinion.
 
-### **3. 기술적 분류 (Tom-pim-dan)**
+Tenmata xe poma tenma ka cenmata xe poma cenma.
+The activist-leader starts increasing-action and the observer starts decreasing-action.
 
-| 분류사 (Pim) | 설명 (Bi-tu) |
-| :--- | :--- |
-| **Tomposdan** | **Possomtu** **xe** **ye** **dan**. (컴퓨터 과학은 인공지능의 기초 학문입니다.) |
-| **Somposdan** | **Xe** **pe** **som** **ka** **pos**. (정신과 전기를 제어하는 뇌공학 기술입니다.) |
-| **Udan** | **Possomtu** **xe** **u** **bi**. (데이터를 수용하여 학습하는 과정입니다.) |
+So xe habnet los xenet ka so xe nernete los conet.
+Everything currently safe-zone is current-location and everything currently obstacle-area is starting-point.
 
-### **4. 응용 분야 (Da-net)**
-**Possomtu** **xe** **da** **ten** **net**.
-(인공지능은 많은 장소에서 사용됩니다.)
+Vi co udan duno ka vi co usom zemaudu.
+I have learned the force-of-time and I have understood future-eternity.
 
-* **Xumposdan**: **Possomtu** **xe** **pe** **xumtu**. (인공지능은 생물체를 제어하고 보조합니다.)
-* **Petruma**: **Xe** **pe** **truma** **tu**. (이동하는 것들을 조종하고 경로를 설계합니다.)
-* **Posmada**: **Xe** **da** **pos** **tu**. (디지털 환경에서 자원을 소비하고 결제합니다.)
+Xita xe tema xadno ka xita xe u bimtu.
+The observer measures kinetic-energy and the observer stores objects.
 
+So xe poma possomtu los habtu.
+Everything starting artificial-intelligence-chips is the correct-thing.
 
+So xe poma tomposdan los yedan.
+Everything starting computer-science is expertise.
 
-[Image of autonomous vehicle sensors]
+Sonta xe pema penet ka sonta xe tema teno.
+The intellectual operates the control-room and the intellectual measures amplified-force.
 
+Vi co udan pomdan ka vi co usom pomo.
+I have learned the science-of-beginnings and I have understood the energy-of-ignition.
 
-### **5. 윤리 및 안전 (Ha-dan ka Hab-net)**
-**Ten**-**possomtu** **xe** **xe** **ye** **hadan**. **Sonta** **xe** **u** **habma**.
-(고등 인공지능은 중요한 윤리학적 문제를 가집니다. 지성인들은 적절한 처신을 수용해야 합니다.)
+So xe udama habtu ka so xe adama nertu.
+Everything accepts the correct-thing and everything discards the error.
 
-* **Ner-hab-ma**: **Possomtu** **xe** **di** **nertu**. (인공지능은 오류나 결함을 만들 수도 있습니다.)
-* **Cen-ta-ma**: **So** **xe** **cen** **ta**. (그것은 인간성을 감소시키거나 비윤리적일 수 있습니다.)
+Sonta xe udan dandan ka sonta xe usom tomdan.
+The intellectual learns the science-of-knowledge and the intellectual understands logic.
 
-### **6. 미래 전망 (Ze-du)**
-**Ze**-**du** **possomtu** **los** **ten**-**ye**-**dan**. **So** **xe** **di** **ten**-**pum**-**net**.
-(미래 시간에 인공지능은 최첨단 전문 지식이 될 것입니다. 그것은 확장된 공간 영역을 창조할 것입니다.)
+Vi co udan posdan ka vi co usom posno.
+I have learned electronic-engineering and I have understood electronic-power.
 
----
+So xe poma bimdan los bimtu.
+Everything starting material-science is a physical-object.
 
-### **용어 대조표 (Bi-tu-ka)**
-
-* **Possomtu**: 인공지능 (AI / Artificial Intelligence)
-* **Tomposdan**: 컴퓨터 과학 (Computer Science)
-* **Sonta**: 지성인 / 인간 (Human Intelligence)
-* **Udan**: 학습 (Learning)
-* **Hadan**: 윤리학 (Ethics)
-* **Xotu**: 객관적 사실 / 진리 (Objective Truth)
-* **Bimtu**: 물질 / 하드웨어 (Hardware / Physical Matter)
-[EOS]
-## **bitudan (문학)**
-
-### **1. los? (정의)**
-bitudan los bitu-ditu-dan. so los som-di-ma-tu. vi co udan bitu los xitu-di-tu. so tomta ze ubitu bitu-bimtu. so los som-pim-tu.
-
-
-
-### **2. du-ma (역사)**
-comaudu bitu los som-bi-tu. so co udan potaxumma-ma-bi. so co udan ten-bi-dan.
-* **comanet (고대):** xotu-bi-ma. so los hab-ta-ma.
-* **xenet (현대):** xita-di-tu. so los ten-ye-dan.
-
-### **3. 분류 (bim-ka)**
-bitudan los ten-pum-tu. so xe ka-bim-tu.
-* **xotu-bi-tu (비소설):** bim-bi-tu. so los tom-tu.
-* **xitu-di-tu (소설):** som-di-tu. so los pim-tu.
-* **xad-no-ma (시):** som-no-ma. so los ni-no-ma.
-
-### **4. dan-net (장르)**
-bitu-net los ten-ka-net.
-* **tom-bi-tu (추리):** tom-dan-ma. so xe u-som-ma.
-* **xum-di-tu (로맨스):** xum-som-ma. so xe ci-ma.
-* **bim-xad-di-tu (SF):** pos-dan-di-tu. so ze bim-tu.
-
-
-
-### **5. ta-ma (역할)**
-bitu-ta-ma los ten-ta-ma.
-* **ta-net (사회):** ta-net-ka-ma. so xe ten-ta-no.
-* **som-ma (정신):** som-ni-ma. so xe ni-som-ma.
-* **ye-dan (교육):** a-dan-ma. so xe u-dan-ma.
-
----
-
-### **[비율 및 통계 데이터]**
-
-| bitu-ka (분류) | pum-no (비중) | ta-ma (목적) |
-| :--- | :--- | :--- |
-| xotu-bi-tu | 40% | u-dan-ma (정보 습득) |
-| xitu-di-tu | 45% | som-di-ma (정신적 창조) |
-| xad-no-ma | 15% | som-ni-ma (정서적 균형) |
-
----
-
-### **6. bitu-di-ma (창작 과정)**
-1. **po-som-tu (발상):** di-som-tu po-ma.
-2. **pe-bi-tu (집필):** pe-bitu-ma. so xe bim-tu.
-3. **te-bi-dan (교정):** te-hab-ma. so xe nertu-a-ma.
-4. **a-bi-tu (발행):** a-bimtu-ma. so xe ta-net-u-ma.
-
-### **7. bitu-u-som (비평)**
-te-ta-ma xe te-bi-dan. so co usom bitu-pim-tu. ten-ye-dan xe te-ma bitu-no. hab-ta-ma xe u-som xotu-tu.
-
-### **8. zema-bitu (미래)**
-zema bitu los pos-bitu. possomtu ze di-ma bitu. so los tom-pos-dan-ma. vi co udan pos-xum-ta ze u-bitu. so los ten-pos-no.
-
----
-
-**vi co udan bitudan. so los som-di-tu-dan.**
+Sonta xe pema posnet ka sonta xe tema posno.
+The intellectual operates the electrical-facility and the intellectual measures electronic-power.
 [EOS]
