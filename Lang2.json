@@ -62,6 +62,27 @@
         "net": "장소, 위치"
     },
     "복합어": {
-        "": ""
+        "daik": {
+            "uldaik": "학습",
+            "aldiak": "교육",
+            "yedaik": "전문 지식",
+            "tomdaik": "수학, 논리학",
+            "somdaik": "심리학",
+            "cidaik": "물리학",
+        },
+        "ma": {
+            "citama": "대화",
+            "dakama": "노동, 작업",
+            "nerma": "거절",
+            "potama": "탄생"
+        },
+        "bi": {
+            "posbi": "디지털 데이터",
+            "kadubi": "역사"
+        },
+        "no": {
+            "xadno": "마찰력",
+            "tenno": "가속"
+        }
     }
 }
