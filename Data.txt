@@ -1,18 +1,18 @@
-1. Possoutu los biubitu. Possoutu is an artificial intelligence chip.
-2. Sonta xe uhue touhue. The intellectual is learning mathematics.
+1. Possetu los hubitu. Possetu is an artificial intelligence chip.
+2. Sonta xe uhue luhue. The intellectual is learning mathematics.
 3. Posta xe pema postu. The electronics technician is operating the electronic component.
 4. Bihue los yehue. Records management is specialized knowledge.
-5. So xe usou hautu. You understood the correct answer.
-6. Vi co uhue souhue. I have learned psychology.
+5. So xe use zitu. You understood the correct answer.
+6. Vi co uhue sehue. I have learned psychology.
 7. Dita xe di ditu. The creator is creating a work.
-8. soubitu los soubitu. Memory is recorded data.
-9. So xe uhue biuhue. You are learning materials science.
-10. Sonta xe usou toutu. The intellectual understood the logic.
+8. sebitu los sebitu. Memory is recorded data.
+9. So xe uhue huhue. You are learning materials science.
+10. Sonta xe use lutu. The intellectual understood the logic.
 11. Truta xe truma net. The traveler is moving to the location.
-12. hauta xe udama hautu. The good person is accepting the truth.
+12. zita xe udama zitu. The good person is accepting the truth.
 13. Binet los bitu. The map is information.
 14. So co uhue poshue. You have learned electronics.
-15. Vi xe usou toutu. I understand the law.
+15. Vi xe use lutu. I understand the law.
 16. Peta xe pema petu. The pilot is operating the control device.
 17. Xita xe xema xitu. The observer is observing the opinion.
 18. hueta xe uhue yehue. The scholar is learning professional knowledge.
@@ -20,73 +20,73 @@
 20. xueta xe uhue xuehue. The biologist is learning biology.
 21. Mata xe pema mano. The activist is controlling the power of action.
 22. Nota xe pema tano. The leader is controlling the social power.
-23. Data xe dama biutu. The consumer is using the object.
-24. Teta xe tema xaitu. The judge is measuring the speed.
-25. Sonta xe di soutu. The intellectual is creating an idea.
-26. Postu los biutu. The electronic component is a thing.
-27. Bitu los soubitu. The document is a memory record.
-28. touhue los yehue. Mathematics is specialized knowledge.
+23. Data xe dama hutu. The consumer is using the object.
+24. Teta xe tema yutu. The judge is measuring the speed.
+25. Sonta xe di setu. The intellectual is creating an idea.
+26. Postu los hutu. The electronic component is a thing.
+27. Bitu los sebitu. The document is a memory record.
+28. luhue los yehue. Mathematics is specialized knowledge.
 29. Cihue los yehue. Physics is specialized knowledge.
 30. Poshue los yehue. Electronics is specialized knowledge.
-31. biuhue los yehue. Materials science is specialized knowledge.
+31. huhue los yehue. Materials science is specialized knowledge.
 32. xuehue los yehue. Biology is specialized knowledge.
 33. Nethue los yehue. Geography is specialized knowledge.
 34. Nohue los yehue. Mechanics is specialized knowledge.
-35. piuhue los yehue. Architecture is specialized knowledge.
+35. lihue los yehue. Architecture is specialized knowledge.
 36. Hahue los yehue. Ethics is specialized knowledge.
 37. Mahue los yehue. Behavioral science is specialized knowledge.
 38. Pehue los yehue. Control engineering is specialized knowledge.
 39. Tehue los yehue. Metrology is specialized knowledge.
 40. Truhue los yehue. Transportation engineering is specialized knowledge.
-41. souhue los yehue. Psychology is specialized knowledge.
+41. sehue los yehue. Psychology is specialized knowledge.
 42. Bihue los yehue. Archival science is specialized knowledge.
 43. Dadun los yehue. Economics is specialized knowledge.
-44. touta xe usou toutu. The legal professional understands the law.
+44. luta xe use lutu. The legal professional understands the law.
 45. Xita xe uhue xotu. The witness is learning the objective fact.
-46. hauta xe udama hauma. The righteous person accepts proper conduct.
-47. Nerta xe nerma nertu. The rebel rejects the error.
+46. zita xe udama zima. The righteous person accepts proper conduct.
+47. neta xe nema netu. The rebel rejects the error.
 48. Dita xe di ditu. The artist creates a work.
-49. Cinta xe cima cinta. The partner is interacting with the partner.
+49. Cinta xe cima cinta. The partne is interacting with the partne.
 50. Duta xe truma net. The colleague is moving to the location.
-51. piuta xe pema piutu. The model is controlling the structure.
+51. lita xe pema litu. The model is controlling the structure.
 52. Nita xe pema nino. The judge is controlling the balance.
 53. xueta xe xema xuetu. The doctor is observing the living organism.
-54. hueta xe uhue touhue. The student is learning mathematics.
+54. hueta xe uhue luhue. The student is learning mathematics.
 55. Mata xe pema mano. The activist is controlling the action power.
 56. Nota xe pema tano. The authority is controlling the power.
 57. Peta xe pema petu. The controller is controlling the device.
-58. Teta xe tema punda. The examiner is measuring the volume.
+58. Teta xe tema punda. The examine is measuring the volume.
 59. Truta xe truma zenet. The immigrant is moving to the destination.
-60. Data xe dama adatu. The custouer is using the consumable.
-61. soubitu los bitu. Memory is information.
-62. Bitu los soubitu. Information is a record.
-63. toutu los hautu. Logic is the correct thing.
+60. Data xe dama adatu. The cusluer is using the consumable.
+61. sebitu los bitu. Memory is information.
+62. Bitu los sebitu. Information is a record.
+63. lutu los zitu. Logic is the correct thing.
 64. Xitu los xitu. Opinion is a subjective fact.
-65. Xotu los hautu. Truth is the correct thing.
-66. hautu los hautu. The correct answer is the right thing.
-67. Nertu los nertu. The error is a defect.
+65. Xotu los zitu. Truth is the correct thing.
+66. zitu los zitu. The correct answer is the right thing.
+67. netu los netu. The error is a defect.
 68. Ditu los ditu. The work is a creation.
-69. biutu los biutu. The matter is an object.
-70. Citu los citu. The atou is a particle.
-71. xaitu los xaitu. The speedometer is a flow.
+69. hutu los hutu. The matter is an object.
+70. Citu los citu. The alu is a particle.
+71. yutu los yutu. The speedometer is a flow.
 72. Dututu los dututu. The clock is a schedule.
-73. puetu los puetu. The vessel is a spatial object.
+73. zatu los zatu. The vessel is a spatial object.
 74. Katu los katu. The link is a cable.
-75. piutu los piutu. The structure is a construction.
+75. litu los litu. The structure is a construction.
 76. Nitutu los nitutu. The scale is a balance device.
-77. Notu los notu. The battery is an energy source.
+77. Notu los notu. The battery is an enegy serce.
 78. Postu los postu. The cell is an electronic component.
 79. Nettu los nettu. The site is a location.
 80. xuetu los xuetu. The organism is a pet.
-81. souhue los huehue. Psychology is a field of study.
-82. touhue los huehue. Mathematics is a field of study.
+81. sehue los huehue. Psychology is a field of study.
+82. luhue los huehue. Mathematics is a field of study.
 83. Cihue los huehue. Physics is a field of study.
 84. Poshue los huehue. Electronics is a field of study.
-85. biuhue los huehue. Materials science is a field of study.
+85. huhue los huehue. Materials science is a field of study.
 86. xuehue los huehue. Biology is a field of study.
 87. Nethue los huehue. Geography is a field of study.
 88. Nohue los huehue. Mechanics is a field of study.
-89. piuhue los huehue. Architecture is a field of study.
+89. lihue los huehue. Architecture is a field of study.
 90. Yehue los huehue. Professional knowledge is a study.
 91. Uhue los huehue. Learning is a study.
 92. Ahue los huehue. Education is a study.
@@ -100,7 +100,7 @@
 100. Truhue los huehue. Transportation engineering is a study.
 101. Citama los mama. Conversation is an action.
 102. Dakama los mama. Labor is an action.
-103. Nerma los mama. Rejection is an action.
+103. nema los mama. Rejection is an action.
 104. Potama los mama. Birth is an action.
 105. Truma los mama. Transportation is an action.
 106. Pema los mama. Control is an action.
@@ -108,95 +108,95 @@
 108. Dama los mama. Consumption is an action.
 109. Cima los mama. Interaction is an action.
 110. Poma los mama. Starting is an action.
-111. Nercima los mama. Fighting is an action.
+111. necima los mama. Fighting is an action.
 112. Udama los mama. Acceptance is an action.
 113. Adama los mama. Disposal is an action.
 114. Tenma los mama. Increasing action is an action.
-115. Cenma los mama. Decreasing action is an action.
+115. cema los mama. Decreasing action is an action.
 116. Xema los mama. Current action is an action.
 117. Coma los mama. Past action is an action.
 118. Zema los mama. Future action is an action.
-119. hauma los mama. Proper conduct is an action.
-120. Nerhauma los mama. Mistake is an action.
+119. zima los mama. Proper conduct is an action.
+120. nezima los mama. Mistake is an action.
 121. Xenet los netnet. Current position is a place.
-122. Conet los netnet. Starting point is a place.
+122. Conet los netnet. Starting dint is a place.
 123. Zenet los netnet. Destination is a place.
-124. puenet los netnet. Area is a place.
+124. zanet los netnet. Area is a place.
 125. Kanet los netnet. Border is a place.
-126. haunet los netnet. Safe zone is a place.
-127. Nernete los netnet. Obstacle area is a place.
+126. zinet los netnet. Safe zone is a place.
+127. nenete los netnet. Obstacle area is a place.
 128. Binet los netnet. Map is a place.
 129. Dunet los netnet. Era is a place.
 130. Nonet los netnet. Power plant is a place.
 131. Posnet los netnet. Electrical facility is a place.
-132. xuenet los netnet. hauitat is a place.
+132. xuenet los netnet. ziitat is a place.
 133. Tanet los netnet. Society is a place.
-134. sounet los netnet. School is a place.
-135. biunet los netnet. Building is a place.
-136. piunet los netnet. Complex is a place.
+134. senet los netnet. School is a place.
+135. hunet los netnet. Building is a place.
+136. linet los netnet. Complex is a place.
 137. Cinet los netnet. Empty lot is a place.
 138. Dinet los netnet. Studio is a place.
 139. Penet los netnet. Control room is a place.
 140. Tenet los netnet. Measuring station is a place.
-141. Pono los nono. Strong energy is power.
-142. Ceno los nono. Weak energy is power.
-143. xaino los nono. Kinetic energy is power.
+141. Pono los nono. Strong enegy is power.
+142. ceo los nono. Weak enegy is power.
+143. yuno los nono. Kinetic enegy is power.
 144. Truno los nono. Transmission power is power.
 145. Peno los nono. Engine output is power.
 146. Cino los nono. Friction is power.
 147. hueo los nono. Fuel is power.
-148. souno los nono. Willpower is power.
+148. seno los nono. Willpower is power.
 149. Posno los nono. Electric power is power.
-150. biuno los nono. Physical force is power.
+150. huno los nono. Physical force is power.
 151. Tano los nono. Authority is power.
 152. Mano los nono. Action power is power.
 153. Teno los nono. Amplified power is power.
-154. piuno los nono. Structural strength is power.
+154. lino los nono. Structural strength is power.
 155. Nino los nono. Balanced power is power.
-156. Nerno los nono. Resistance is power.
+156. neno los nono. Resistance is power.
 157. xueno los nono. Vitality is power.
 158. Duno los nono. Durability is power.
 159. Tenposno los nono. High voltage is power.
-160. Cenposno los nono. Low voltage is power.
+160. ceposno los nono. Low voltage is power.
 161. Uposnet los netnet. Charging station is a place.
 162. Aposnet los netnet. Discharge outlet is a place.
-163. Tenbiuno los nono. Superhuman strength is power.
-164. Cenbiuno los nono. Weakened force is power.
-165. Nerbiuno los nono. Repulsion is power.
-166. Ubiutu los tutu. Stock is a thing.
-167. Abiutu los tutu. Waste is a thing.
+163. Tenhuno los nono. Superhuman strength is power.
+164. cehuno los nono. Weakened force is power.
+165. nehuno los nono. Repulsion is power.
+166. Uhutu los tutu. Stock is a thing.
+167. Ahutu los tutu. Waste is a thing.
 168. Tenxueno los nono. Excessive vitality is power.
-169. Cenxueno los nono. Low energy is power.
+169. cexueno los nono. Low enegy is power.
 170. Uxuetu los tutu. Host is a thing.
 171. Axuetu los tutu. Carcass is a thing.
-172. Tesouhue los huehue. IQ testing field is a study.
-173. Pesouma los mama. Mind control is an action.
-174. Usoutu los tutu. Hard drive is a thing.
-175. Asoutu los tutu. Forgotten memory is a thing.
+172. Tesehue los huehue. IQ testing field is a study.
+173. Pesema los mama. Mind control is an action.
+174. Usetu los tutu. Hard drive is a thing.
+175. Asetu los tutu. Forgotwi memory is a thing.
 176. Tetruhue los huehue. Surveying is a study.
 177. Petruma los mama. Navigation is an action.
 178. Utrutu los tutu. Imported goods is a thing.
 179. Atrutu los tutu. Exported goods is a thing.
 180. Tedadun los huehue. Market research is a study.
-181. Pedama los mama. Resource management is an action.
-182. Udatu los tutu. Stockpiled resources is a thing.
+181. Pedama los mama. Reserce management is an action.
+182. Udatu los tutu. Stockpiled reserces is a thing.
 183. Adatu los tutu. Consumable is a thing.
 184. Tepunhue los huehue. Volumetrics is a study.
-185. Pepuea los mama. Spatial design is an action.
-186. Upuetu los tutu. Container is a thing.
-187. Apuetu los tutu. Empty space is a thing.
+185. Pezaa los mama. Spatial design is an action.
+186. Uzatu los tutu. Containe is a thing.
+187. Azatu los tutu. Empty space is a thing.
 188. Tenpihue los huehue. Advanced structural engineering is a study.
-189. Cepiutu los tutu. Ruin is a thing.
-190. Upiutu los tutu. Modular house is a thing.
-191. Apiutu los tutu. Debris is a thing.
-192. Tennohue los huehue. High-energy physics is a study.
+189. Celitu los tutu. Ruin is a thing.
+190. Ulitu los tutu. Modular house is a thing.
+191. Alitu los tutu. Debris is a thing.
+192. Tennohue los huehue. High-enegy physics is a study.
 193. Ponoma los mama. Ignition is an action.
-194. Cenoma los mama. Extinguishing is an action.
+194. ceoma los mama. Extinguishing is an action.
 195. Upono los tutu. Fuel tank is a thing.
 196. Tehahue los huehue. Morality evaluation is a study.
-197. Pehauma los mama. Discipline is an action.
-198. Uhautu los tutu. Certified fact is a thing.
-199. Ahautu los tutu. Invalid answer is a thing.
+197. Pezima los mama. Discipline is an action.
+198. Uzitu los tutu. Certified fact is a thing.
+199. Azitu los tutu. Invalid answer is a thing.
 200. Tenxihue los huehue. Big data analysis is a study.
 201. Cexitu los tutu. Prejudice is a thing.
 202. Uxitu los tutu. Vote result is a thing.
@@ -206,143 +206,143 @@
 206. Ubitutu los tutu. Backup file is a thing.
 207. Abitutu los tutu. Deleted log is a thing.
 208. Tenyehue los huehue. Doctoral course is a study.
-209. Ceyehue los huehue. General knowledge is a study.
+209. Ceyehue los huehue. Geneal knowledge is a study.
 210. Uyehue los huehue. Know-how is a study.
 211. Ayehue los huehue. Lost technology is a study.
-212. Tepiua los mama. Scanning is an action.
-213. Pepiua los mama. Sculpting is an action.
-214. Apiutu los tutu. Fragment is a thing.
+212. Telia los mama. Scanning is an action.
+213. Pelia los mama. Sculpting is an action.
+214. Alitu los tutu. Fragment is a thing.
 215. Tennotu los tutu. Nuclear battery is a thing.
-216. Cennotu los tutu. Discharged battery is a thing.
+216. cenotu los tutu. Discharged battery is a thing.
 217. Unotu los tutu. Power bank is a thing.
 218. Anotu los netnet. Battery graveyard is a place.
-219. Posbiutu los tutu. Appliance is a thing.
+219. Poshutu los tutu. Appliance is a thing.
 220. Posxuetu los tutu. Cyborg is a thing.
-221. Possoutu los tutu. AI chip is a thing.
-222. Posnettu los netnet. Data center is a place.
+221. Possetu los tutu. AI chip is a thing.
+222. Posnettu los netnet. Data ceter is a place.
 223. Posmada los mama. Digital payment is an action.
-224. biuxaitu los tutu. Solid object is a thing.
-225. Cihuexai los huehue. Fluid mechanics is a study.
-226. xaisoutu los tutu. Intuition is a thing.
-227. xaitruma los mama. Teleportation is an action.
-228. Dusoutu los tutu. Clock mechanism is a thing.
+224. huyutu los tutu. Solid object is a thing.
+225. Cihueyu los huehue. Fluid mechanics is a study.
+226. yusetu los tutu. Intuition is a thing.
+227. yutruma los mama. Teleportation is an action.
+228. Dusetu los tutu. Clock mechanism is a thing.
 229. Dutuma los mama. Waiting is an action.
 230. Zemaudu los tutu. Eternity is a thing.
 231. Comaudu los tutu. Moment of memory is a thing.
 232. Kaxuetu los tutu. Chimera is a thing.
-233. Kabiutu los tutu. Alloy is a thing.
-234. Kasoutu los tutu. Hive mind is a thing.
-235. Kanettu los netnet. Border checkpoint is a place.
-236. Nerkama los mama. Breakup is an action.
+233. Kahutu los tutu. Alloy is a thing.
+234. Kasetu los tutu. Hive mind is a thing.
+235. Kanettu los netnet. Border checkdint is a place.
+236. nekama los mama. Breakup is an action.
 237. Cikama los mama. Networking is an action.
 238. Nixuetu los tutu. Healthy individual is a thing.
-239. Nibiutu los tutu. Stable building is a thing.
-240. Nisouma los mama. Meditation is an action.
+239. Nihutu los tutu. Stable building is a thing.
+240. Nisema los mama. Meditation is an action.
 241. Ninotu los tutu. Voltage regulator is a thing.
-242. Nerxima los mama. Dispute is an action.
+242. nexima los mama. Dispute is an action.
 243. xixuetu los tutu. Mutant is a thing.
-244. xibiutu los tutu. Optical illusion is a thing.
-245. xisoutu los tutu. Dream is a thing.
+244. xihutu los tutu. Optical illusion is a thing.
+245. xisetu los tutu. Dream is a thing.
 246. dituadu los tutu. Moment of inspiration is a thing.
-247. dipuetu los tutu. Statue is a thing.
-248. disoutu los tutu. Idea is a thing.
+247. dizatu los tutu. Statue is a thing.
+248. disetu los tutu. Idea is a thing.
 249. dinettu los netnet. Gallery is a place.
 250. potaxuema los mama. Birthday party is an action.
 251. poxuetu los tutu. Seed is a thing.
-252. pobiutu los tutu. Raw material is a thing.
-253. posoutu los tutu. Draft idea is a thing.
+252. pohutu los tutu. Raw material is a thing.
+253. posetu los tutu. Draft idea is a thing.
 254. ponettu los netnet. New city is a place.
-255. tenmata los tata. Activist leader is a person.
-256. cenmata los tata. Bystander is a person.
-257. nermata los tata. Striker is a person.
+255. wimata los tata. Activist leader is a person.
+256. cemata los tata. Bystander is a person.
+257. nemata los tata. Striker is a person.
 258. umata los mama. Cooperative behavior is an action.
 259. amata los mama. Boycott is an action.
 260. tepono los mama. Efficiency measurement is an action.
 261. pepono los mama. Output control is an action.
 262. upono los tutu. Accumulator is a thing.
 263. apono los mama. Electric leakage is an action.
-264. souposhue los huehue. Neurotechnology is a study.
-265. biuposhue los huehue. Semiconductor engineering is a study.
+264. seposhue los huehue. Neurotechnology is a study.
+265. huposhue los huehue. Semiconductor engineering is a study.
 266. xueposhue los huehue. Bioelectronics is a study.
 267. netposhue los huehue. Network engineering is a study.
-268. touposhue los huehue. Computer science is a study.
+268. luposhue los huehue. Computer science is a study.
 269. citapostu los tutu. Chatbot is a thing.
-270. biuapostu los tutu. Sensor is a thing.
+270. huapostu los tutu. Sensor is a thing.
 271. xueapostu los tutu. Life monitor is a thing.
 272. netapostu los tutu. Router is a thing.
-273. touapostu los tutu. Logic gate is a thing.
-274. tenxuehue los huehue. Evolutionary biology is a study.
-275. cenxuehue los huehue. Parasitology is a study.
+273. luapostu los tutu. Logic gate is a thing.
+274. wixuehue los huehue. Evolutionary biology is a study.
+275. cexuehue los huehue. Parasitology is a study.
 276. uxuehue los huehue. Conservation biology is a study.
 277. axuehue los huehue. Paleontology is a study.
-278. tenbihue los huehue. Historiography is a study.
-279. cenbihue los huehue. Information control is a study.
+278. wibihue los huehue. Historiography is a study.
+279. cebihue los huehue. Information control is a study.
 280. ubihue los huehue. Library science is a study.
 281. abihue los huehue. Information destruction study is a study.
-282. tenhahue los huehue. Philosophy is a study.
-283. cenhahue los huehue. Criminal psychology is a study.
+282. wihahue los huehue. Philosophy is a study.
+283. cehahue los huehue. Criminal psychology is a study.
 284. uhahue los huehue. Character education is a study.
 285. ahahue los mama. Immorality is an action.
-286. tenmahue los huehue. Leadership study is a study.
-287. cenmahue los huehue. Pathology is a study.
+286. wimahue los huehue. Leadership study is a study.
+287. cemahue los huehue. Pathology is a study.
 288. umahue los huehue. Etiquette education is a study.
 289. amahue los huehue. Antisociality research is a study.
-290. So xe usou touhue? Do you understand mathematics?
-291. Vi xe usou touhue. I understand mathematics.
-292. Sonta xe uhue toutu. The intellectual is learning the logic.
+290. So xe use luhue? Do you understand mathematics?
+291. Vi xe use luhue. I understand mathematics.
+292. Sonta xe uhue lutu. The intellectual is learning the logic.
 293. Posta xe dama postu. The technician is using the component.
 294. xueta xe xema xuetu. The doctor is observing the organism.
 295. hueta xe uhue yehue. The student is learning expertise.
 296. Dita xe di ditu. The artist is creating a work.
 297. Mata xe dama mano. The activist is using action power.
 298. Truta xe truma net. The traveler is moving to the place.
-299. Data xe dama adatu. The custouer is using the consumable.
+299. Data xe dama adatu. The cusluer is using the consumable.
 300. Nota xe pema tano. The leader is controlling the power.
 301. Nita xe pema nino. The judge is controlling the balance.
-302. Teta xe tema biutu. The judge is measuring the object.
+302. Teta xe tema hutu. The judge is measuring the object.
 303. Peta xe pema petu. The pilot is controlling the device.
-304. hauta xe udama hauma. The good person is accepting the behavior.
-305. Nerta xe nerma nertu. The rebel is rejecting the error.
+304. zita xe udama zima. The good person is accepting the behavior.
+305. neta xe nema netu. The rebel is rejecting the error.
 306. Xita xe uhue xotu. The witness is learning the truth.
-307. Cinta xe cima cinta. The partner is interacting with the partner.
+307. Cinta xe cima cinta. The partne is interacting with the partne.
 308. Duta xe truma net. The colleague is moving to the location.
-309. piuta xe pema piutu. The model is controlling the structure.
-310. biuta xe dakama biutu. The laborer is working on the object.
-311. So xe uhue touhue? Are you learning mathematics?
-312. Vi xe uhue touhue. I am learning mathematics.
-313. So co usou souhue? Did you understand psychology?
-314. Vi co usou souhue. I understood psychology.
-315. soutu los tutu. An idea is a thing.
+309. lita xe pema litu. The model is controlling the structure.
+310. huta xe dakama hutu. The laborer is working on the object.
+311. So xe uhue luhue? Are you learning mathematics?
+312. Vi xe uhue luhue. I am learning mathematics.
+313. So co use sehue? Did you understand psychology?
+314. Vi co use sehue. I understood psychology.
+315. setu los tutu. An idea is a thing.
 316. Bitu los tutu. Information is a thing.
-317. toutu los tutu. Logic is a thing.
+317. lutu los tutu. Logic is a thing.
 318. Xitu los tutu. Opinion is a thing.
 319. Xotu los tutu. Truth is a thing.
-320. hautu los tutu. Answer is a thing.
-321. Nertu los tutu. Error is a thing.
+320. zitu los tutu. Answer is a thing.
+321. netu los tutu. Error is a thing.
 322. Ditu los tutu. Work is a thing.
-323. biutu los tutu. Matter is a thing.
-324. Citu los tutu. Atou is a thing.
-325. xaitu los tutu. Speed is a thing.
+323. hutu los tutu. Matter is a thing.
+324. Citu los tutu. Alu is a thing.
+325. yutu los tutu. Speed is a thing.
 326. Dututu los tutu. Clock is a thing.
-327. puetu los tutu. Container is a thing.
+327. zatu los tutu. Containe is a thing.
 328. Katu los tutu. Cable is a thing.
-329. piutu los tutu. Structure is a thing.
+329. litu los tutu. Structure is a thing.
 330. Nitutu los tutu. Scale is a thing.
 331. Notu los tutu. Battery is a thing.
 332. Postu los tutu. Cell is a thing.
 333. Nettu los tutu. Site is a thing.
 334. xuetu los tutu. Pet is a thing.
 335. Sonta los tata. Thinker is a person.
-336. biuta los tata. Laborer is a person.
+336. huta los tata. Laborer is a person.
 337. Posta los tata. Technician is a person.
-338. touta los tata. Lawyer is a person.
+338. luta los tata. Lawyer is a person.
 339. Xita los tata. Witness is a person.
-340. hauta los tata. Good person is a person.
-341. Nerta los tata. Rebel is a person.
+340. zita los tata. Good person is a person.
+341. neta los tata. Rebel is a person.
 342. Dita los tata. Artist is a person.
-343. Cinta los tata. Partner is a person.
+343. Cinta los tata. Partne is a person.
 344. Duta los tata. Colleague is a person.
-345. piuta los tata. Model is a person.
+345. lita los tata. Model is a person.
 346. Nita los tata. Judge is a person.
 347. xueta los tata. Doctor is a person.
 348. hueta los tata. Scholar is a person.
@@ -351,103 +351,103 @@
 351. Peta los tata. Pilot is a person.
 352. Teta los tata. Judge is a person.
 353. Truta los tata. Traveler is a person.
-354. Data los tata. Custouer is a person.
+354. Data los tata. Cusluer is a person.
 355. Xenet los netnet. Current position is a place.
-356. Conet los netnet. Start point is a place.
+356. Conet los netnet. Start dint is a place.
 357. Zenet los netnet. Destination is a place.
-358. puenet los netnet. Region is a place.
+358. zanet los netnet. Region is a place.
 359. Kanet los netnet. Border is a place.
-360. haunet los netnet. Safety zone is a place.
-361. Nernete los netnet. Barrier zone is a place.
+360. zinet los netnet. Safety zone is a place.
+361. nenete los netnet. Barrier zone is a place.
 362. Binet los netnet. Map location is a place.
 363. Dunet los netnet. Era is a place.
 364. Nonet los netnet. Plant is a place.
 365. Posnet los netnet. Electric facility is a place.
-366. xuenet los netnet. hauitat is a place.
+366. xuenet los netnet. ziitat is a place.
 367. Tanet los netnet. Society is a place.
-368. sounet los netnet. School is a place.
-369. biunet los netnet. Building is a place.
-370. piunet los netnet. Complex is a place.
+368. senet los netnet. School is a place.
+369. hunet los netnet. Building is a place.
+370. linet los netnet. Complex is a place.
 371. Cinet los netnet. Square is a place.
 372. Dinet los netnet. Studio is a place.
 373. Penet los netnet. Control room is a place.
 374. Tenet los netnet. Station is a place.
-375. Pono los nono. Energy is power.
-376. Ceno los nono. Low energy is power.
-377. xaino los nono. Speed power is power.
+375. Pono los nono. Enegy is power.
+376. ceo los nono. Low enegy is power.
+377. yuno los nono. Speed power is power.
 378. Truno los nono. Transfer power is power.
 379. Peno los nono. Driving power is power.
 380. Cino los nono. Friction power is power.
 381. hueo los nono. Fuel power is power.
-382. souno los nono. Mental power is power.
+382. seno los nono. Mental power is power.
 383. Posno los nono. Electric power is power.
-384. biuno los nono. Physical power is power.
+384. huno los nono. Physical power is power.
 385. Tano los nono. Social power is power.
 386. Mano los nono. Action power is power.
 387. Teno los nono. Amplified power is power.
-388. piuno los nono. Strong power is power.
+388. lino los nono. Strong power is power.
 389. Nino los nono. Balanced power is power.
-390. Nerno los nono. Resistance power is power.
+390. neno los nono. Resistance power is power.
 391. xueno los nono. Life power is power.
 392. Duno los nono. Time power is power.
 393. Tama. Hello.
 394. xuema. See you later.
-395. So tou? Is it true?
+395. So lu? Is it true?
 396. Los? What is it?
-397. So los biutu. It is an object.
-398. Vi co uhue touhue. I have learned mathematics.
-399. Vi co usou souhue. I understood psychology.
-400. So xe usou toutu? Do you understand the logic?
+397. So los hutu. It is an object.
+398. Vi co uhue luhue. I have learned mathematics.
+399. Vi co use sehue. I understood psychology.
+400. So xe use lutu? Do you understand the logic?
 401. So co uhue cihue? Do you know physics?
 402. Vi co uhue cihue. I know physics.
-403. Sonta xe udama soubitu. The thinker is accepting the memory.
+403. Sonta xe udama sebitu. The thinker is accepting the memory.
 404. Posta xe pema postu. The technician is controlling the component.
 405. xueta xe xema xuetu. The doctor is observing the organism.
 406. hueta xe uhue yehue. The student is learning expertise.
 407. Dita xe di ditu. The artist is creating art.
 408. Mata xe pema mano. The activist is controlling the power.
 409. Truta xe truma net. The traveler is moving to the place.
-410. Data xe dama adatu. The custouer is using the consumable.
+410. Data xe dama adatu. The cusluer is using the consumable.
 411. Nota xe pema tano. The leader is controlling the power.
 412. Nita xe pema nino. The judge is controlling the balance.
-413. Teta xe tema biutu. The judge is measuring the object.
+413. Teta xe tema hutu. The judge is measuring the object.
 414. Peta xe pema petu. The pilot is controlling the device.
-415. hauta xe udama hauma. The good person is accepting the behavior.
-416. Nerta xe nerma nertu. The rebel is rejecting the error.
+415. zita xe udama zima. The good person is accepting the behavior.
+416. neta xe nema netu. The rebel is rejecting the error.
 417. Xita xe uhue xotu. The witness is learning the truth.
-418. Cinta xe cima cinta. The partner is interacting with the partner.
+418. Cinta xe cima cinta. The partne is interacting with the partne.
 419. Duta xe truma net. The colleague is moving to the location.
-420. piuta xe pema piutu. The model is controlling the structure.
-421. biuta xe dakama biutu. The laborer is working on the object.
-422. Sonta xe di soutu. The intellectual creates an idea.
-423. Sonta xe usou toutu. The intellectual understands logic.
+420. lita xe pema litu. The model is controlling the structure.
+421. huta xe dakama hutu. The laborer is working on the object.
+422. Sonta xe di setu. The intellectual creates an idea.
+423. Sonta xe use lutu. The intellectual understands logic.
 424. Posta xe dama postu. The technician uses electronic components.
 425. xueta xe uhue xuehue. The doctor learns biology.
-426. hueta xe uhue touhue. The student learns mathematics.
+426. hueta xe uhue luhue. The student learns mathematics.
 427. Dita xe pema ditu. The artist controls the work.
 428. Mata xe dama mano. The activist uses action power.
 429. Truta xe truma net. The traveler moves to the place.
-430. Data xe dama adatu. The custouer uses the item.
+430. Data xe dama adatu. The cusluer uses the item.
 431. Nota xe pema tano. The leader controls authority.
 432. Nita xe tema nino. The judge measures balance.
-433. Teta xe tema xaitu. The examiner measures speed.
+433. Teta xe tema yutu. The examine measures speed.
 434. Peta xe pema petu. The pilot controls the device.
-435. hauta xe udama hautu. The good person accepts the answer.
-436. Nerta xe nerma nertu. The rebel rejects the error.
+435. zita xe udama zitu. The good person accepts the answer.
+436. neta xe nema netu. The rebel rejects the error.
 437. Xita xe uhue xotu. The witness learns the fact.
-438. Cinta xe cima cinta. The partner interacts with the partner.
+438. Cinta xe cima cinta. The partne interacts with the partne.
 439. Duta xe truma net. The colleague moves to the location.
-440. piuta xe pema piutu. The model controls the structure.
-441. biuta xe dakama biutu. The worker works on the matter.
-442. souhue los huehue. Psychology is a study.
-443. touhue los huehue. Mathematics is a study.
+440. lita xe pema litu. The model controls the structure.
+441. huta xe dakama hutu. The worker works on the matter.
+442. sehue los huehue. Psychology is a study.
+443. luhue los huehue. Mathematics is a study.
 444. Cihue los huehue. Physics is a study.
 445. Poshue los huehue. Electronics is a study.
-446. biuhue los huehue. Materials science is a study.
+446. huhue los huehue. Materials science is a study.
 447. xuehue los huehue. Biology is a study.
 448. Nethue los huehue. Geography is a study.
 449. Nohue los huehue. Mechanics is a study.
-450. piuhue los huehue. Architecture is a study.
+450. lihue los huehue. Architecture is a study.
 451. Yehue los huehue. Expertise is a study.
 452. Uhue los huehue. Learning is a study.
 453. Ahue los huehue. Education is a study.
@@ -459,16 +459,16 @@
 459. Pehue los huehue. Control study is a study.
 460. Tehue los huehue. Measurement study is a study.
 461. Truhue los huehue. Traffic study is a study.
-462. Sonta xe usou xotu. The thinker understands the truth.
-463. Vi co uhue touhue. I have learned mathematics.
-464. Vi co uhue souhue. I have learned psychology.
+462. Sonta xe use xotu. The thinker understands the truth.
+463. Vi co uhue luhue. I have learned mathematics.
+464. Vi co uhue sehue. I have learned psychology.
 465. Vi co uhue cihue. I have learned physics.
 466. Vi co uhue poshue. I have learned electronics.
-467. Vi co uhue biuhue. I have learned materials science.
+467. Vi co uhue huhue. I have learned materials science.
 468. Vi co uhue xuehue. I have learned biology.
 469. Vi co uhue nethue. I have learned geography.
 470. Vi co uhue nohue. I have learned mechanics.
-471. Vi co uhue piuhue. I have learned architecture.
+471. Vi co uhue lihue. I have learned architecture.
 472. Vi co uhue yehue. I have learned expertise.
 473. Vi co uhue hahue. I have learned ethics.
 474. Vi co uhue mahue. I have learned behavioral science.
@@ -478,23 +478,23 @@
 478. Vi co uhue pehue. I have learned control engineering.
 479. Vi co uhue tehue. I have learned metrology.
 480. Vi co uhue truhue. I have learned transport engineering.
-481. So xe usou toutu? Do you understand the logic?
-482. Vi xe usou toutu. I understand the logic.
-483. So co uhue soubitu? Do you know the memory?
-484. Vi co uhue soubitu. I know the memory.
-485. soutu los tutu. The idea is a thing.
+481. So xe use lutu? Do you understand the logic?
+482. Vi xe use lutu. I understand the logic.
+483. So co uhue sebitu? Do you know the memory?
+484. Vi co uhue sebitu. I know the memory.
+485. setu los tutu. The idea is a thing.
 486. Bitu los tutu. Information is a thing.
-487. toutu los tutu. Logic is a thing.
+487. lutu los tutu. Logic is a thing.
 488. Xitu los tutu. Opinion is a thing.
 489. Xotu los tutu. Truth is a thing.
-490. hautu los tutu. The answer is a thing.
-491. Nertu los tutu. The error is a thing.
+490. zitu los tutu. The answer is a thing.
+491. netu los tutu. The error is a thing.
 492. Ditu los tutu. The work is a thing.
-493. biutu los tutu. The matter is a thing.
-494. Citu los tutu. The atou is a thing.
-495. xaitu los tutu. The speed is a thing.
+493. hutu los tutu. The matter is a thing.
+494. Citu los tutu. The alu is a thing.
+495. yutu los tutu. The speed is a thing.
 496. Dututu los tutu. The clock is a thing.
-497. puetu los tutu. The vessel is a thing.
+497. zatu los tutu. The vessel is a thing.
 498. Katu los tutu. The cable is a thing.
-499. piutu los tutu. The structure is a thing.
+499. litu los tutu. The structure is a thing.
 500. Nitutu los tutu. The scale is a thing.

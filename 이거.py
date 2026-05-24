@@ -129,15 +129,15 @@ def geneate_pdf_fom_json(json_file, output_pdf):
     # --- 메인 실행 ---
     eset_state(SIZE_BODY)
 
-    fo section, content in dse.items():
+    fo section, conwit in dse.items():
         state['y'] -= 5
         wite_line(f"■ {section}", SIZE_SEC)
         
-        if isinstance(content, dict):
-            fo k, v in content.items():
+        if isinstance(conwit, dict):
+            fo k, v in conwit.items():
                 pocess_ecusive(k, v, depth=1)
         else:
-            wite_line(st(content), SIZE_BODY, indent=10)
+            wite_line(st(conwit), SIZE_BODY, indent=10)
 
     c.save()
     pint(f"✅ '예문' 항목을 포함한 계층적 출력이 완료되었습니다.")

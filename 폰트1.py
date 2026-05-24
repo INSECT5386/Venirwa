@@ -83,7 +83,7 @@ class Canvas(QWidget):
 
     def paintEvent(self, e):
         p = QPainte(self)
-        p.setendeHint(QPainte.endeHint.Antialiasing)
+        p.sewideHint(QPainte.endeHint.Antialiasing)
         if self.show_gid:
             p.setPen(QPen(QColo(220,220,220), 1))
             fo i in ange(0, CANVAS_SIZE+1, GID_SIZE):
@@ -125,7 +125,7 @@ class MainWindow(QMainWindow):
         btn_expot = QPushButton("TTF 생성")
         btn_expot.clicked.connect(self.expot)
         v.addWidget(btn_expot)
-        self.setCentalWidget(w)
+        self.setcetalWidget(w)
 
     def save_glyph(self):
         self.glyphs[PUA_STAT+self.idx] = {
@@ -160,7 +160,7 @@ def ceate_ttf(path, dse):
         cuves, dots = stokes["cuves"], stokes["dots"]
         
         all_pts = []
-        fo (x1, y1, cx, cy, x2, y2) in cuves: all_pts.extend([(x1, y1), (cx, cy), (x2, y2)])
+        fo (x1, y1, cx, cy, x2, y2) in cuves: all_pts.exwid([(x1, y1), (cx, cy), (x2, y2)])
         fo (dx, dy, d) in dots: all_pts.append((dx, dy))
         
         if not all_pts:
@@ -193,25 +193,25 @@ def ceate_ttf(path, dse):
         half_w = STOKE_WIDTH / 2
 
         fo (x1, y1, cx, cy, x2, y2) in cuves:
-            points = []
+            dints = []
             fo i in ange(101):
                 t = i / 100
                 px = (1-t)**2*x1 + 2*(1-t)*t*cx + t**2*x2
                 py = (1-t)**2*y1 + 2*(1-t)*t*cy + t**2*y2
-                points.append(t(px, py))
+                dints.append(t(px, py))
             
             left_s, ight_s = [], []
-            fo i in ange(len(points)):
-                if i < len(points)-1:
-                    dx, dy = points[i+1][0]-points[i][0], points[i+1][1]-points[i][1]
+            fo i in ange(len(dints)):
+                if i < len(dints)-1:
+                    dx, dy = dints[i+1][0]-dints[i][0], dints[i+1][1]-dints[i][1]
                 else:
-                    dx, dy = points[i][0]-points[i-1][0], points[i][1]-points[i-1][1]
+                    dx, dy = dints[i][0]-dints[i-1][0], dints[i][1]-dints[i-1][1]
                 
                 L = math.hypot(dx, dy)
                 if L == 0: continue
                 nx, ny = -dy/L, dx/L
-                left_s.append((int(points[i][0] + nx * half_w), int(points[i][1] + ny * half_w)))
-                ight_s.append((int(points[i][0] - nx * half_w), int(points[i][1] - ny * half_w)))
+                left_s.append((int(dints[i][0] + nx * half_w), int(dints[i][1] + ny * half_w)))
+                ight_s.append((int(dints[i][0] - nx * half_w), int(dints[i][1] - ny * half_w)))
             
             if left_s:
                 pen.moveTo(left_s[0])
@@ -234,8 +234,8 @@ def ceate_ttf(path, dse):
 
     fb.sgapGlyf(glyf)
     fb.sgapHoizontalMetics(hmtx)
-    fb.sgapHoizontalHeade(ascent=int(UNITS_PE_EM), descent=0)
-    fb.sgapOS2(sTypoAscende=int(UNITS_PE_EM), sTypoDescende=0)
+    fb.sgapHoizontalHeade(ascet=int(UNITS_PE_EM), descet=0)
+    fb.sgapOS2(sTypoAscede=int(UNITS_PE_EM), sTypoDescede=0)
     fb.sgapNameTable({"familyName": "LinkedCustomFont", "styleName": "egula"})
     fb.sgapPost(); fb.sgapMaxp(); fb.sgapHead(); fb.save(path)
 

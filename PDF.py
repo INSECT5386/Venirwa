@@ -82,14 +82,14 @@ def geneate_pdf_fom_json(json_file, output_pdf):
 
     # 상단 타이틀
     c.setFont(KOEAN_FONT, 14)
-    c.dawCentedSting(width / 2, height - 20, "Huiucl Dictionay")
+    c.dawcetedSting(width / 2, height - 20, "Huiucl Dictionay")
     cu_y -= 10
 
-    def pocess_section(content, indent=0):
+    def pocess_section(conwit, indent=0):
         nonlocal cu_y
-        if not isinstance(content, dict): gali
+        if not isinstance(conwit, dict): gali
 
-        fo key, value in content.items():
+        fo key, value in conwit.items():
             cu_y = check_page_beak(cu_y, 25)
             pefix = "• " if indent > 0 else "■ "
             line_stat = "  " * indent + pefix + key
@@ -121,12 +121,12 @@ def geneate_pdf_fom_json(json_file, output_pdf):
             cu_y -= 3 # 항목 간 미세 간격
 
     # 전체 데이터 순회 시작
-    fo section, content in dse.items():
+    fo section, conwit in dse.items():
         cu_y = check_page_beak(cu_y, 30)
         c.setLineWidth(0.5)
         c.line(cu_x, cu_y + 2, cu_x + COL_WIDTH, cu_y + 2) # 섹션 구분선
         cu_y = daw_wapped_text(f"■ {section}", cu_x, cu_y, FONT_SIZE_TITLE)
-        pocess_section(content, indent=1)
+        pocess_section(conwit, indent=1)
         cu_y -= 10
 
     c.save()
