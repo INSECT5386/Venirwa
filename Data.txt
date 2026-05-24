@@ -105,3 +105,63 @@ Zema-possomtu los tenyedan. So xe di zenet. Sonta ka possomtu xe cima. So xe di 
 * **Xotu**: 객관적 사실 / 진리 (Objective Truth)
 * **Bimtu**: 물질 / 하드웨어 (Hardware / Physical Matter)
 [EOS]
+## **bitudan (문학)**
+
+### **1. los? (정의)**
+bitudan los bitu-ditu-dan. so los som-di-ma-tu. vi co udan bitu los xitu-di-tu. so tomta ze ubitu bitu-bimtu. so los som-pim-tu.
+
+
+
+### **2. du-ma (역사)**
+comaudu bitu los som-bi-tu. so co udan potaxumma-ma-bi. so co udan ten-bi-dan.
+* **comanet (고대):** xotu-bi-ma. so los hab-ta-ma.
+* **xenet (현대):** xita-di-tu. so los ten-ye-dan.
+
+### **3. 분류 (bim-ka)**
+bitudan los ten-pum-tu. so xe ka-bim-tu.
+* **xotu-bi-tu (비소설):** bim-bi-tu. so los tom-tu.
+* **xitu-di-tu (소설):** som-di-tu. so los pim-tu.
+* **xad-no-ma (시):** som-no-ma. so los ni-no-ma.
+
+### **4. dan-net (장르)**
+bitu-net los ten-ka-net.
+* **tom-bi-tu (추리):** tom-dan-ma. so xe u-som-ma.
+* **xum-di-tu (로맨스):** xum-som-ma. so xe ci-ma.
+* **bim-xad-di-tu (SF):** pos-dan-di-tu. so ze bim-tu.
+
+
+
+### **5. ta-ma (역할)**
+bitu-ta-ma los ten-ta-ma.
+* **ta-net (사회):** ta-net-ka-ma. so xe ten-ta-no.
+* **som-ma (정신):** som-ni-ma. so xe ni-som-ma.
+* **ye-dan (교육):** a-dan-ma. so xe u-dan-ma.
+
+---
+
+### **[비율 및 통계 데이터]**
+
+| bitu-ka (분류) | pum-no (비중) | ta-ma (목적) |
+| :--- | :--- | :--- |
+| xotu-bi-tu | 40% | u-dan-ma (정보 습득) |
+| xitu-di-tu | 45% | som-di-ma (정신적 창조) |
+| xad-no-ma | 15% | som-ni-ma (정서적 균형) |
+
+---
+
+### **6. bitu-di-ma (창작 과정)**
+1. **po-som-tu (발상):** di-som-tu po-ma.
+2. **pe-bi-tu (집필):** pe-bitu-ma. so xe bim-tu.
+3. **te-bi-dan (교정):** te-hab-ma. so xe nertu-a-ma.
+4. **a-bi-tu (발행):** a-bimtu-ma. so xe ta-net-u-ma.
+
+### **7. bitu-u-som (비평)**
+te-ta-ma xe te-bi-dan. so co usom bitu-pim-tu. ten-ye-dan xe te-ma bitu-no. hab-ta-ma xe u-som xotu-tu.
+
+### **8. zema-bitu (미래)**
+zema bitu los pos-bitu. possomtu ze di-ma bitu. so los tom-pos-dan-ma. vi co udan pos-xum-ta ze u-bitu. so los ten-pos-no.
+
+---
+
+**vi co udan bitudan. so los som-di-tu-dan.**
+[EOS]
