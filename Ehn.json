@@ -1,19 +1,5 @@
 {
   "문법": {
-    "어순": {
-      "일반문 | [기타 부사구] [목적어 수식] [목적어] [어근 + 분사] [주어]": {
-        "Ikkoe amorgan amomtoe tie.": "냉정함 심리학을 이해한 나",
-        "Kie akoe sie aruima tie.": "그것을 먹은 그를 보는 나",
-        "Amorguima mie aroe tie.": "심리학을 배우는 너를 본 나",
-        "Ɣmnexeiso eɣoespən pnəxə wm pnexeiso aɣan tłaki mnano eɣime ax": "생각하는 도구의 약자임, 학습, 추론 능력을 모방하는 컴퓨터 기술임 AI"
-      },
-      "요청문|목적문 | mvrs [부사어 + 분사 + 주어] [목적어 수식] [목적어] li [기타]": {
-        "vlspervot vlspud linot": "당신은 요리해주세요 음식을. 그를 위해"
-      },
-      "이유|피동문 | [주어] [부사어 + 분사 + 주어] [기타 부사구] in[대상]": {
-        "vlscuntac, innot.": "사람이 다침다 현장에서, 때문에 그 "
-      }
-    },
     "의문법": {
       "무엇": {
         "1": "sa [주제] hi? ([주제]는 무엇임가?)",
